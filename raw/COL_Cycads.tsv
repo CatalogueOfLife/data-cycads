@@ -1,0 +1,798 @@
+SPNUMBER	TAXSTAT	SYNOF	SYNCAT	FAMILY	SPECIES	GENUS	SP1	AUTHOR1	RANK1	SP2	AUTHOR2	RANK2	SP3	AUTHOR3	RANK3	SP4	AUTHOR4	CITATION	YEAR	IUCN	COUNTRY
+2	syn	500	hom	Zamiaceae	Aulacophyllum lindenii	Aulacophyllum	lindenii	(Regel ex André) Regel										Gartenflora 25: 141	1876		
+3	syn	516	hom	Zamiaceae	Aulacophyllum montanum	Aulacophyllum	montanum	(A.Braun) Regel										Gartenflora 25: 141	1876		
+4	syn	449	het	Zamiaceae	Aulacophyllum ortgiesii	Aulacophyllum	ortgiesii	Regel										Gartenflora 25: 141	1876		
+5	syn	548	hom	Zamiaceae	Aulacophyllum roezlii	Aulacophyllum	roezlii	(Linden) Regel										Gartenflora 25: 141	1876		
+6	syn	552	hom	Zamiaceae	Aulacophyllum skinneri	Aulacophyllum	skinneri	(Warsz. ex A.Dietr.) Regel										Gartenflora 25: 143	1876		
+7	syn	8	hom	Zamiaceae	Aulacophyllum wallisii	Aulacophyllum	wallisii	(A.Braun) Regel										Gartenflora 25: 143	1876		
+9	acc	0		Zamiaceae	Bowenia serrulata	Bowenia	serrulata	(W.Bull) Chamb.										Bot. Gaz. 54: 419	1912	LC	Australia (Queensland)
+10	acc	0		Zamiaceae	Bowenia spectabilis	Bowenia	spectabilis	Hook. ex Hook.f.										Bot. Mag. 89: t. 5398	1863	LC	Australia (Queensland)
+11	syn	9	het	Zamiaceae	Bowenia spectabilis var. serrata	Bowenia	spectabilis	Hook. ex Hook.f.	var.	serrata	F.M.Bailey							Syn. Queensl. Fl.: 501	1883		
+12	syn	9	bas	Zamiaceae	Bowenia spectabilis var. serrulata	Bowenia	spectabilis	Hook. ex Hook.f.	var.	serrulata	W.Bull							Retail List [Bull] No. 143: 4, t. 5	1878		
+681	syn	10	hom	Zamiaceae	Bowenia spectabilis var. spectabilis	Bowenia	spectabilis	Hook. ex Hook.f.	var.	spectabilis								Retail List [Bull] No. 143: 4	1878		
+14	syn	371	het	Zamiaceae	Catakidozamia hopei	Catakidozamia	hopei	W.Hill										Gard. Chron. 22(47): 1107	1865		
+16	acc	0		Zamiaceae	Ceratozamia alvarezii	Ceratozamia	alvarezii	Pérez-Farr., Vovides & Iglesias										Novon 9(3) 410-413, fig. 1	1999	EN	Mexico (Chiapas)
+17	syn	47	het	Zamiaceae	Ceratozamia becerrae	Ceratozamia	becerrae	Pérez-Farr., Vovides & Schutzman										Bot. J. Linn. Soc. 146(1): 123-128, figs. 1-7	2004	EN	Mexico (Chiapas, Tabasco)
+18	syn	444	bas	Zamiaceae	Ceratozamia boliviana	Ceratozamia	boliviana	Brongn.										Ann. Sci. Nat., Bot. ser. 3, 5: 9	1846		
+19	acc	0		Zamiaceae	Ceratozamia brevifrons	Ceratozamia	brevifrons	Miq.										Tijdschr. Wis- Natuurk. Wetensch. Eerste Kl. Kon. Ned. Inst. Wetensch. 1(1): 41-42	1847	[VU]	Mexico (Veracruz)
+818	acc	0		Zamiaceae	Ceratozamia chamberlainii	Ceratozamia	chamberlainii	Mart.-Domínguez, Nic.-Mor. & D.W.Stev.										Phytotaxa 317(1): 17-28	2017	[NE]	Mexico (Hidalgo, Querétaro, San Luis Potosí)
+20	acc	0		Zamiaceae	Ceratozamia chimalapensis	Ceratozamia	chimalapensis	Pérez-Farr. & Vovides										Bot. J. Linn. Soc. 157(2): 169-175, figs. 1-4	2008	[CR]	Mexico (Oaxaca)
+21	acc	0		Zamiaceae	Ceratozamia decumbens	Ceratozamia	decumbens	Vovides, Avendaño, Pérez-Farr. & Gonz.-Astorga										Novon 18(1): 109-114, fig. 1	2008	[CR]	Mexico (Veracruz)
+632	acc	0		Zamiaceae	Ceratozamia delucana	Ceratozamia	delucana	Vázq.Torres, A.Moretti & Carvajal-Hern.										Delpinoa 50-51: 129-133, figs. 1-5 (2008-2009 issued December 2013)	2013		Mexico (Veracruz)
+22	acc	0		Zamiaceae	Ceratozamia euryphyllidia	Ceratozamia	euryphyllidia	Vázq.Torres, Sabato & D.W.Stev.										Brittonia 38(1): 17-26, figs. 1-5	1986	CR	Mexico (Oaxaca, Veracruz)
+23	inv	0		Zamiaceae	Ceratozamia fuscoviridis	Ceratozamia	fuscoviridis	Moore										Sci. Proc. Royal Dublin Soc., n.s., 2: 112-114	1878		
+374	acc	0		Zamiaceae	Ceratozamia fuscoviridis	Ceratozamia	fuscoviridis	W.Bull										Retail List [Bull] No. 154: 4	1879	CR	Mexico (Hidalgo, Veracruz)
+24	acc	0		Zamiaceae	Ceratozamia hildae	Ceratozamia	hildae	G.P.Landry & M.C.Wilson										Brittonia 31(3): 422-424, fig. 1	1979	EN	Mexico (Querétaro, San Luis Potosí)
+25	acc	0		Zamiaceae	Ceratozamia hondurensis	Ceratozamia	hondurensis	J.L.Haynes, Whitelock, Schutzman & R.S.Adams										Cycad Newslett. 31 (2-3): 16-21, figs. 1-2	2008	[CR]	Honduras (Atlántida)
+26	acc	0		Zamiaceae	Ceratozamia huastecorum	Ceratozamia	huastecorum	Avendaño, Vovides & Cast.-Campos										Bot. J. Linn. Soc. 141(3): 395-398, figs. 1-2	2003	CR	Mexico (Veracruz)
+27	syn	33	het	Zamiaceae	Ceratozamia intermedia	Ceratozamia	intermedia	Miq.										Tijdschr. Wis- Natuurk. Wetensch. Eerste Kl. Kon. Ned. Inst. Wetensch. 1(1): 40-41	1847		
+28	syn	488	bas	Zamiaceae	Ceratozamia katzeriana	Ceratozamia	katzeriana	Regel										Trudy Imp. S.-Peterburgsk. Bot. Sada 4(4): 298	1876		
+29	acc	0		Zamiaceae	Ceratozamia kuesteriana	Ceratozamia	kuesteriana	Regel										Bull. Soc. Imp. Naturalistes Moscou 30(1): 187-188, t. 3, fig. 6; t. 4, fig. 22	1857	CR	Mexico (Tamaulipas)
+30	acc	0		Zamiaceae	Ceratozamia latifolia	Ceratozamia	latifolia	Miq.										Tijdschr. Wis- Natuurk. Wetensch. Eerste Kl. Kon. Ned. Inst. Wetensch. 1(1): 206	1847	EN	Mexico (Hidalgo, Querétaro, San Luis Potosí, Veracruz)
+31	syn	33	het	Zamiaceae	Ceratozamia longifolia	Ceratozamia	longifolia	Miq.										Tijdschr. Wis- Natuurk. Wetensch. Eerste Kl. Kon. Ned. Inst. Wetensch. 1(1): 40	1847		
+32	acc	0		Zamiaceae	Ceratozamia matudae	Ceratozamia	matudae	Lundell										Lloydia 2(2): 75-76	1939	EN	Guatemala (Huehuetenango, San Marcos), Mexico (Chiapas)
+33	acc	0		Zamiaceae	Ceratozamia mexicana	Ceratozamia	mexicana	Brongn.										Ann. Sci. Nat., Bot. ser. 3, 5: 7-8, t.. 1 1	1846	VU	Mexico (?Puebla, Veracruz)
+743	syn	374	hom	Zamiaceae	Ceratozamia mexicana var. longifolia f. fuscoviridis	Ceratozamia	mexicana	Brongn.	var.	longifolia	Miq.	f.	fuscoviridis	(W.Bull) J.Schust.				in Engler, Pflanzenr. 99: 132	1932		
+682	syn	33	hom	Zamiaceae	Ceratozamia mexicana var. mexicana	Ceratozamia	mexicana	Brongn.	var.	mexicana								Biol. Cent.-Amer., Bot. 3: 193	1884		
+585	syn	41	hom	Zamiaceae	Ceratozamia mexicana var. robusta	Ceratozamia	mexicana	Brongn.	var.	robusta	(Miq.) Dyer							Biol. Cent.-Amer., Bot. 3: 193	1884		
+34	syn	793	bas	Zamiaceae	Ceratozamia mexicana var. tenuis	Ceratozamia	mexicana	Brongn.	var.	tenuis	Dyer							Biol. Cent.-Amer., Bot. 3: 193	1884		
+35	acc	0		Zamiaceae	Ceratozamia microstrobila	Ceratozamia	microstrobila	Vovides & J.D.Rees										Madroño 30(1): 39-42	1983	VU	Mexico (San Luis Potosí)
+36	acc	0		Zamiaceae	Ceratozamia miqueliana	Ceratozamia	miqueliana	H.Wendl.										Index Palm.: 68	1854	CR	Mexico (Chiapas, Tabasco, Veracruz)
+37	acc	0		Zamiaceae	Ceratozamia mirandae	Ceratozamia	mirandae	Vovides, Pérez-Farr. & Iglesias										Bot. J. Linn. Soc. 137(1): 81-85, fig. 1-2	2001	EN	Mexico (Chiapas)
+38	acc	0		Zamiaceae	Ceratozamia mixeorum	Ceratozamia	mixeorum	Chemnick, T.J.Greg. & Salas-Mor.										Phytologia 83(1): 47-52 (1997 publ. 1998)	1998	EN	Mexico (Oaxaca)
+39	acc	0		Zamiaceae	Ceratozamia morettii	Ceratozamia	morettii	Vázq.Torres & Vovides										Novon 8(1): 87-90, fig. 1	1998	EN	Mexico (Veracruz)
+40	acc	0		Zamiaceae	Ceratozamia norstogii	Ceratozamia	norstogii	D.W.Stev.										Brittonia 34(2): 181-184, figs. 1-2	1982	EN	Mexico (Chiapas, Oaxaca)
+41	acc	0		Zamiaceae	Ceratozamia robusta	Ceratozamia	robusta	Miq.										Tijdschr. Wis-Natuurk. Wetensch. Eerste Kl. Kon. Ned. Inst. Wetensch. 1(1): 42-43	1847	EN	Belize (Cayo, Stann Creek, Toledo), Guatemala (Alta Verapaz, Petén, Quiché, Huehuetenango, Izabal), Mexico (Chiapas, Oaxaca, Veracruz)
+42	acc	0		Zamiaceae	Ceratozamia sabatoi	Ceratozamia	sabatoi	Vovides, Vázq.Torres, Schutzman & Iglesias										Novon 3(4): 502-504, fig. 1	1993	EN	Mexico (Hidalgo, Querétaro)
+43	acc	0		Zamiaceae	Ceratozamia santillanii	Ceratozamia	santillanii	Pérez-Farr. & Vovides										Syst. Biodivers. 7(4): 433-443, figs. 3, 7	2009	[CR]	Mexico (Chiapas)
+817	acc	0		Zamiaceae	Ceratozamia subroseophylla	Ceratozamia	subroseophylla	Mart.-Domínguez & Nic.-Mor.										Phytotaxa 268(1): 25-45	2016	[NE]	Mexico (Veracruz)
+793	acc	0		Zamiaceae	Ceratozamia tenuis	Ceratozamia	tenuis	(Dyer) D.W.Stev. & Vovides										Bot. Sci. 94(2): 419-429	2016	[NE}	Mexico (Veracruz)
+814	acc	0		Zamiaceae	Ceratozamia totonacorum	Ceratozamia	totonacorum	Mart.-Domínguez & Nic.-Mor.										Brittonia 69(4): 518. [epublished 31 May 2017]	2017	[NE]	Mexico (Puebla)
+44	acc	0		Zamiaceae	Ceratozamia vovidesii	Ceratozamia	vovidesii	Pérez-Farr. & Iglesias										Bot. J. Linn. Soc. 153(4): 393-400, figs. 1-6	2007	VU	Mexico (Chiapas)
+45	acc	0		Zamiaceae	Ceratozamia whitelockiana	Ceratozamia	whitelockiana	Chemnick & T.J.Greg.										Phytologia 79(1): 51-57 (1995 publ. 1996)	1996	EN	Mexico (Oaxaca)
+46	acc	0		Zamiaceae	Ceratozamia zaragozae	Ceratozamia	zaragozae	Medellín										Brittonia 15(2): 175-176, figs. 1-4	1963	CR	Mexico (San Luis Potosí)
+47	acc	0		Zamiaceae	Ceratozamia zoquorum	Ceratozamia	zoquorum	Pérez-Farr., Vovides & Iglesias										Bot. J. Linn. Soc. 137(1): 77-80, fig.1	2001	CR	Mexico (Chiapas, Tabasco)
+49	syn	547	het	Zamiaceae	Chigua bernalii	Chigua	bernalii	D.W.Stev.										Mem. New York Bot. Gard. 57: 169-172, fig. 1i	1990		
+50	syn	547	bas	Zamiaceae	Chigua restrepoi	Chigua	restrepoi	D.W.Stev.										Mem. New York Bot. Gard. 57: 169-172, figs. 1a-h	1990		
+52	acc	0		Cycadaceae	Cycas aculeata	Cycas	aculeata	K.D.Hill & T.H.Nguyên										Bot. Rev. (Lancaster) 70(2): 149-150	2004	VU	Vietnam (Da Nang)
+53	syn	207	het	Cycadaceae	Cycas acuminatissima	Cycas	acuminatissima	Hung T.Chang, Y.C.Zhong & Z.F.Lu										Acta Sci. Nat. Univ. Sunyatseni 37(4): 6	1998		
+54	acc	0		Cycadaceae	Cycas aenigma	Cycas	aenigma	K.D.Hill & A.Lindstr.										Telopea 12(1): 130-132, fig. 3	2008	[DD]	Philippines (Palawan - cult.)
+795	syn	595	het	Cycadaceae	Cycas andamanica	Cycas	andamanica	K.Prassad, M.V.Ramana, Sanjappa & B.R.P.Rao										Int. J. Innov. Sci. Res. 4 (1): 473-476	2015		
+55	acc	0		Cycadaceae	Cycas angulata	Cycas	angulata	R.Br.										Prodr. Fl. Nov. Holland. 1: 348	1810	LC	Australia (Northern Territory, Queensland)
+56	acc	0		Cycadaceae	Cycas annaikalensis	Cycas	annaikalensis	Rita Singh & P.Radha										Brittonia 58(2): 119-123, figs. 1-2	2006	CR	India (Kerala)
+57	acc	0		Cycadaceae	Cycas apoa	Cycas	apoa	K.D.Hill										Austral. Syst. Bot. 7(6): 553-554, fig. 9	1994	NT	Indonesia (Papua), Papua New Guinea (West Sepik, Morobe)
+58	acc	0		Cycadaceae	Cycas arenicola	Cycas	arenicola	K.D.Hill										Telopea 5(2): 419-422	1993	NT	Australia (Northern Territory)
+59	acc	0		Cycadaceae	Cycas armstrongii	Cycas	armstrongii	Miq.										Arch. Néerl. Sci. Exact. Nat. 3: 235-236	1868	VU	Australia (Northern Territory)
+60	acc	0		Cycadaceae	Cycas arnhemica	Cycas	arnhemica	K.D.Hill										Telopea 5(4): 693-696, fig. 1	1994	LC	Australia (Northern Territory)
+574	acc	0		Cycadaceae	Cycas arnhemica subsp. arnhemica	Cycas	arnhemica	K.D.Hill	subsp.	arnhemica								Telopea 7(1): 43-44	1996	LC	Australia (Northern Territory)
+61	acc	0		Cycadaceae	Cycas arnhemica subsp. muninga	Cycas	arnhemica	K.D.Hill	subsp.	muninga	Chirgwin & K.D.Hill							Telopea 7(1): 44-46, fig. 20	1996	LC	Australia (Northern Territory)
+62	acc	0		Cycadaceae	Cycas arnhemica subsp. natja	Cycas	arnhemica	K.D.Hill	subsp.	natja	K.D.Hill							Telopea 7(1): 46-47, fig. 21	1996	LC	Australia (Northern Territory)
+63	acc	0		Cycadaceae	Cycas badensis	Cycas	badensis	K.D.Hill										Telopea 7(1): 20-21, fig. 9	1996	NT	Australia (Queensland [Badu and Moa Islands])
+64	syn	180	het	Cycadaceae	Cycas baguanheensis	Cycas	baguanheensis	L.K.Fu & S.Z.Cheng										Acta Phytotax. Sin. 19(3): 337	1981		
+829	acc	0		Cycadaceae	Cycas baiseensis	Cycas	baiseensis	Y.Y.Huang, Y.C.Zhong & Z.F.Lu										Mem. New York Bot. Gard. 117: 504518	2018	[NE]	China (Guangxi)
+65	acc	0		Cycadaceae	Cycas balansae	Cycas	balansae	Warb.										Monsunia 1: 179	1900	NT	China (Guangxi), Vietnam (Lang Son, Quang Ninh, Thai Nguyen, Vinh Phuc)
+66	acc	0		Cycadaceae	Cycas basaltica	Cycas	basaltica	C.A.Gardner										For. Dep. Bull., W. Austral. 32: 31	1923	LC	Australia (WA)
+67	acc	0		Cycadaceae	Cycas beddomei	Cycas	beddomei	Dyer										Trans. Linn. Soc. London, Bot. 2(5): 85-86, pl. 17	1885	EN	India (Andhra Pradesh)
+68	dub	0		Cycadaceae	Cycas bellefontii	Cycas	bellefontii	L.Linden & Rodigas										Ill. Hort. 33: 27, pl. 586	1886		
+69	acc	0		Cycadaceae	Cycas bifida	Cycas	bifida	(Dyer) K.D.Hill										Bot. Rev. (Lancaster) 70(2): 161-163	2004	VU	China (Guangxi), Vietnam (Cao Bang, Lang Son, Tuyen Quang)
+571	hyb	0		Cycadaceae	Cycas bifida x C. dolichophylla	Cycas	bifida x C. dolichophylla											Telopea 12(1): 104	2008		
+570	hyb	0		Cycadaceae	Cycas bifida x C. multipinnata	Cycas	bifida x C. multipinnata											Telopea 12(1): 104	2008		
+70	acc	0		Cycadaceae	Cycas bougainvilleana	Cycas	bougainvilleana	K.D.Hill										Austral. Syst. Bot. 7(6): 557-560, fig. 11	1994	NT	Papua New Guinea (Bougainville, New Britain), Solomon Islands
+71	acc	0		Cycadaceae	Cycas brachycantha	Cycas	brachycantha	K.D.Hill, T.H.Nguyên & P.K.Lôc										Bot. Rev. (Lancaster) 70(2): 155-157, fig. 6	2004	NT	Vietnam (Bac Kan)
+72	syn	210	het	Cycadaceae	Cycas brevipinnata	Cycas	brevipinnata	Hung T.Chang, Y.Y.Huang & Y.C.Zhong										Acta Sci. Nat. Univ. Sunyatseni 37(4): 8	0		
+73	acc	0		Cycadaceae	Cycas brunnea	Cycas	brunnea	K.D.Hill										Telopea 5(1): 200-201, fig. 15	1992	NT	Australia (Queensland)
+74	syn	280	bas	Cycadaceae	Cycas caffra	Cycas	caffra	Thunb.										Nova Acta Regiae Soc. Sci. Upsal. 2: 283-288, t. 5	1775		
+75	acc	0		Cycadaceae	Cycas cairnsiana	Cycas	cairnsiana	F.Muell.										Fragm. (Mueller) 10(83): 63, 121	1876	VU	Australia (Queensland)
+76	acc	0		Cycadaceae	Cycas calcicola	Cycas	calcicola	Maconochie										J. Adelaide Bot. Gard. 1(3): 175, fig. 1	1978	LC	Australia (Northern Territory)
+77	acc	0		Cycadaceae	Cycas campestris	Cycas	campestris	K.D.Hill										Austral. Syst. Bot. 7(6): 538-540	1994	NT	Papua New Guinea (Central, Gulf)
+79	acc	0		Cycadaceae	Cycas canalis	Cycas	canalis	K.D.Hill										Telopea 5(4): 698-700, fig. 4a-d	1994	LC	Australia (Northern Territory)
+683	syn	79	hom	Cycadaceae	Cycas canalis subsp. canalis	Cycas	canalis	K.D.Hill	subsp.	canalis								Telopea 5(4): 698-700, fig. 4a-d	1994		
+78	syn	79	het	Cycadaceae	Cycas canalis subsp. carinata	Cycas	canalis	K.D.Hill	subsp.	carinata	K.D.Hill							Telopea 5(4) : 699-700, fig. 4e-g	1994		
+80	acc	0		Cycadaceae	Cycas candida	Cycas	candida	K.D.Hill										Telopea 10(2): 607-611, figs. 1-2	2004	EN	Australia (Queensland)
+81	acc	0		Cycadaceae	Cycas cantafolia	Cycas	cantafolia	Jutta, K.L.Chew & Saw										Blumea 55(3): 249-252, figs. 1-2	2010	[CR]	Malaysia (Johor)
+82	syn	197	het	Cycadaceae	Cycas celebica	Cycas	celebica	Miq.										Bull. Sci. Phys. Nat. Néerl. 1839: 45	1839		
+83	acc	0		Cycadaceae	Cycas chamaoensis	Cycas	chamaoensis	K.D.Hill										Brittonia 51(1): 58, fig. 6	1999	CR	Thailand (Chantaburi)
+84	syn	196	het	Cycadaceae	Cycas chamberlainii	Cycas	chamberlainii	W.H.Br. & Kienholz										Philipp. J. Sci. 26: 47-48, pls 1-2, fig. 1	1925		
+85	acc	0		Cycadaceae	Cycas changjiangensis	Cycas	changjiangensis	N.Liu										Acta Phytotax. Sin. 36(6): 552-554, fig. 1	1998	EN	China (Hainan)
+665	acc	0		Cycadaceae	Cycas chenii	Cycas	chenii	X.Gong & Wei Zhou										J. Syst. Evol. 53(6): 497. [epublished 15 Apr 2015]	2015	[EN]	China (Yunnan)
+86	acc	0		Cycadaceae	Cycas chevalieri	Cycas	chevalieri	Leandri										Fl. Indo-Chine 5(10): 1092	1931	NT	Vietnam (Ha Tinh, Nghe An, Quang Binh, Quang Tri)
+87	acc	0		Cycadaceae	Cycas circinalis	Cycas	circinalis	L.										Sp. Pl. 2: 1188	1753	EN	India (Andra Pradesh, Karnataka, Kerala, Maharashtra, Tamil Nadu)
+684	syn	87	hom	Cycadaceae	Cycas circinalis f. circinalis	Cycas	circinalis	L.	f.	circinalis								in Engler, Pflanzenr. 99: 66	1932		
+88	syn	128	hom	Cycadaceae	Cycas circinalis f. glauca	Cycas	circinalis	L.	f.	glauca	(Miq.) J.Schust.							in Engler, Pflanzenr. 99: 66	1932		
+89	dub	0		Cycadaceae	Cycas circinalis f. gothanii	Cycas	circinalis	L.	f.	gothanii	J.Schust.							in Engler, Pflanzenr. 99: 66	1932		
+90	syn	233	hom	Cycadaceae	Cycas circinalis f. undulata	Cycas	circinalis	L.	f.	undulata	(Hort. ex Gaudich.) J.Schust.							in Engler, Pflanzenr. 99: 66	1932		
+685	syn	87	hom	Cycadaceae	Cycas circinalis subsp. circinalis	Cycas	circinalis	L.	subsp.	circinalis								Pflanzenw. Ost-Afrikas 2(1): 82	1908		
+91	sup	158	hom	Cycadaceae	Cycas circinalis subsp. madagascariensis	Cycas	circinalis	L.	subsp.	madagascariensis	(Miq.) J.Schust.							in Engler, Pflanzenr. 99: 73	1932		
+722	inv	91		Cycadaceae	Cycas circinalis subsp. madagascariensis f. madagascariensis	Cycas	circinalis	L.	subsp.	madagascariensis		f.	madagascariensis					in Engler, Pflanzenr. 99: 74	1932		
+92	syn	228	het	Cycadaceae	Cycas circinalis subsp. madagascariensis f. trigonocarpoides	Cycas	circinalis	L.	subsp.	madagascariensis	(Miq.) J.Schust.	f.	trigonocarpoides	J.Schust.				in Engler, Pflanzenr. 99: 74	1932		
+93	syn	181	hom	Cycadaceae	Cycas circinalis subsp. papuana	Cycas	circinalis	L.	subsp.	papuana	(F.Muell.) J.Schust.							in Engler, Pflanzenr. 99: 70	1932		
+723	syn	93	hom	Cycadaceae	Cycas circinalis subsp. papuana var. papuana	Cycas	circinalis	L.	subsp.	papuana		var.	papuana					in Engler, Pflanzenr. 99: 70	1932		
+94	syn	205	hom	Cycadaceae	Cycas circinalis subsp. papuana var. scratchleyana	Cycas	circinalis	L.	subsp.	papuana	(F.Muell.) J.Schust.	var.	scratchleyana	(F.Muell.) J.Schust.				in Engler, Pflanzenr. 99: 70	1932		
+95	syn	196	hom	Cycadaceae	Cycas circinalis subsp. riuminiana	Cycas	circinalis	L.	subsp.	riuminiana	(Porte ex Regel) J.Schust.							in Engler, Pflanzenr. 99: 68	1932		
+96	syn	84	hom	Cycadaceae	Cycas circinalis subsp. riuminiana var. curranii	Cycas	circinalis	L.	subsp.	riuminiana	(Porte ex Regel) J.Schust.	var.	curranii	J.Schust.	f.	chamberlainii	(W.H.Br. & Kienholz) J.Schust.	in Engler, Pflanzenr. 99: 69	1932		
+97	syn	235	hom	Cycadaceae	Cycas circinalis subsp. riuminiana var. curranii	Cycas	circinalis	L.	subsp.	riuminiana	(Porte ex Regel) J.Schust.	var.	curranii	J.Schust.	f.	graminea	J.Schust.	in Engler, Pflanzenr. 99: 69	1932		
+98	syn	115	bas	Cycadaceae	Cycas circinalis subsp. riuminiana var. curranii	Cycas	circinalis	L.	subsp.	riuminiana	(Porte ex Regel) J.Schust.	var.	curranii	J.Schust.				in Engler, Pflanzenr. 99: 69	1932		
+99	syn	120	het	Cycadaceae	Cycas circinalis subsp. riuminiana var. curranii	Cycas	circinalis	L.	subsp.	riuminiana	(Porte ex Regel) J.Schust.	var.	curranii	J.Schust.	f.	maritima	J.Schust.	in Engler, Pflanzenr. 99: 69	1932		
+724	syn	95	hom	Cycadaceae	Cycas circinalis subsp. riuminiana var. riuminiana	Cycas	circinalis	L.	subsp.	riuminiana		var.	riuminiana					in Engler, Pflanzenr. 99: 69	1932		
+100	syn	206	hom	Cycadaceae	Cycas circinalis subsp. seemannii	Cycas	circinalis	L.	subsp.	seemannii	(Regalado) J.Schust.							in Engler, Pflanzenr. 99: 71, 73	1932		
+101	syn	228	hom	Cycadaceae	Cycas circinalis subsp. thouarsii	Cycas	circinalis	L.	subsp.	thouarsii	(R.Br. ex Gaudich.) Engl.							Pflanzenw. Ost-Afrikas 2(1): 82	1908		
+726	syn	87	syn	Cycadaceae	Cycas circinalis subsp. vera	Cycas	circinalis	L.	subsp.	vera	J.Schust.							in Engler, Pflanzenr. 99: 66-67	1932		
+102	syn	67	hom	Cycadaceae	Cycas circinalis subsp. vera var. beddomei	Cycas	circinalis	L.	subsp.	vera	J.Schust.	var.	beddomei	(Dyer) J.Schust.				in Engler, Pflanzenr. 99: 67	1932		
+103	syn	183	hom	Cycadaceae	Cycas circinalis subsp. vera var. pectinata	Cycas	circinalis	L.	subsp.	vera	J.Schust.	var.	pectinata	(Griff.) J.Schust.				in Engler, Pflanzenr. 99: 68	1932		
+725	syn	726	hom	Cycadaceae	Cycas circinalis subsp. vera var. vera	Cycas	circinalis	L.	subsp.	vera		var.	vera					in Engler, Pflanzenr. 99: 67	1932		
+104	syn	87	het	Cycadaceae	Cycas circinalis var. angustifolia	Cycas	circinalis	L.	var.	angustifolia	Miq.							Comm. Phytogr.: 119	1840		
+686	syn	87	hom	Cycadaceae	Cycas circinalis var. circinalis	Cycas	circinalis	L.	var.	circinalis								Comm. Phytogr.: 119	1840		
+105	syn	142	bas	Cycadaceae	Cycas circinalis var. javana	Cycas	circinalis	L.	var.	javana	Miq.							Monogr. Cycad.: 28. t. 1, figs. t, u, t II, fig. e1	1842		
+106	syn	673	bas	Cycadaceae	Cycas circinalis var. orixensis	Cycas	circinalis	L.	var.	orixensis	Haines							Bot. Bihar Orissa 6: 1228	1924		
+107	acc	0		Cycadaceae	Cycas clivicola	Cycas	clivicola	K.D.Hill										Brittonia 51(1): 62-63, fig. 8a-d, g-h	1999	LC	Cambodia, Malaysia (Kedah, Perak, Selangor), Thailand (Chumphon, Narathiwat, Phangnga, Phuket, Prachin Buri, Rayong, Ranong, Trang), Vietnam (An Giang, Kien Giang)
+687	syn	107	hom	Cycadaceae	Cycas clivicola subsp. clivicola	Cycas	clivicola	K.D.Hill	subsp.	clivicola								Brittonia 51(1): 64	1999		
+108	syn	107	het	Cycadaceae	Cycas clivicola subsp. lutea	Cycas	clivicola	K.D.Hill	subsp.	lutea	K.D.Hill							Brittonia 51(1): 64, fig. 8e,f,i	1999		
+109	acc	0		Cycadaceae	Cycas collina	Cycas	collina	K.D.Hill, T.H.Nguyên & P.K.Lôc										Bot. Rev. (Lancaster) 70(2): 142-144, fig. 2	2004	VU	Vietnam (Son La)
+797	syn	228	het	Cycadaceae	Cycas comorensis	Cycas	comorensis	Bruant										Bull. Soc. Bot. France 35: 246	1888		
+110	acc	0		Cycadaceae	Cycas condaoensis	Cycas	condaoensis	K.D.Hill & S.L.Yang										Bot. Rev. (Lancaster) 70(2): 178-179, fig. 14	2004	VU	Vietnam (Ba Ria-Vung Tau)
+111	acc	0		Cycadaceae	Cycas conferta	Cycas	conferta	Chirgwin ex Chirgwin & Wigston										J. Adelaide Bot. Gard. 15(2): 147	1993	NT	Australia (Northern Territory)
+112	acc	0		Cycadaceae	Cycas couttsiana	Cycas	couttsiana	K.D.Hill										Telopea 5(1): 197-198, fig. 13	1992	NT	Australia (Queensland)
+113	syn	207	het	Cycadaceae	Cycas crassipes	Cycas	crassipes	Hung T.Chang, Y.C.Zhong & Z.F.Lu										Acta Sci. Nat. Univ. Sunyatseni 38(3): 121122	1999		
+114	acc	0		Cycadaceae	Cycas cupida	Cycas	cupida	P.I.Forst.										Austrobaileya 6(1): 153, figs. 1-5	2001	VU	Australia (Queensland)
+115	acc	0		Cycadaceae	Cycas curranii	Cycas	curranii	(J.Schust.) K.D.Hill										Proc. Third Int. Conf. Cycad Biol.: 150	1995	CR	Philippines (Palawan)
+792	dub	0		Cycadaceae	Cycas darshii	Cycas	darshii	R.C.Srivast. & Jana										Indian J. Pl. Sci. [Jaipur] 3(2): 151-153, t. II	2014		
+116	acc	0		Cycadaceae	Cycas debaoensis	Cycas	debaoensis	Y.C.Zhong & C.J.Chen										Acta Phytotax. Sin. 35(6): 571	1997	CR	China (Guangxi)
+117	acc	0		Cycadaceae	Cycas desolata	Cycas	desolata	P.I.Forst.										Austrobaileya 4(3): 345-352, figs. 1-5	1995	VU	Australia (Queensland)
+812	syn	595	het	Cycadaceae	Cycas dharmrajii	Cycas	dharmrajii	L.J.Singh										Nordic J. Bot. 35(1): 6976. doi:10.1111/njb.01284	2017		
+118	acc	0		Cycadaceae	Cycas diannanensis	Cycas	diannanensis	Z.T.Guan & G.D.Tao										Sichuan Forest. Surv. Design 1995(4): 1	1995	VU	China (Yunnan), ?N Vietnam
+820	acc	0		Cycadaceae	Cycas distans	Cycas	distans	P.I.Forst. & B.Gray										Austrobaileya 10(1): 74-84	2017	[NE]	Australia (Qld)
+119	acc	0		Cycadaceae	Cycas dolichophylla	Cycas	dolichophylla	K.D.Hill, T.H.Nguyên & P.K.Lôc										Bot. Rev. (Lancaster) 70(2): 157-160, fig. 7	2004	NT	China (Guangxi, Yunnan), ?Laos, Vietnam (Bac Kan, Cao Bang, Ha Giang, Hoa Binh, Lai Chau, Lao Cai, Ninh Binh, Son La, Thai Nguyen, Thanh Hoa, Tuyen Quang)
+120	acc	0		Cycadaceae	Cycas edentata	Cycas	edentata	de Laub.										Blumea 43(2): 372	1998	NT	"Indonesia (Bali, Bengkulu, Jawa
+Barat, Jawa Tengah, Jawa Timur,
+Lampung, Riau, Sumatra Utara),
+Malaysia (Johore, Langkawi,
+Malacca, Pahang, Perak, Sabah,
+Sarawak, Terengganu), Myanmar,
+Philippines (Balabac, Basilan,
+Cebu, Masbate, Mindanao,
+Mindoro, Negros, Palawan, Panay,
+Polillo), Singapore (Changi), Thailand
+(Chumphon, Narathiwat,
+Phang Nga, Phu Ket, Satun, Trang,
+Trat), Vietnam (Kien Giang)"
+121	acc	0		Cycadaceae	Cycas elephantipes	Cycas	elephantipes	A.Lindstr. & K.D.Hill										Brittonia 54(4): 301, fig. 3 (2002 publ. 2003)	2003	EN	Thailand (Chaiyaphum)
+122	acc	0		Cycadaceae	Cycas elongata	Cycas	elongata	(Leandri) D.Yue Wang										Cycads China: 51	1996	EN	Vietnam (Binh Dinh, Khanh Hoa, Ninh Thuan, Phu Yen, Quang Ngai)
+123	acc	0		Cycadaceae	Cycas fairylakea	Cycas	fairylakea	D.Yue Wang										Cycads China: 54	1996	[EN]	China (Guangdong)
+124	acc	0		Cycadaceae	Cycas falcata	Cycas	falcata	K.D.Hill										Kew Bull. 54(1): 209	1999	VU	Indonesia (Sulawesi Selatan, Sulawesi Tenggara)
+125	acc	0		Cycadaceae	Cycas ferruginea	Cycas	ferruginea	F.N.Wei										Guihaia 14(4): 300, fig. 1	1994	NT	China (Guangxi), Vietnam (Lang Son, Thai Nguyen)
+126	acc	0		Cycadaceae	Cycas fugax	Cycas	fugax	K.D.Hill, T.H.Nguyên & P.K.Lôc										Bot. Rev. (Lancaster) 70(2): 145-146, figs. 2-3	2004	CR	Vietnam (Phu Tho)
+127	acc	0		Cycadaceae	Cycas furfuracea	Cycas	furfuracea	W.Fitzg.										J. Proc. Roy. Soc. Western Australia 3: 108	1918	LC	Australia (WA)
+128	acc	0		Cycadaceae	Cycas glauca	Cycas	glauca	Hort. ex Miq.										Comm. Phytogr.: 127	1840	[VU]	East Timor, Indonesia (Nusa Tenggara Timur [Sumba Barat, Sumba Timur, Timur Barat])
+129	syn	576	het	Cycadaceae	Cycas gracilis	Cycas	gracilis	Miq.										Verslagen Meded. Afd. Natuurk. Kon. Akad. Wetensch. 15: 366-367	1863		
+132	sup	0		Cycadaceae	Cycas gracilis	Cycas	gracilis	Y.Y.Huang, Y.C.Zhong & Z.F.Lu										J. Pl. Genet. Resources 9(4): 525-527	2008		
+130	syn	576	het	Cycadaceae	Cycas gracilis var. glauca	Cycas	gracilis	Miq.	var.	glauca	Regel							Trudy Imp. S.-Peterburgsk. Bot. Sada 4(4): 282	1876		
+688	syn	129	hom	Cycadaceae	Cycas gracilis var. gracilis	Cycas	gracilis	Miq.	var.	gracilis								Trudy Imp. S.-Peterburgsk. Bot. Sada 4(4): 282	1876		
+131	syn	576	het	Cycadaceae	Cycas gracilis var. viridis	Cycas	gracilis	Miq.	var.	viridis	Regel							Trudy Imp. S.-Peterburgsk. Bot. Sada 4(4): 282	1876		
+133	acc	0		Cycadaceae	Cycas guizhouensis	Cycas	guizhouensis	K.M.Lan & R.F.Zou										Acta Phytotax. Sin. 21(2): 209-210	1983	VU	China (Guangxi, Guizhou, Yunnan)
+134	acc	0		Cycadaceae	Cycas hainanensis	Cycas	hainanensis	C.J.Chen										Acta Phytotax. Sin. 13(4): 82, t. 2, figs. 5-6	1975	EN	China (Hainan)
+135	syn	85	het	Cycadaceae	Cycas hainanensis subsp. changjiangensis	Cycas	hainanensis	C.J.Chen	subsp.	changjiangensis	(N.Liu) N.Liu							Proc. Sixth Int. Conf. Cycad Biol.: 3	2004		
+689	syn	134	hom	Cycadaceae	Cycas hainanensis subsp. hainanensis	Cycas	hainanensis	C.J.Chen	subsp.	hainanensis								Proc. Sixth Int. Conf. Cycad Biol.: 3	2004		
+136	acc	0		Cycadaceae	Cycas hoabinhensis	Cycas	hoabinhensis	P.K.Lôc & T.H.Nguyên										Bot. Rev. (Lancaster) 70(2): 153-155, fig. 5	2004	EN	Vietnam (Ha Nam, Ha Tay, Hoa Binh, Ninh Binh)
+137	acc	0		Cycadaceae	Cycas hongheensis	Cycas	hongheensis	S.Y.Yang & S.L.Yang ex D.Yue Wang										Cycads China: 62	1996	CR	China (Yunnan)
+138	dub	0		Cycadaceae	Cycas hypoleuca	Cycas	hypoleuca	C.Presl.										Epimel. Bot.: 238	1849		
+139	syn	213	het	Cycadaceae	Cycas immersa	Cycas	immersa	Craib										Bull. Misc. Inform. Kew 1912(10): 434-435	1912		
+140	acc	0		Cycadaceae	Cycas indica	Cycas	indica	A.Lindstr. & K.D.Hill										Telopea 11(4): 481-483, fig. 3	2007	[DD]	India (Karnataka)
+141	acc	0		Cycadaceae	Cycas inermis	Cycas	inermis	Lour.										Fl. Cochinch. 2: 632	1793	VU	Laos (Khammouan), Vietnam (Da Nang, Dong Nai, Khanh Hoa, Quang Nam)
+142	acc	0		Cycadaceae	Cycas javana	Cycas	javana	(Miq.) de Laub.										Cycads China: 65	1996	EN	Indonesia (Jawa Barat, Jawa Tengah, Jawa Timur)
+143	syn	183	het	Cycadaceae	Cycas jenkinsiana	Cycas	jenkinsiana	Griff.										Not. Pl. Asiat. 4: 9-10, pl. 360, figs. 1-2, pl. 362, fig. 1	1854		
+144	syn	576	het	Cycadaceae	Cycas kennedyana	Cycas	kennedyana	F.Muell.										Australas. Chem. Druggist: 16	1882		
+145	acc	0		Cycadaceae	Cycas lacrimans	Cycas	lacrimans	A.Lindstr. & K.D.Hill										Telopea 12(1): 136-138, fig. 5	2008	[EN]	Philippines (Davao Oriental)
+146	acc	0		Cycadaceae	Cycas lane-poolei	Cycas	lane-poolei	C.A.Gardner										For. Dep. Bull., W. Austral. 32: 30-32, fig. e	1923	LC	Australia (WA)
+653	acc	0		Cycadaceae	Cycas laotica	Cycas	laotica	Aver., T.H.Nguyên & S.K.Nguyên										Nordic J. Bot. [epublished 10 Sep 2014, DOI: 10.1111/njb.00498]	2014		Laos (Khammouan)
+147	acc	0		Cycadaceae	Cycas lindstromii	Cycas	lindstromii	S.L.Yang, K.D.Hill & T.H.Nguyên										Novon 7(2): 213-215, fig. 1	1997	EN	Vietnam (Ba Ria-Vung Tau, Binh Thuan, Khanh Hoa, Ninh Thuan)
+148	syn	134	het	Cycadaceae	Cycas lingshuiensis	Cycas	lingshuiensis	G.A.Fu										Bull. Bot. Res., Harbin 24(4): 387-388	2004		
+149	syn	120	het	Cycadaceae	Cycas litoralis	Cycas	litoralis	K.D.Hill										Brittonia 51(1): 70-72, fig. 11	1999		
+150	syn	207	het	Cycadaceae	Cycas longiconifera	Cycas	longiconifera	Hung T.Chang, Y.C.Zhong & Y.Y.Huang										Acta Sci. Nat. Univ. Sunyatseni 37(4): 6	1998		
+151	syn	570	het	Cycadaceae	Cycas longipetiolula	Cycas	longipetiolula	D.Yue Wang										Cycads China: 68	1996		
+152	syn	210	het	Cycadaceae	Cycas longisporophylla	Cycas	longisporophylla	F.N.Wei										Guihaia 17(3): 209	1997		
+153	syn	133	het	Cycadaceae	Cycas longlinensis	Cycas	longlinensis	Hung T.Chang & Y.C.Zhong										Acta Sci. Nat. Univ. Sunyatseni 36(3): 68	1997		
+154	acc	0		Cycadaceae	Cycas maconochiei	Cycas	maconochiei	Chirgwin & K.D.Hill										Telopea 7(1): 48-49, fig. 22	1996	LC	Australia (Northern Territory)
+155	acc	0		Cycadaceae	Cycas maconochiei subsp. lanata	Cycas	maconochiei	Chirgwin & K.D.Hill	subsp.	lanata	K.D.Hill							Telopea 7(1): 49-51	1996	LC	Australia (Northern Territory)
+575	acc	0		Cycadaceae	Cycas maconochiei subsp. maconochiei	Cycas	maconochiei	Chirgwin & K.D.Hill	subsp.	maconochiei								Telopea 7(1): 48-49, fig. 22	1996	NT	Australia (Northern Territory)
+156	acc	0		Cycadaceae	Cycas maconochiei subsp. viridis	Cycas	maconochiei	Chirgwin & K.D.Hill	subsp.	viridis	K.D.Hill							Telopea 7(1) : 51-52, fig. 23	1996	LC	Australia (Northern Territory)
+157	acc	0		Cycadaceae	Cycas macrocarpa	Cycas	macrocarpa	Griff.										Not. Pl. Asiat. 4: 11-14, pl. 362, fig. 2	1854	VU	Laos (Vientiane), Malaysia (Kelantan, Pahang, Terengganu), Thailand (Chantaburi, Chumphon, Narathiwat, Ranong)
+158	syn	228	het	Cycadaceae	Cycas madagascariensis	Cycas	madagascariensis	Miq.										Comm. Phytogr.: 127	1840		
+159	acc	0		Cycadaceae	Cycas media	Cycas	media	R.Br.										Prodr. Fl. Nov. Holland. 1: 348	1810	LC	Australia (Queensland)
+160	acc	0		Cycadaceae	Cycas media subsp. banksii	Cycas	media	R.Br.	subsp.	banksii	K.D.Hill							Telopea 7(1): 15-16	1996		Australia (Queensland)
+161	acc	0		Cycadaceae	Cycas media subsp. ensata	Cycas	media	R.Br.	subsp.	ensata	K.D.Hill							Telopea 7(1): 14-15, fig. 6	1996		Australia (Queensland)
+576	acc	159		Cycadaceae	Cycas media subsp. media	Cycas	media	R.Br.	subsp.	media								Telopea 7(1): 12-14, fig. 5	1996		Australia (Queensland)
+800	syn	66	bas	Cycadaceae	Cycas media var. basaltica	Cycas	media	R.Br.	var.	basaltica	(C.A.Gardner) J.Schust.							in Engler, Pflanzenr. 99: 78	1932		
+801	syn	127	bas	Cycadaceae	Cycas media var. furfuracea	Cycas	media	R.Br.	var.	furfuracea	(W.Fitzg.) J.Schust.							in Engler, Pflanzenr. 99: 78	1932		
+798	syn	146	bas	Cycadaceae	Cycas media var. lanepoolei	Cycas	media	R.Br.	var.	lanepoolei	(C.A.Gardner) J.Schust.							in Engler, Pflanzenr. 99: 78	1932		
+572	hyb	0		Cycadaceae	Cycas media x C. ophiolitica	Cycas	media x C. ophiolitica											Telopea 7(1): 3	1996		
+162	acc	0		Cycadaceae	Cycas megacarpa	Cycas	megacarpa	K.D.Hill										Telopea 5(1): 188-189, fig. 5	1992	VU	Australia (Queensland)
+163	acc	0		Cycadaceae	Cycas micholitzii	Cycas	micholitzii	Dyer										Gard. Chron., ser. 3 38: 142-144, figs. 48-49	1905	VU	Laos (Champasak, Saravan), Vietnam (Dac Lak, Gia Lai, Kon Tum)
+690	syn	163	hom	Cycadaceae	Cycas micholitzii var. micholitzii	Cycas	micholitzii	Dyer	var.	micholitzii								Nat. Hist. Bull. Siam Soc. 24: 164	1971		
+164	syn	216	bas	Cycadaceae	Cycas micholitzii var. simplicipinna	Cycas	micholitzii	Dyer	var.	simplicipinna	Smitinand							Nat. Hist. Bull. Siam Soc. 24: 164, figs. 2-3, 4f	1971		
+165	acc	0		Cycadaceae	Cycas micronesica	Cycas	micronesica	K.D.Hill										Austral. Syst. Bot. 7(6): 554-556, fig. 10	1994	EN	Guam, Micronesia (Yap), Northern Mariana Islands (Rota), Palau
+166	syn	191	het	Cycadaceae	Cycas miquelii	Cycas	miquelii	Warb.										Monsunia 1: 179, 181	1900		
+167	acc	0		Cycadaceae	Cycas montana	Cycas	montana	A.Lindstr. & K.D.Hill										Telopea 12(3): 396-397, fig. 3	2009	[NT]	Indonesia (Nusa Tenggara Timur)
+168	syn	207	het	Cycadaceae	Cycas multifida	Cycas	multifida	Hung T.Chang & Y.C.Zhong										Acta Sci. Nat. Univ. Sunyatseni 36(3): 70	1997		
+169	acc	0		Cycadaceae	Cycas multifrondis	Cycas	multifrondis	D.Yue Wang										Cycads China: 80	1996	[EN]	China (Yunnan)
+171	syn	118	het	Cycadaceae	Cycas multiovula	Cycas	multiovula	D.Yue Wang										Cycads China: 83	1996		
+170	acc	0		Cycadaceae	Cycas multipinnata	Cycas	multipinnata	C.J.Chen & S.Y.Yang										Acta Phytotax. Sin. 32(3): 239, 480-481	1994	EN	China (Yunnan), Vietnam (Yen Bai)
+172	acc	0		Cycadaceae	Cycas nathorstii	Cycas	nathorstii	J.Schust.										in Engler, Pflanzenr. 99: 76, fig. 10e	1932	VU	India (Tamil Nadu), N Sri Lanka
+674	acc	0		Cycadaceae	Cycas nayagarhensis	Cycas	nayagarhensis	Rita Singh, P.Radha & Khuraijam										Asian J. Conservation Biol. 4(1): 3-14, figs. 4-6	2015	[CR]	India (Odisha)
+173	acc	0		Cycadaceae	Cycas nitida	Cycas	nitida	K.D.Hill & A.Lindstr.										Telopea 12(1): 142-143, fig. 6	2008	[NT]	Philippines (Albay, Cagayan, Quezon, Northern Samar)
+174	acc	0		Cycadaceae	Cycas nongnoochiae	Cycas	nongnoochiae	K.D.Hill										Brittonia 51(1): 60-62, fig. 7	1999	VU	Laos (Vientiane), Thailand (Nakhon Sawan)
+175	syn	576	het	Cycadaceae	Cycas normanbyana	Cycas	normanbyana	F.Muell.										Fragm. (Mueller) 8(66): 169-171, Icon. 65-66	1874		
+176	acc	0		Cycadaceae	Cycas ophiolitica	Cycas	ophiolitica	K.D.Hill										Telopea 5(1): 190-191, fig. 7	1992	VU	Australia (Queensland)
+177	acc	0		Cycadaceae	Cycas orientis	Cycas	orientis	K.D.Hill										Telopea 5(4): 696-697, fig. 3	1994	LC	Australia (Northern Territory)
+673	acc	0		Cycadaceae	Cycas orixensis	Cycas	orixensis	(Haines) Rita Singh & Khuraijam										Asian J. Conservation Biol. 4(1): 3-14, figs. 1-3	2015	[EN]	India (Odisha)
+178	acc	0		Cycadaceae	Cycas pachypoda	Cycas	pachypoda	K.D.Hill										Bot. Rev. (Lancaster) 70(2): 176-178, fig. 13	2004	CR	Vietnam (Binh Thuan, Ninh Thuan)
+179	syn	65	het	Cycadaceae	Cycas palmatifida	Cycas	palmatifida	Hung T.Chang, Y.Y.Huang & Y.C.Zhong										Acta Sci. Nat. Univ. Sunyatseni 37(4): 7	1998		
+180	acc	0		Cycadaceae	Cycas panzhihuaensis	Cycas	panzhihuaensis	L.Zhou & S.Y.Yang										Acta Phytotax. Sin. 19(3): 335, t. 10, figs. 1-6; t. 11, figs. 1-10	1981	VU	China (Sichuan, Yunnan)
+181	acc	0		Cycadaceae	Cycas papuana	Cycas	papuana	F.Muell.										Descr. Notes Papuan Pl. 4: 71-72	1876	NT	Indonesia (Papua), Papua New Guinea (Western)
+182	syn	118	het	Cycadaceae	Cycas parvula	Cycas	parvula	S.L.Yang										Cycads China: 93	1996		
+183	acc	0		Cycadaceae	Cycas pectinata	Cycas	pectinata	Buch.-Ham.										Mem. Wern. Nat. Hist. Soc. 5(2): 322-323	1826	VU	Bangladesh, Bhutan, China (Yunnan), India (Assam, Manipur, Meghalaya, Sikkim, West Bengal), Laos, Myanmar, Nepal, Thailand (Chiang Mai, Kanchanaburi, Mae Hong Son, Phetchabun, Phrae, Sukhothai), Vietnam (Binh Dinh, Gia Lai, Kon Tum, Lam Dong, Ninh Thuan, Phu Yen, Quang Nam, Quang Ngai)
+185	syn	118	het	Cycadaceae	Cycas pectinata subsp. manhaoensis	Cycas	pectinata	Buch.-Ham.	subsp.	manhaoensis	C.J.Chen & P.Yun							Acta Bot. Yunnan. 17(4): 400	1995		
+184	syn	122	bas	Cycadaceae	Cycas pectinata var. elongata	Cycas	pectinata	Buch.-Ham.	var.	elongata	Leandri							Fl. Indo-Chine 5(10): 1091	1931		
+691	syn	183	hom	Cycadaceae	Cycas pectinata var. pectinata	Cycas	pectinata	Buch.-Ham.	var.	pectinata								Fl. Indo-Chine 5(10): 1091	1931		
+186	acc	0		Cycadaceae	Cycas petraea	Cycas	petraea	A.Lindstr. & K.D.Hill										Brittonia 54(4): 299, fig. 1 (2002 publ. 2003)	2003	NT	Laos (Vientiane),Thailand (Loei)
+187	acc	0		Cycadaceae	Cycas platyphylla	Cycas	platyphylla	K.D.Hill										Telopea 5(1): 193-194, fig. 9	1992	EN	Australia (Queensland)
+188	acc	0		Cycadaceae	Cycas pranburiensis	Cycas	pranburiensis	S.L.Yang, W.Tang, K.D.Hill & Vatch.										Brittonia 51(1): 44-47, fig. 1	1999	VU	Thailand (Prachuap Khiri Khan)
+189	acc	0		Cycadaceae	Cycas pruinosa	Cycas	pruinosa	Maconochie										J. Adelaide Bot. Gard. 1(3): 177-178, fig. 2	1978	LC	Australia (Northern Territory, WA)
+794	syn	595	het	Cycadaceae	Cycas pschannae	Cycas	pschannae	R.C.Srivast. & L.J.Singh										Int. J. Curr. Res. Biosci. Plant Biol. 2 (8): 35-37	2015		
+190	dub	0		Cycadaceae	Cycas pygmaea	Cycas	pygmaea	Blume										Rumphia 4: 16	1848		
+191	acc	0		Cycadaceae	Cycas revoluta	Cycas	revoluta	Thunb.										Verh. Holl. Maatsch Weetensch. Haarlem 20(2): 424, 426-427	1782	LC	China (Fujian), Japan (Ryukyu Islands)
+192	syn	191	het	Cycadaceae	Cycas revoluta var. brevifrons	Cycas	revoluta	Thunb.	var.	brevifrons	Miq.							Tijdschr. Wis- Natuurk. Wetensch. Eerste Kl. Kon. Ned. Inst. Wetensch. 1(1): 207	1847		
+193	syn	191	het	Cycadaceae	Cycas revoluta var. planifolia	Cycas	revoluta	Thunb.	var.	planifolia	Miq.							Monogr. Cycad.: 2526	1842		
+194	syn	191	het	Cycadaceae	Cycas revoluta var. prolifera	Cycas	revoluta	Thunb.	var.	prolifera	Siebold & Zucc.							Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. 14(3): 236	1846		
+692	syn	191	hom	Cycadaceae	Cycas revoluta var. revoluta	Cycas	revoluta	Thunb.	var.	revoluta								Monogr. Cycad.: 2526	1842		
+195	syn	191	het	Cycadaceae	Cycas revoluta var. robusta	Cycas	revoluta	Thunb.	var.	robusta	Messeri							Nuovo Giorn. Bot. Ital., n.s., 34: 324, 327	1927		
+741	syn	224	hom	Cycadaceae	Cycas revoluta var. taiwaniana	Cycas	revoluta	Thunb.	var.	taiwaniana	(Carruth.) J.Schust.							in Engler, Pflanzenr. 99: 84	1932		
+196	acc	0		Cycadaceae	Cycas riuminiana	Cycas	riuminiana	Porte ex Regel										Gartenflora 12: 16-17	1863	EN	Philippines (Bataan, Batanes, Batangas, Cagayan, Cavite, Isabela, Laguna, Pampanga)
+197	acc	0		Cycadaceae	Cycas rumphii	Cycas	rumphii	Miq.										Bull. Sci. Phys. Nat. Néerl. 2: 45	1839	NT	Australia (Ashmore Reef, Christmas Island) Indonesia (Jawa Timur, Kalimantan Barat, Maluku, Papua, Sulawesi Utara, Sulawesi Tengah, Sulawesi Selatan, West Papu), Papua New Guinea (West Sepik).
+693	syn	197	hom	Cycadaceae	Cycas rumphii f. rumphii	Cycas	rumphii	Miq.	f.	rumphii								J. Jap. Bot. 14(9): 587	1938		
+198	syn	233	hom	Cycadaceae	Cycas rumphii f. undulata	Cycas	rumphii	Miq.	f.	undulata	(Desf. ex Gaudich.) Kaneh.							J. Jap. Bot. 14(9): 587	1938		
+799	syn	175	hom	Cycadaceae	Cycas rumphii subsp. normanbyana	Cycas	rumphii	Miq.	subsp.	normanbyana	(F.Muell.) J.Schust.							in Engler, Pflanzenr. 99: 75	1932		
+694	syn	197	hom	Cycadaceae	Cycas rumphii subsp. rumphii	Cycas	rumphii	Miq.	subsp.	rumphii								in Engler, Pflanzenr. 99: 75	1932		
+199	syn	241	bas	Cycadaceae	Cycas rumphii subsp. zeylanica	Cycas	rumphii	Miq.	subsp.	zeylanica	J.Schust.							in Engler, Pflanzenr. 99: 75, figs. 10c-d, 11m	1932		
+200	syn	69	bas	Cycadaceae	Cycas rumphii var. bifida	Cycas	rumphii	Miq.	var.	bifida	Dyer							J. Linn. Soc., Bot. 26: 560	1902		
+695	syn	197	hom	Cycadaceae	Cycas rumphii var. rumphii	Cycas	rumphii	Miq.	var.	rumphii								Comm. Phytogr.: 125-126	1840		
+802	syn	206	hom	Cycadaceae	Cycas rumphii var. seemannii	Cycas	rumphii	Miq.	var.	seemannii	(Regalado) Parham							Agric. J. (Suva) 19: 94, f. 7	1948		
+201	syn	128	het	Cycadaceae	Cycas rumphii var. timorensis	Cycas	rumphii	Miq.	var.	timorensis	Miq.							Comm. Phytogr.: 125-126	1840		
+595	acc	0		Cycadaceae	Cycas sainathii	Cycas	sainathii	R.C.Srivast.										Indian J. Pl. Sci. [Jaipur] 3(1): 109-110, pl. 1	2014	[CR]	India (Andaman and Nicobar Islands Territory)
+202	acc	0		Cycadaceae	Cycas sancti-lasallei	Cycas	sancti-lasallei	Agoo & Madulid										Blumea 57(2): 131	2012	[CR]	Philippines (Misamis Oriental)
+203	acc	0		Cycadaceae	Cycas saxatilis	Cycas	saxatilis	K.D.Hill & A.Lindstr.										Telopea 12(1): 128-129, fig. 2	2008	VU	Philippines (Palawan)
+204	acc	0		Cycadaceae	Cycas schumanniana	Cycas	schumanniana	Lauterb.										Fl. Schutzgeb. Südsee: 154-155	1900	NT	Papua New Guinea (Eastern Highlands, Madang, Morobe)
+205	acc	0		Cycadaceae	Cycas scratchleyana	Cycas	scratchleyana	F.Muell.										Vict. Naturalist 2(2): 18-19	1885	NT	Australia (Queensland [Murray Island]), Indonesia (Papua, Maluku, Papua Barat), Papua New Guinea (Central, Gulf, Milne Bay, Western)
+206	acc	0		Cycadaceae	Cycas seemannii	Cycas	seemannii	Braun										Sitzungsber. Ges. Naturf. Freunde Berlin: 114-115	1876	VU	Fiji, New Caledonia, Tonga, Vanuatu
+207	acc	0		Cycadaceae	Cycas segmentifida	Cycas	segmentifida	D.Yue Wang & C.Y.Deng										Encephalartos 43: 11-14	1995	VU	China (Guangxi, Guizhou, Yunnan), ?N Vietnam
+208	acc	0		Cycadaceae	Cycas semota	Cycas	semota	K.D.Hill										Telopea 7(1): 23-26, fig. 11	1996	VU	Australia (Queensland)
+209	syn	210	het	Cycadaceae	Cycas septemsperma	Cycas	septemsperma	Hung T.Chang, Y.Y.Huang & H.X.Zheng										Acta Sci. Nat. Univ. Sunyatseni 37(4): 8	1998		
+815	acc	0		Cycadaceae	Cycas seshachalamensis	Cycas	seshachalamensis	P.V.C.Rao, N.V.S.Prasad, P.M.Babu, K.Prassad & Prasanna										Asian J. Conservation Biol. 5(1): 55-58, figs. 1-2	2016	[CR]	India (Andhra Pradesh)
+210	acc	0		Cycadaceae	Cycas sexseminifera	Cycas	sexseminifera	F.N.Wei										Guihaia 16(1): 1	1996	NT	China (Guangxi), Vietnam (Cao Bang, Ninh Binh, Thanh Hoa)
+211	syn	134	het	Cycadaceae	Cycas shanyaensis	Cycas	shanyaensis	G.A.Fu										Bull. Bot. Res., Harbin 26(1): 2-3, fig. 1	2006		China (Hainan Island)
+212	syn	65	het	Cycadaceae	Cycas shiwandashanica	Cycas	shiwandashanica	Hung T.Chang & Y.C.Zhong										Chin. Bull. Bot. 12: 12	1995		
+213	acc	0		Cycadaceae	Cycas siamensis	Cycas	siamensis	Miq.										Bot. Zeitung (Berlin) 21: 334	1863	VU	Cambodia, Laos (Champasak, Saravan), Myanmar, Thailand (Chachoengsao, Chaiyaphum, Chon Buri, Kanchanaburi, Lampang, Nakhon Ratchasima, Phetchabun, Ratchaburi, Sakon Nakhon, Tak, Uthai Thani, Uttaridit), Vietnam (Dac Lak, Gia Lai, Kon Tum, Nghe An, Tha
+214	syn	65	hom	Cycadaceae	Cycas siamensis subsp. balansae	Cycas	siamensis	Miq.	subsp.	balansae	(Warb.) J.Schust.							in Engler, Pflanzenr. 99: 81	1932		
+696	syn	213	hom	Cycadaceae	Cycas siamensis subsp. siamensis	Cycas	siamensis	Miq.	subsp.	siamensis								in Engler, Pflanzenr. 99: 81	1932		
+215	acc	0		Cycadaceae	Cycas silvestris	Cycas	silvestris	K.D.Hill										Telopea 5(1): 181-182, fig. 1	1992	VU	Australia (Queensland)
+216	acc	0		Cycadaceae	Cycas simplicipinna	Cycas	simplicipinna	(Smitinand) K.D.Hill										Proc. Third Int. Conf. Cycad Biol.: 150	1995	NT	China (Yunnan), Laos (Saravan), ?Myanmar, Thailand (Chiang Mai, Loei, Mae Hong Song, Phrae), Vietnam (Quang Tri)
+217	acc	0		Cycadaceae	Cycas sphaerica	Cycas	sphaerica	Roxb.										Fl. Ind. (Roxburgh) 3: 747	1832	DD	India (Andhra Pradesh, Karnataka, Odisha, Tamil Nadu)
+218	syn	210	het	Cycadaceae	Cycas spiniformis	Cycas	spiniformis	J.Y.Liang										Guihaia 17(3): 211	1997		
+796	inv	0		Cycadaceae	Cycas squarrosa	Cycas	squarrosa	Lodd. ex G.Don										Hort. Brit. [Loudon]: 403	1830		
+219	acc	0		Cycadaceae	Cycas sundaica	Cycas	sundaica	Miq. ex A.Lindstr. & K.D.Hill										Telopea 12(3): 408-410, fig. 6	2009	[LC]	Indonesia (Nusa Tenggara Timur)
+220	syn	140	het	Cycadaceae	Cycas swamyi	Cycas	swamyi	Rita Singh & P.Radha										Bot. J. Linn. Soc. 158(3): 430-435	2008		
+221	acc	0		Cycadaceae	Cycas szechuanensis	Cycas	szechuanensis	W.C.Cheng & L.K.Fu										Acta Phytotax. Sin. 13(4): 81, t. 1, figs. 7-8	1975	CR	China (Fujian)
+222	syn	123	hom	Cycadaceae	Cycas szechuanensis subsp. fairylakea	Cycas	szechuanensis	W.C.Cheng & L.K.Fu	subsp.	fairylakea	(D.Yue Wang) N.Liu							Proc. Sixth Int. Conf. Cycad Biol.: 2	2004		
+577	syn	221	hom	Cycadaceae	Cycas szechuanensis subsp. szechuanensis	Cycas	szechuanensis	W.C.Cheng & L.K.Fu	subsp.	szechuanensis								Proc. Sixth Int. Conf. Cycad Biol.: 1-4	2004		China (Fujian)
+223	acc	0		Cycadaceae	Cycas taitungensis	Cycas	taitungensis	C.F.Shen, K.D.Hill, C.H.Tsou & C.J.Chen										Bot. Bull. Acad. Sin. 35(2): 135-138	1994	EN	China (Taiwan)
+224	acc	0		Cycadaceae	Cycas taiwaniana	Cycas	taiwaniana	Carruth.										J. Bot. 31: 1-3, pl. 331	1893	EN	China (Fujian, Guangdong)
+225	acc	0		Cycadaceae	Cycas tanqingii	Cycas	tanqingii	D.Yue Wang										Cycads China: 134, fig. 4	1996	NT	China (Yunnan), ?Vietnam (Lai Chau)
+226	acc	0		Cycadaceae	Cycas tansachana	Cycas	tansachana	K.D.Hill & S.L.Yang										Brittonia 51(1): 65-66	1999	CR	Thailand (Saraburi)
+227	acc	0		Cycadaceae	Cycas terryana	Cycas	terryana	P.I.Forst.										Austrobaileya 8(3): 356-363, t.1, figs. 1-4	2011	[VU]	Australia (Queensland)
+228	acc	0		Cycadaceae	Cycas thouarsii	Cycas	thouarsii	R.Br. ex Gaudich.										Voy. Uranie, Bot.: 434	1826	LC	Comoros, Kenya, Madagascar, Mozambique, Seychelles, Tanzania
+229	dub	0		Cycadaceae	Cycas tonkinensis	Cycas	tonkinensis	(L.Linden & Rodigas) Rodigas										Ill. Hort. 33: 27	1886		
+230	acc	0		Cycadaceae	Cycas tropophylla	Cycas	tropophylla	K.D.Hill & P.K.Lôc										Bot. Rev. (Lancaster) 70(2): 168-170, fig. 10	2004	NT	Vietnam (Hai Phong, Quang Ninh)
+231	sup	196	het	Cycadaceae	Cycas truncata	Cycas	truncata	de Laub.										Encephalartos 92: 17	2007		
+232	acc	0		Cycadaceae	Cycas tuckeri	Cycas	tuckeri	K.D.Hill										Telopea 7(1): 20-23, fig. 10	1996	VU	Australia (Queensland)
+233	syn	87	het	Cycadaceae	Cycas undulata	Cycas	undulata	Desf. ex Gaudich.										Voy. Uranie, Bot.: 434	1829		
+234	acc	0		Cycadaceae	Cycas vespertilio	Cycas	vespertilio	A.Lindstr. & K.D.Hill										Telopea 12(1): 134-136, fig. 4	2008	[NT]	Philippines (Cebu, Iloilo, Leyte, Marinduque, Mindoro Oriental, Negros Oriental, Samar)
+235	acc	0		Cycadaceae	Cycas wadei	Cycas	wadei	Merr.										Philipp. J. Sci. 60(3): 234-236, pls 1-4	1936	CR	Philippines (Palawan)
+236	syn	104	hom	Cycadaceae	Cycas wallichii	Cycas	wallichii	Miq.										Monogr. Cycad.: 32	1842		
+237	syn	207	het	Cycadaceae	Cycas xilingensis	Cycas	xilingensis	Hung T.Chang & Y.C.Zhong										Acta Sci. Nat. Univ. Sunyatseni 36(3): 69	1997		
+238	acc	0		Cycadaceae	Cycas xipholepis	Cycas	xipholepis	K.D.Hill										Telopea 7(1): 32-33, fig. 15	1996	LC	Australia (Queensland)
+239	acc	0		Cycadaceae	Cycas yorkiana	Cycas	yorkiana	K.D.Hill										Telopea 7(1): 18-19, fig. 8	1996	NT	Australia (Queensland)
+240	acc	0		Cycadaceae	Cycas zambalensis	Cycas	zambalensis	Madulid & Agoo										Blumea 50(3): 519-522. fig. 1.	2005	CR	Philippines (Zambales)
+241	acc	0		Cycadaceae	Cycas zeylanica	Cycas	zeylanica	(J.Schust.) A.Lindstr. & K.D.Hill										Novon 12(2): 238	2002	VU	India (Andaman and Nicobar Islands), S Sri Lanka
+243	syn	244	het	Zamiaceae	Dioon aculeatum	Dioon	aculeatum	Lem.										Catalog. Vanhoutt. 27: 45	1846		
+244	acc	0		Zamiaceae	Dioon angustifolium	Dioon	angustifolium	Miq.										Tijdschr. Wis- Natuurk. Wetensch. Eerste Kl. Kon. Ned. Inst. Wetensch. 1(1): 37-38	1847	VU	Mexico (Nuevo León, Tamaulipas)
+245	acc	0		Zamiaceae	Dioon argenteum	Dioon	argenteum	T.J.Greg., Chemnick, Salas-Mor. & Vovides										Bot. J. Linn. Soc. 141(4): 471-476, figs. 1-8	2003	[VU]	Mexico (Oaxaca)
+246	acc	0		Zamiaceae	Dioon califanoi	Dioon	califanoi	De Luca & Sabato										Brittonia 31(1): 170-172, figs. 2-3	1979	EN	Mexico (Oaxaca, Puebla)
+247	acc	0		Zamiaceae	Dioon caputoi	Dioon	caputoi	De Luca, Sabato & Vázq.Torres										Brittonia 32(1): 44-46, figs. 3-4	1980	EN	Mexico (Oaxaca, Puebla)
+248	acc	0		Zamiaceae	Dioon edule	Dioon	edule	Lindl.										Edwardss Bot. Reg. 29: misc. 59-60	1843	NT	Mexico (Hidalgo, Querétaro, San Luis Potosí, Tamaulipas, Veracruz)
+249	syn	244	hom	Zamiaceae	Dioon edule f. angustifolium	Dioon	edule	Lindl.	f.	angustifolium	(Miq.) Miq.							Prodr. Syst. Cycad.: 10, 22	1861		
+697	syn	248	hom	Zamiaceae	Dioon edule f. edule	Dioon	edule	Lindl.	f.	edule								Prodr. Syst. Cycad.: 10	1861		
+250	syn	244	hom	Zamiaceae	Dioon edule subsp. angustifolium	Dioon	edule	Lindl.	subsp.	angustifolium	(Miq.) A.E.Murray							Kalmia 13: 5	1983		
+698	syn	248	hom	Zamiaceae	Dioon edule subsp. edule	Dioon	edule	Lindl.	subsp.	edule								Kalmia 13: 5	1983		
+251	syn	244	hom	Zamiaceae	Dioon edule var. angustifolium	Dioon	edule	Lindl.	var.	angustifolium	(Miq.) Miq.							Arch. Néerl. Sci. Exact. Nat. 3: 427	1868		
+699	syn	248	hom	Zamiaceae	Dioon edule var. edule	Dioon	edule	Lindl.	var.	edule								Arch. Néerl. Sci. Exact. Nat. 3: 427	1868		
+252	syn	248	het	Zamiaceae	Dioon edule var. lanuginosum	Dioon	edule	Lindl.	var.	lanuginosum	Wittm.							Gartenflora 48: 153	1899		
+253	syn	257	het	Zamiaceae	Dioon edule var. latipinnium	Dioon	edule	Lindl.	var.	latipinnium	Dyer							Biol. Cent.-Amer., Bot. 3: 191, t. 81, figs. 1-3	1884		
+254	syn	261	hom	Zamiaceae	Dioon edule var. sonorense	Dioon	edule	Lindl.	var.	sonorense	(De Luca, Sabato & Vázq.Torres) McVaugh & Pérez de la Rosa							Fl. Novo-Galiciana 17: 112	1992		
+255	acc	0		Zamiaceae	Dioon holmgrenii	Dioon	holmgrenii	De Luca, Sabato & Vázq.Torres										Brittonia 33(4): 552-554, figs. 1-2	1981	EN	Mexico (Oaxaca)
+256	syn	248	het	Zamiaceae	Dioon imbricatum	Dioon	imbricatum	Miq.										Tijdschr. Wis- Natuurk. Wetensch. Eerste Kl. Kon. Ned. Inst. Wetensch. 1(1): 36	1847		
+257	acc	0		Zamiaceae	Dioon mejiae	Dioon	mejiae	Standl. & L.O.Williams										Ceiba 1(1): 36-38	1951	LC	Honduras (Colón, Olancho, Yoro)
+258	acc	0		Zamiaceae	Dioon merolae	Dioon	merolae	De Luca, Sabato & Vázq.Torres										Brittonia 33(2): 180-184, figs. 2-3	1981	VU	Mexico (Chiapas, Oaxaca)
+740	acc	0		Zamiaceae	Dioon planifolium	Dioon	planifolium	Salas-Mor., Chemnick & T.J.Greg.										Cact. Succ. J. (Los Angeles)  88(1): 35-42	2016	[VU]	Mexico (Oaxaca)
+259	acc	0		Zamiaceae	Dioon purpusii	Dioon	purpusii	Rose										Contr. U.S. Natl. Herb. 12(7): 260-261	1909	VU	Mexico (Oaxaca)
+260	acc	0		Zamiaceae	Dioon rzedowskii	Dioon	rzedowskii	De Luca, A.Moretti, Sabato & Vázq.Torres										Brittonia 32(2): 225-229	1980	EN	Mexico (Oaxaca)
+261	acc	0		Zamiaceae	Dioon sonorense	Dioon	sonorense	(De Luca, Sabato & Vázq.Torres) Chemnick, T.J.Greg. & Salas-Mor.										Phytologia 83(1): 1-6 (1997 publ. 1998)	1998	EN	Mexico (Sinaloa, Sonora)
+262	acc	0		Zamiaceae	Dioon spinulosum	Dioon	spinulosum	Dyer ex Eichler										Gart.-Zeitung (Berlin) 2: 411-413, 438-439, fig. 80	1883	EN	Mexico (Oaxaca, Veracruz)
+263	acc	0		Zamiaceae	Dioon stevensonii	Dioon	stevensonii	Nic.-Mor. & Vovides										Syst. Biodivers. 7(1): 73-79, figs. 1-2	2009	[CR]	Mexico (Guerrero, Michoacán)
+264	syn	248	het	Zamiaceae	Dioon strobilaceum	Dioon	strobilaceum	Lem. ex A.DC.										Prodr. [A. P. de Candolle] 16(2): 537	1868		
+265	acc	0		Zamiaceae	Dioon tomasellii	Dioon	tomasellii	De Luca, Sabato & Vázq.Torres										Brittonia 36(3): 225-227, figs. 2-5	1984	VU	Mexico (Durango, Jalisco, Nayarit, Sinaloa)
+266	syn	261	bas	Zamiaceae	Dioon tomasellii var. sonorense	Dioon	tomasellii	De Luca, Sabato & Vázq.Torres	var.	sonorense	De Luca, Sabato & Vázq.Torres							Brittonia 36(3): 226-227, figs. 2B, 3C, 5	1984		
+700	syn	265	hom	Zamiaceae	Dioon tomasellii var. tomasellii	Dioon	tomasellii	De Luca, Sabato & Vázq.Torres	var.	tomasellii								Brittonia 36(3): 225-227	1984		
+827	acc	0		Zamiaceae	Dioon vovidesii	Dioon	vovidesii	Gut.Ortega & Pérez-Farr.										Phytotaxa 369(2): 109. 2018 [epublished 13 Sep 2018]	2018	[EN]	Mexico (Sonora)
+270	inv	0		Zamiaceae	Dipsacozamia mexicana	Dipsacozamia	mexicana	Liebm. ex Dyer										Biol. Cent.-Amer., Bot. 3: 192	1884		
+269	syn	163	hom	Cycadaceae	Dyerocycas micholitzii	Dyerocycas	micholitzii	(Dyer) Nakai										Ord. Fam. Prof. Nakai: 208	1943		
+428	syn	295	het	Zamiaceae	Encephalartos acanthus	Encephalartos	acanthus	Mast.										Gard. Chron., n.s. 10(261): 810	1878		
+271	acc	0		Zamiaceae	Encephalartos aemulans	Encephalartos	aemulans	Vorster										S. African J. Bot. 56(2): 239-243	1990	CR	South Africa (KwaZulu-Natal)
+272	acc	0		Zamiaceae	Encephalartos altensteinii	Encephalartos	altensteinii	Lehm.										Nov. Stirp. Pug. 6: 11, t. 4-5	1834	VU	South Africa (E Cape)
+701	syn	272	hom	Zamiaceae	Encephalartos altensteinii var. altensteinii	Encephalartos	altensteinii	Lehm.	var.	altensteinii								Monogr. Cycad.: 52	1842		
+590	syn	272	het	Zamiaceae	Encephalartos altensteinii var. angustifolius	Encephalartos	altensteinii	Lehm.	var.	angustifolius	Miq.							Monogr. Cycad.: 52	1842		
+649	syn	361	het	Zamiaceae	Encephalartos altensteinii var. bispinnus	Encephalartos	altensteinii	Lehm.	var.	bispinnus	J.M.Wood							Ann. Rep. Bot. Gard. Natal: 8-9	1907		
+612	syn	272	het	Zamiaceae	Encephalartos altensteinii var. distans	Encephalartos	altensteinii	Lehm.	var.	distans	Regel							Trudy Imp. S.-Peterburgsk. Bot. Sada 3(1): 114	1874		
+636	syn	303	syn	Zamiaceae	Encephalartos altensteinii var. eriocephalus	Encephalartos	altensteinii	Lehm.	var.	eriocephalus	de Vriese							Nederl. Kruidk Arch. 1:171-175	1846		
+619	syn	272	het	Zamiaceae	Encephalartos altensteinii var. grandis	Encephalartos	altensteinii	Lehm.	var.	grandis	Regel							Gartenflora 24: 40	1875		
+617	syn	272	het	Zamiaceae	Encephalartos altensteinii var. macrophyllus	Encephalartos	altensteinii	Lehm.	var.	macrophyllus	Regel							Gartenflora 24: 41	1875		
+613	syn	272	het	Zamiaceae	Encephalartos altensteinii var. parvifolius	Encephalartos	altensteinii	Lehm.	var.	parvifolius	Regel							Trudy Imp. S.-Peterburgsk. Bot. Sada 3(1): 114	1874		
+611	syn	335	het	Zamiaceae	Encephalartos altensteinii var. paucidentatus	Encephalartos	altensteinii	Lehm.	var.	paucidentatus	Regel							Trudy Imp. S.-Peterburgsk. Bot. Sada 3(1): 114	1874		
+591	syn	272	het	Zamiaceae	Encephalartos altensteinii var. semidentatus	Encephalartos	altensteinii	Lehm.	var.	semidentatus	Miq.							Monogr. Cycad.: 52	1842		
+618	syn	272	het	Zamiaceae	Encephalartos altensteinii var. spinosior	Encephalartos	altensteinii	Lehm.	var.	spinosior	Regel							Gartenflora 24: 40	1875		
+273	acc	0		Zamiaceae	Encephalartos aplanatus	Encephalartos	aplanatus	Vorster										S. African J. Bot. 62: 57-60	1996	VU	Swaziland
+274	acc	0		Zamiaceae	Encephalartos arenarius	Encephalartos	arenarius	R.A.Dyer										J. S. African Bot. 22(1): 1-4	1956	EN	South Africa (E Cape)
+275	acc	0		Zamiaceae	Encephalartos barteri	Encephalartos	barteri	Carruth. ex Miq.										Arch. Néerl. Sci. Exact. Nat. 3: 243	1868	VU	Benin (Bergu), Ghana, Nigeria (Plateau), ?Togo
+276	acc	0		Zamiaceae	Encephalartos barteri subsp. allochrous	Encephalartos	barteri	Carruth. ex Miq.	subsp.	allochrous	L.E.Newton							J. Linn. Soc., Bot. 77(2): 125-129	1978	EN	Nigeria (Plateau)
+578	acc	0		Zamiaceae	Encephalartos barteri subsp. barteri	Encephalartos	barteri	Carruth. ex Miq.	subsp.	barteri								J. Linn. Soc., Bot. 77(2): 125-129	1978	VU	Benin (Bergu), Ghana, Nigeria, ?Togo
+277	syn	280	het	Zamiaceae	Encephalartos brachyphyllus	Encephalartos	brachyphyllus	Lehm. & de Vriese										Tijdschr. Natuurl. Gesch. Physiol. 4(4): 414, tt. 6-7	1838		
+278	acc	0		Zamiaceae	Encephalartos brevifoliolatus	Encephalartos	brevifoliolatus	Vorster										S. African J. Bot. 62(1): 61-64	1996	EW	South Africa (Limpopo)
+279	acc	0		Zamiaceae	Encephalartos bubalinus	Encephalartos	bubalinus	Melville										Kew Bull. 12(2): 252, fig. 4	1957	NT	Kenya (Narok), Tanzania (Arusha)
+280	acc	0		Zamiaceae	Encephalartos caffer	Encephalartos	caffer	(Thunb.) Lehm.										Nov. Stirp. Pug. 6: 14	1834	NT	South Africa (E Cape)
+625	syn	277	hom	Zamiaceae	Encephalartos caffer var. brachyphyllus	Encephalartos	caffer	(Thunb.) Lehm.	var.	brachyphyllus	(Lehm. & de Vriese) Miq.							Prodr. [A. P. de Candolle] 16(2): 531-532	1868		
+702	syn	280	hom	Zamiaceae	Encephalartos caffer var. caffer	Encephalartos	caffer	(Thunb.) Lehm.	var.	caffer								Prodr. [A. P. de Candolle] 16(2): 532	1868		
+609	syn	280	het	Zamiaceae	Encephalartos caffer var. integrifolius	Encephalartos	caffer	(Thunb.) Lehm.	var.	integrifolius	Regel							Trudy Imp. S.-Peterburgsk. Bot. Sada 3(1): 113	1874		
+610	syn	280	het	Zamiaceae	Encephalartos caffer var. unidentatus	Encephalartos	caffer	(Thunb.) Lehm.	var.	unidentatus	Regel							Trudy Imp. S.-Peterburgsk. Bot. Sada 3(1): 113	1874		
+281	acc	0		Zamiaceae	Encephalartos cerinus	Encephalartos	cerinus	Lavranos & D.L.Goode										Durban Mus. Novit. 14: 153 156	1989	CR	South Africa (KwaZulu-Natal)
+282	acc	0		Zamiaceae	Encephalartos chimanimaniensis	Encephalartos	chimanimaniensis	R.A.Dyer & I.Verd.										Kirkia 7: 147-158	1969	EN	Mozambique (Manica), Zimbabwe (Manicaland)
+283	acc	0		Zamiaceae	Encephalartos concinnus	Encephalartos	concinnus	R.A.Dyer & I.Verd.										Kirkia 7: 147-158	1969	EN	Zimbabwe (Matabeleland South, Midlands and Masvingo)
+284	acc	0		Zamiaceae	Encephalartos cupidus	Encephalartos	cupidus	R.A.Dyer										Bothalia 10(2): 379-383	1971	CR	South Africa (Mpumalanga)
+285	acc	0		Zamiaceae	Encephalartos cycadifolius	Encephalartos	cycadifolius	(Jacq.) Lehm.										Nov. Stirp. Pug. 6: 13	1834	LC	South Africa (E Cape)
+703	syn	285	hom	Zamiaceae	Encephalartos cycadifolius var. cycadifolius	Encephalartos	cycadifolius	(Jacq.) Lehm.	var.	cycadifolius								Trudy Imp. S.-Peterburgsk. Bot. Sada 3(1): 111	1874		
+606	syn	295	hom	Zamiaceae	Encephalartos cycadifolius var. friderici-guilielmi	Encephalartos	cycadifolius	(Jacq.) Lehm.	var.	friderici-guilielmi	(Lehm.) Regel							Trudy Imp. S.-Peterburgsk. Bot. Sada 3(1): 111	1874		
+607	syn	285	het	Zamiaceae	Encephalartos cycadifolius var. glaber	Encephalartos	cycadifolius	(Jacq.) Lehm.	var.	glaber	Regel							Trudy Imp. S.-Peterburgsk. Bot. Sada 3(1): 111	1874		
+624	inv	456	syn	Zamiaceae	Encephalartos cycadis	Encephalartos	cycadis	Sweet										Hort. Brit. [Sweet] ed. 3: 626	1839		
+286	acc	0		Zamiaceae	Encephalartos delucanus	Encephalartos	delucanus	Malaisse, Sclavo & Crosiers										Ann. Gembloux 98(2): 153-155, fig. 1	1992	EN	Tanzania (Katavi)
+601	syn	383	hom	Zamiaceae	Encephalartos denisonii	Encephalartos	denisonii	(C.Moore & F.Muell.) F.Muell.										Quart. J. Trans. Pharm. Soc. Victoria 2: 90	1859		
+287	acc	0		Zamiaceae	Encephalartos dolomiticus	Encephalartos	dolomiticus	Lavranos & D.L.Goode										Bull. Jard. Bot. Natl. Belg. 58(1-2): 219-224	1988	CR	South Africa (Limpopo)
+637	inv	404	syn	Zamiaceae	Encephalartos douglasii	Encephalartos	douglasii	F.Muell.										Syst. Census Austral. Pl. 1:110	1882		
+648	syn	386	bas	Zamiaceae	Encephalartos dyeri	Encephalartos	dyeri	F.Muell.										Australas. Chem. Druggist 8:12	1885		
+288	acc	0		Zamiaceae	Encephalartos dyerianus	Encephalartos	dyerianus	Lavranos & D.L.Goode										Bull. Jard. Bot. Natl. Belg. 58(1-2): 219-224	1988	CR	South Africa (Limpopo)
+268	syn	319	het	Zamiaceae	Encephalartos elongatus	Encephalartos	elongatus	Lehm.										Tijdschr. Natuurl. Gesch. Physiol. 4(4): 419, pl. 8a	1838		
+289	acc	0		Zamiaceae	Encephalartos equatorialis	Encephalartos	equatorialis	P.J.H.Hurter										S. African J. Bot. 61(4): 226-229	1995	CR	Uganda (Eastern)
+290	acc	0		Zamiaceae	Encephalartos eugene-maraisii	Encephalartos	eugene-maraisii	I.Verd.										J. S. African Bot. 11(1): 1-3	1945	EN	South Africa (Limpopo)
+642	syn	290	hom	Zamiaceae	Encephalartos eugene-maraisii subsp. eugene-maraisii	Encephalartos	eugene-maraisii	I.Verd.	subsp.	eugene-maraisii								Bull. Jard. Bot. Natl. Belg. 58(1-2): 219-224	1988		
+291	syn	328	het	Zamiaceae	Encephalartos eugene-maraisii subsp. middelburgensis	Encephalartos	eugene-maraisii	I.Verd.	subsp.	middelburgensis	Lavranos & D.L.Goode							Bull. Jard. Bot. Natl. Belg. 58(1-2): 219-224	1988		
+292	syn	285	het	Zamiaceae	Encephalartos eximius	Encephalartos	eximius	I.Verd.										Bothalia 6(2): 426	1954		
+293	acc	0		Zamiaceae	Encephalartos ferox	Encephalartos	ferox	G.Bertol										Mem. Reale Accad. Sci. Ist. Bologna 3: 264-265	1851	NT	Mozambique (Gaza, Inhambane, Maputo), South Africa (KwaZulu-Natal)
+659	acc	0		Zamiaceae	Encephalartos ferox subsp. emersus	Encephalartos	ferox	G.Bertol	subsp.	emersus	P.Rousseau, Vorster & A.E.van Wyk							Phytotaxa 204(2): 99-115	2015	[CR]	Mozambique (Inhambane)
+658	acc	0		Zamiaceae	Encephalartos ferox subsp. ferox	Encephalartos	ferox	G.Bertol	subsp.	ferox								Phytotaxa 204(2): 99-115	2015	NT	Mozambique (Gaza, Inhambane, Maputo), South Africa (KwaZulu-Natal)
+294	syn	341	het	Zamiaceae	Encephalartos flavistrobilus	Encephalartos	flavistrobilus	I.Turner & Sclavo										Biotechnol. Agron. Soc. Environm. 10(3): 181-183, figs. 1-4	2006		
+596	syn	391	hom	Zamiaceae	Encephalartos fraseri	Encephalartos	fraseri	(Miq.) Miq.										Verslagen Meded. Afd. Natuurk. Kon. Akad. Wetensch. 15: 368	1863		
+295	acc	0		Zamiaceae	Encephalartos friderici-guilielmi	Encephalartos	friderici-guilielmi	Lehm.										Nov. Stirp. Pug. 6: 8, tt. 1-3	1834	NT	South Africa (E Cape, KwaZulu-Natal)
+296	acc	0		Zamiaceae	Encephalartos ghellinckii	Encephalartos	ghellinckii	Lem.										Ill. Hort. 14, misc.: 80-81; 15: pl. 567	1867	VU	South Africa (E Cape, KwaZulu-Natal)
+362	syn	296	het	Zamiaceae	Encephalartos gracilis	Encephalartos	gracilis	Mast.										Gard. Chron. 25(14): 349	1868		
+297	syn	288	het	Zamiaceae	Encephalartos graniticola	Encephalartos	graniticola	Vorster, Robbertse & S.van der Westh.										S. African J. Bot. 54(4): 363-366, figs. 1-2	1988		
+298	acc	0		Zamiaceae	Encephalartos gratus	Encephalartos	gratus	Prain										Bull. Misc. Inform. Kew 1916: 181	1916	VU	Malawi (Mulanje), Mozambique (Zambézia)
+704	syn	298	hom	Zamiaceae	Encephalartos gratus var. gratus	Encephalartos	gratus	Prain	var.	gratus								J. S. African Bot. 4: 153	1938		
+638	syn	324	bas	Zamiaceae	Encephalartos gratus var. manikensis	Encephalartos	gratus	Prain	var.	manikensis	Gilliland							J. S. African Bot. 4: 153	1938		
+299	acc	0		Zamiaceae	Encephalartos heenanii	Encephalartos	heenanii	R.A.Dyer										Bothalia 10(4): 539-546	1972	CR	South Africa (Mpumalanga), Swaziland
+300	acc	0		Zamiaceae	Encephalartos hildebrandtii	Encephalartos	hildebrandtii	A.Braun & C.D.Bouché										Index Seminum Hort. Bot. Berol. 1874: 18	1874	NT	Kenya (Coast), Tanzania (Lushoto, Tanga, Zanzibar Island)
+301	syn	300	het	Zamiaceae	Encephalartos hildebrandtii var. dentatus	Encephalartos	hildebrandtii	A.Braun & C.D.Bouché	var.	dentatus	Melville							Kew Bull. 12(2): 248	1957		
+643	syn	300	hom	Zamiaceae	Encephalartos hildebrandtii var. hildebrandtii	Encephalartos	hildebrandtii	A.Braun & C.D.Bouché	var.	hildebrandtii								Kew Bull. 12(2): 248	1957		
+302	acc	0		Zamiaceae	Encephalartos hirsutus	Encephalartos	hirsutus	P.J.H.Hurter										S. African J. Bot. 62(1): 46-48, fig. 1	1996	CR	South Africa (Limpopo)
+303	acc	0		Zamiaceae	Encephalartos horridus	Encephalartos	horridus	(Jacq.) Lehm.										Nov. Stirp. Pug. 6: 14	1834	EN	South Africa (E Cape)
+633	syn	631	hom	Zamiaceae	Encephalartos horridus var. hallianus	Encephalartos	horridus	(Jacq.) Lehm.	var.	hallianus	(de Vriese) Miq.							Monogr. Cycad.: 58-59	1842		
+705	syn	303	hom	Zamiaceae	Encephalartos horridus var. horridus	Encephalartos	horridus	(Jacq.) Lehm.	var.	horridus								Ann. Sci. Nat., Bot. ser. 2 10: 367	1838		
+635	syn	492	hom	Zamiaceae	Encephalartos horridus var. lanuginosus	Encephalartos	horridus	(Jacq.) Lehm.	var.	lanuginosus	(Jacq.) Miq.							Ann. Sci. Nat., Bot. ser. 2 10: 367	1838		
+626	sup	316	hom	Zamiaceae	Encephalartos horridus var. latifrons	Encephalartos	horridus	(Jacq.) Lehm.	var.	latifrons	(Lehm.) J.Schust.							in Engler, Pflanzenr. 99: 117	1932		
+634	syn	316	hom	Zamiaceae	Encephalartos horridus var. latifrons	Encephalartos	horridus	(Jacq.) Lehm.	var.	latifrons	(Lehm.) Miq.							Monogr. Cycad.: 59	1842		
+627	syn	331	hom	Zamiaceae	Encephalartos horridus var. nanus	Encephalartos	horridus	(Jacq.) Lehm.	var.	nanus	(Lehm.) J.Schust.							in Engler, Pflanzenr. 99: 117	1932		
+304	syn	353	bas	Zamiaceae	Encephalartos horridus var. trispinosus	Encephalartos	horridus	(Jacq.) Lehm.	var.	trispinosus	Hook.							Bot. Mag. 89: t. 5371	1863		
+628	sup	631	hom	Zamiaceae	Encephalartos horridus var. van-hallii	Encephalartos	horridus	(Jacq.) Lehm.	var.	van-hallii	(de Vriese) J.Schust.							in Engler, Pflanzenr. 99: 117	1932		
+305	acc	0		Zamiaceae	Encephalartos humilis	Encephalartos	humilis	I.Verd.										Bothalia 6(1): 220, 241, pl. 3	1951	VU	South Africa (Mpumalanga)
+306	syn	289	het	Zamiaceae	Encephalartos imbricans	Encephalartos	imbricans	Vorster										Novon 5(4): 388, figs. 2-5	1995		
+307	acc	0		Zamiaceae	Encephalartos inopinus	Encephalartos	inopinus	R.A.Dyer										Bothalia 8(2): 169-170	1964	CR	South Africa (Limpopo)
+308	acc	0		Zamiaceae	Encephalartos ituriensis	Encephalartos	ituriensis	Bamps & Lisowski										Mem. New York Bot. Gard. 57: 152-155	1990	NT	Democratic Republic of Congo (Orientale)
+309	syn	310	het	Zamiaceae	Encephalartos kanga	Encephalartos	kanga	Pócs & Q.Luke										J. E. Afr. Nat. Hist. 96(2): 193-201	2007		Tanzania (Morogoro)
+310	acc	0		Zamiaceae	Encephalartos kisambo	Encephalartos	kisambo	Faden & Beentje										Utafiti 2(1): 7-10	1989	EN	Kenya (Taita-Taveta), Tanzania (Kilimanjaro, ?Morogoro)
+311	syn	293	het	Zamiaceae	Encephalartos kosiensis	Encephalartos	kosiensis	Hutch.										Bull. Misc. Inform. Kew 1932: 512	1932		
+312	acc	0		Zamiaceae	Encephalartos laevifolius	Encephalartos	laevifolius	Stapf & Burtt Davy										Man. Pl. Transvaal   1: 40, 99	1926	CR	South Africa (E Cape, KwaZulu-Natal, Limpopo, Mpumalanga), Swaziland
+313	acc	0		Zamiaceae	Encephalartos lanatus	Encephalartos	lanatus	Stapf & Burtt Davy										Man. Pl. Transvaal  1: 40, 99, fig. 4d	1926	NT	South Africa (Gauteng, Mpumalanga)
+314	syn	492	hom	Zamiaceae	Encephalartos lanuginosus	Encephalartos	lanuginosus	(Jacq.) Lehm.										Nov. Stirp. Pug. 6: 14	1834		
+706	syn	314	hom	Zamiaceae	Encephalartos lanuginosus var. lanuginosus	Encephalartos	lanuginosus		var.	lanuginosus								Monogr. Cycad.: 57	1842		
+594	syn	352	het	Zamiaceae	Encephalartos lanuginosus var. tridens	Encephalartos	lanuginosus	(Jacq.) Lehm.	var.	tridens	Miq.							Monogr. Cycad.: 57	1842		
+315	inv	493	syn	Zamiaceae	Encephalartos latifolius	Encephalartos	latifolius	Sweet										Hort. Brit. [Sweet] ed. 3: 626	1839		
+316	acc	0		Zamiaceae	Encephalartos latifrons	Encephalartos	latifrons	Lehm.										Tijdschr. Natuurl. Gesch. Physiol. 4(4): 424, t.9	1838	CR	South Africa (E Cape)
+317	acc	0		Zamiaceae	Encephalartos laurentianus	Encephalartos	laurentianus	De Wild.										Ann. Mus. Congo Belge, Bot. sér. 5, 1(1): 10, t. 25	1903	NT	Angola, Democratic Republic of Congo
+318	acc	0		Zamiaceae	Encephalartos lebomboensis	Encephalartos	lebomboensis	I.Verd.										Fl. Pl. Africa 27: pls. 1078-1079	1949	EN	Mozambique, South Africa (KwaZulu-Natal), Swaziland
+319	acc	0		Zamiaceae	Encephalartos lehmannii	Encephalartos	lehmannii	Lehm.										Nov. Stirp. Pug. 6: 14	1834	NT	South Africa (E Cape)
+629	syn	319	het	Zamiaceae	Encephalartos lehmannii f. dentatus	Encephalartos	lehmannii	Lehm.	f.	dentatus	Regel ex J.Schust.							in Engler, Pflanzenr. 99: 115	1932		
+707	syn	319	hom	Zamiaceae	Encephalartos lehmannii f. lehmannii	Encephalartos	lehmannii	Lehm.	f.	lehmannii								in Engler, Pflanzenr. 99: 115	1932		
+630	syn	346	hom	Zamiaceae	Encephalartos lehmannii f. spinulosus	Encephalartos	lehmannii	Lehm.	f.	spinulosus	(Lehm.) J.Schust.							in Engler, Pflanzenr. 99: 115	1932		
+708	syn	319	hom	Zamiaceae	Encephalartos lehmannii var. lehmannii	Encephalartos	lehmannii	Lehm.	var.	lehmannii								Prodr. [A. P. de Candolle] 16(2): 531	1868		
+641	syn	346	hom	Zamiaceae	Encephalartos lehmannii var. spinulosus	Encephalartos	lehmannii	Lehm.	var.	spinulosus	(Lehm.) Miq.							Prodr. [A. P. de Candolle] 16(2): 531	1868		
+320	syn	336	het	Zamiaceae	Encephalartos lemarinelianus	Encephalartos	lemarinelianus	De Wild. & T.Durand										Bull. Soc. Roy. Bot. Belgique 39: 80	1900		
+321	acc	0		Zamiaceae	Encephalartos longifolius	Encephalartos	longifolius	(Jacq.) Lehm.										Nov. Stirp. Pug. 6: 14	1834	NT	South Africa (E Cape)
+593	syn	321	het	Zamiaceae	Encephalartos longifolius var. angustifolius	Encephalartos	longifolius	(Jacq.) Lehm.	var.	angustifolius	Miq.							Monogr. Cycad.: 56	1842		
+662	syn	272	het	Zamiaceae	Encephalartos longifolius var. hookeri	Encephalartos	longifolius	(Jacq.) Lehm.	var.	hookeri	Miq.							Prodr. [A. P. de Candolle] 16(2): 531-532	1868		
+608	syn	321	het	Zamiaceae	Encephalartos longifolius var. latifolius	Encephalartos	longifolius	(Jacq.) Lehm.	var.	latifolius	Regel							Trudy Imp. S.-Peterburgsk. Bot. Sada 3(1): 113	1874		
+709	syn	321	hom	Zamiaceae	Encephalartos longifolius var. longifolius	Encephalartos	longifolius	(Jacq.) Lehm.	var.	longifolius								Monogr. Cycad.: 55-56	1842		
+592	syn	321	het	Zamiaceae	Encephalartos longifolius var. revolutus	Encephalartos	longifolius	(Jacq.) Lehm.	var.	revolutus	Miq.							Monogr. Cycad.: 55-56	1842		
+603	syn	400	bas	Zamiaceae	Encephalartos macdonnellii	Encephalartos	macdonnellii	F.Muell. ex Miq.										Verslagen Meded. Afd. Natuurk. Kon. Akad. Wetensch. 15: 376	1863		
+728	?	0		Zamiaceae	Encephalartos mackenii	Encephalartos	mackenii	W.Bull										Retail List [Bull] No. 54: 116	1870		
+322	acc	0		Zamiaceae	Encephalartos mackenziei	Encephalartos	mackenziei	L.E.Newton										Bot. J. Linn. Soc. 140(2): 187-192, figs. 1-6	2002	[NT]	South Sudan (Eastern Equatoria)
+323	acc	0		Zamiaceae	Encephalartos macrostrobilus	Encephalartos	macrostrobilus	S.Jones & Wynants										Encephalartos 50: 13-17, figs. 1-2	1997	EN	Uganda (Northern)
+730	?	0		Zamiaceae	Encephalartos majesticus	Encephalartos	majesticus	W.Bull										Retail List [Bull] No. 83: 187	1873		
+324	acc	0		Zamiaceae	Encephalartos manikensis	Encephalartos	manikensis	(Gilliland) Gilliland										Proc. Rhodesia Sci. Assoc. 37: 133-134	1939	VU	Mozambique (Manica), Zimbabwe
+325	syn	272	het	Zamiaceae	Encephalartos marumii	Encephalartos	marumii	de Vriese										Tijdschr. Natuurl. Gesch. Physiol. 5: 187-189	1838		
+326	acc	0		Zamiaceae	Encephalartos marunguensis	Encephalartos	marunguensis	Devred										Bull. Soc. Roy. Bot. Belgique 91: 104-110	1958	VU	Democratic Republic of Congo (Katanga)
+327	syn	321	het	Zamiaceae	Encephalartos mauritianus	Encephalartos	mauritianus	Miq.										Monogr. Cycad.: 48	1842		
+328	acc	0		Zamiaceae	Encephalartos middelburgensis	Encephalartos	middelburgensis	Vorster, Robbertse & S.van der Westh.										S. African J. Bot. 55(1): 122-126	1989	CR	South Africa (Mpumalanga)
+639	syn	404	bas	Zamiaceae	Encephalartos miquelii	Encephalartos	miquelii	F.Muell.										Fragm. (Mueller) 3: 38	1862		
+640	syn	406	hom	Zamiaceae	Encephalartos moorei	Encephalartos	moorei	(F.Muell.) F.Muell.										Fragm. (Mueller) 11: 125	1881		
+329	acc	0		Zamiaceae	Encephalartos msinganus	Encephalartos	msinganus	Vorster										S. African J. Bot. 62(2): 67-70	1996	CR	South Africa (KwaZulu-Natal)
+330	acc	0		Zamiaceae	Encephalartos munchii	Encephalartos	munchii	R.A.Dyer & I.Verd.										Kirkia 7: 147-158	1969	CR	Mozambique (Manica)
+331	syn	303	het	Zamiaceae	Encephalartos nanus	Encephalartos	nanus	Lehm.										Tijdschr. Natuurl. Gesch. Physiol. 4(4): 421, t. 8c	1838		
+332	acc	0		Zamiaceae	Encephalartos natalensis	Encephalartos	natalensis	R.A.Dyer & I.Verd.										Bothalia 6(1): 205-211, pls 1-3	1951	NT	South Africa (KwaZulu-Natal)
+333	acc	0		Zamiaceae	Encephalartos ngoyanus	Encephalartos	ngoyanus	I.Verd.										Fl. Pl. Africa 27: pls 1053-1054	1949	VU	South Africa (KwaZulu-Natal), Swaziland
+334	acc	0		Zamiaceae	Encephalartos nubimontanus	Encephalartos	nubimontanus	P.J.H.Hurter										Phytologia 78(6): 409-410, fig. 1	1995	EW	South Africa (Limpopo)
+600	syn	420	het	Zamiaceae	Encephalartos oldfieldii	Encephalartos	oldfieldii	Miq.										Verslagen Meded. Afd. Natuurk. Kon. Akad. Wetensch. 15: 370	1863		
+335	acc	0		Zamiaceae	Encephalartos paucidentatus	Encephalartos	paucidentatus	Stapf & Burtt Davy										Man. Pl. Transvaal   1: 40, 99, fig. 4a	1926	VU	South Africa (Mpumalanga), Swaziland
+602	syn	411	hom	Zamiaceae	Encephalartos pauli-guilielmi	Encephalartos	pauli-guilielmi	(W.Hill & F.Muell.) F.Muell.										Quart. J. Trans. Pharm. Soc. Victoria 2: 90	1859		
+336	acc	0		Zamiaceae	Encephalartos poggei	Encephalartos	poggei	Asch.										Verh. Bot. Vereins Prov. Brandenburg 20: 35-36	1878	LC	Angola (Lunda Sul), Democratic Republic of Congo (Kasai-Occidental, Katanga)
+597	syn	599	hom	Zamiaceae	Encephalartos preisii	Encephalartos	preisii	(Lehm.) F.Muell.										Quart. J. Trans. Pharm. Soc. Victoria 2: 90	1858		
+337	acc	0		Zamiaceae	Encephalartos princeps	Encephalartos	princeps	R.A.Dyer										J. S. African Bot. 31(2): 111-112, pl. 19	1965	VU	South Africa (E Cape)
+620	inv	0		Zamiaceae	Encephalartos pruniferus	Encephalartos	pruniferus	Sweet										Hort. Brit. [Sweet] ed. 3: 626	1839		
+338	acc	0		Zamiaceae	Encephalartos pterogonus	Encephalartos	pterogonus	R.A.Dyer & I.Verd.										Kirkia 7: 147-158	1969	CR	Mozambique (Manica)
+623	inv	542	syn	Zamiaceae	Encephalartos pumilus	Encephalartos	pumilus	Sweet										Hort. Brit. [Sweet] ed. 3: 626	1839		
+339	dub	0		Zamiaceae	Encephalartos pungens	Encephalartos	pungens	(L.f.) Lehm.										Nov. Stirp. Pug. 6: 13	1834		
+650	syn	272	het	Zamiaceae	Encephalartos regalis	Encephalartos	regalis	W.Bull										Retail List [Bull] No. 250: 8, t. 4	1889		
+340	acc	0		Zamiaceae	Encephalartos relictus	Encephalartos	relictus	P.J.H.Hurter										Bothalia 31(2): 197-199	2001	EW	Swaziland
+621	inv	0		Zamiaceae	Encephalartos repandus	Encephalartos	repandus	Sweet										Hort. Brit. [Sweet] ed. 3: 626	1839		
+341	acc	0		Zamiaceae	Encephalartos schaijesii	Encephalartos	schaijesii	Malaisse, Sclavo & Crosiers										Bull. Jard. Bot. Natl. Belg. 62: 215-219	1993	VU	Democratic Republic of Congo (Katanga)
+342	acc	0		Zamiaceae	Encephalartos schmitzii	Encephalartos	schmitzii	Malaisse										Bull. Jard. Bot. Natl. Belg. 39(4): 401-406	1969	VU	Democratic Republic of Congo (Katanga), Zambia (Luapula, Northern)
+267	sup	343	hom	Zamiaceae	Encephalartos sclavoi	Encephalartos	sclavoi	De Luca, D.W.Stev. & A.Moretti										Delpinoa 29-30: 3-5 (1989 issued 1991 Oct. 24)	1991		
+343	acc	0		Zamiaceae	Encephalartos sclavoi	Encephalartos	sclavoi	A.Moretti, D.W.Stev. & De Luca										Mem. New York Bot. Gard. 57: 156-161	1990	CR	Tanzania (Tanga)
+344	acc	0		Zamiaceae	Encephalartos senticosus	Encephalartos	senticosus	Vorster										S. African J. Bot. 62(2): 76-79	1996	VU	South Africa (KwaZulu-Natal), Swaziland
+345	acc	0		Zamiaceae	Encephalartos septentrionalis	Encephalartos	septentrionalis	Schweinf.										Bot. Zeitung (Berlin) 29(20): 334	1871	NT	Central African Republic, Democratic Republic of Congo (Orientale), South Sudan (Western Equatoria), Uganda (Northern)
+346	dub	0		Zamiaceae	Encephalartos spinulosus	Encephalartos	spinulosus	Lehm.										Tijdschr. Natuurl. Gesch. Physiol. 4(4): 419, t. 8c	1838		
+589	syn	580	hom	Zamiaceae	Encephalartos spiralis	Encephalartos	spiralis	(Salisb.) Lehm.										Nov. Stirp. Pug. 6: 13	1834		
+644	syn	384	bas	Zamiaceae	Encephalartos spiralis var. diplomera	Encephalartos	spiralis	(Salisb.) Lehm.	var.	diplomera	F.Muell.							Fragm. (Mueller) 5: 172	1866		
+598	syn	404	het	Zamiaceae	Encephalartos spiralis var. major	Encephalartos	spiralis	(Salisb.) Lehm.	var.	major	Miq.							Verslagen Meded. Afd. Natuurk. Kon. Akad. Wetensch. 15: 368	1863		
+710	syn	589	hom	Zamiaceae	Encephalartos spiralis var. spiralis	Encephalartos	spiralis	(Salisb.) Lehm.	var.	spiralis								Verslagen Meded. Afd. Natuurk. Kon. Akad. Wetensch. 15: 368	1863		
+347	syn	358	het	Zamiaceae	Encephalartos striatus	Encephalartos	striatus	Stapf & Burtt Davy										Man. Pl. Transvaal 1: 40, 99	1926		
+348	syn	360	het	Zamiaceae	Encephalartos successibus	Encephalartos	successibus	Vorster										S. African J. Bot. 61(6): 347	1995		
+349	acc	0		Zamiaceae	Encephalartos tegulaneus	Encephalartos	tegulaneus	Melville										Kew Bull. 12(2): 249, fig. 3	1957	LC	Kenya (Eastern, Rift Valley)
+350	acc	0		Zamiaceae	Encephalartos tegulaneus subsp. powysii	Encephalartos	tegulaneus	Melville	subsp.	powysii	Miringu & Beentje							J. E. Afr. Nat. Hist. 88: 35	1999		Kenya (Eastern)
+579	acc	0		Zamiaceae	Encephalartos tegulaneus subsp. tegulaneus	Encephalartos	tegulaneus	Melville	subsp.	tegulaneus								J. E. Afr. Nat. Hist. 88: 35	1999		Kenya (Rift Valley)
+351	acc	0		Zamiaceae	Encephalartos transvenosus	Encephalartos	transvenosus	Stapf & Burtt Davy										Man. Pl. Transvaal  1: 40, 99, fig. 4b	1926	LC	South Africa (Limpopo)
+352	syn	587	hom	Zamiaceae	Encephalartos tridentatus	Encephalartos	tridentatus	(Willd.) Lehm.										Nov. Stirp. Pug. 6: 13	1834		
+353	acc	0		Zamiaceae	Encephalartos trispinosus	Encephalartos	trispinosus	(Hook.) R.A.Dyer										J. S. African Bot. 31(2): 112-116, pl. 20	1965	VU	South Africa (E Cape)
+354	acc	0		Zamiaceae	Encephalartos turneri	Encephalartos	turneri	Lavranos & D.L.Goode										Garcia de Orta, Ser. Bot. 7(1-2): 11-14	1985	LC	Mozambique (Nampula)
+355	acc	0		Zamiaceae	Encephalartos umbeluziensis	Encephalartos	umbeluziensis	R.A.Dyer										Fl. Pl. Africa 28: pl. 1100	1951	EN	Mozambique, Swaziland
+631	syn	303	het	Zamiaceae	Encephalartos van-hallii	Encephalartos	van-hallii	de Vriese										Tijdschr. Natuurl. Gesch. Physiol. 4(4): 422	1838		
+356	syn	334	het	Zamiaceae	Encephalartos venetus	Encephalartos	venetus	Vorster										S. African J. Bot. 62(2): 71	1996		
+357	syn	287	het	Zamiaceae	Encephalartos verrucosus	Encephalartos	verrucosus	Vorster, Robbertse & S.van der Westh.										S. African J. Bot. 54(5): 487-490, figs. 1-3	1988		
+605	syn	280	het	Zamiaceae	Encephalartos verschaffeltii	Encephalartos	verschaffeltii	Regel										Trudy Imp. S.-Peterburgsk. Bot. Sada 3(1): 111	1874		
+358	acc	0		Zamiaceae	Encephalartos villosus	Encephalartos	villosus	Lem.										Ill. Hort. 14, misc.: 79-80; 15	1867	LC	South Africa (E Cape, KwaZulu-Natal), Swaziland
+647	syn	300	hom	Zamiaceae	Encephalartos villosus f. hildebrandtii	Encephalartos	villosus	Lem.	f.	hildebrandtii	(Regalado & C.D.Bouché) P.Hennings							Gartenflora 39: 238	1890		
+646	syn	358	syn	Zamiaceae	Encephalartos villosus f. intermedius	Encephalartos	villosus	Lem.	f.	intermedius	P.Hennings							Gartenflora 39: 238	1890		
+711	syn	358	hom	Zamiaceae	Encephalartos villosus f. villosus	Encephalartos	villosus	Lem.	f.	villosus								Gartenflora 39: 238	1890		
+731	?	0		Zamiaceae	Encephalartos villosus var. amplicatus	Encephalartos	villosus	Lem.	var.	amplicatus	W.Bull							Retail List [Bull] No. 83: 187	1873		
+645	inv	300	het	Zamiaceae	Encephalartos villosus var. nobilis	Encephalartos	villosus	Lem.	var.	nobilis	Auct.							Gard. Chron. n.s. 6: 711, figs. 134-135	1876		
+712	syn	358	hom	Zamiaceae	Encephalartos villosus var. villosus	Encephalartos	villosus	Lem.	var.	villosus								Retail List [Bull] No. 83: 187	1873		
+359	syn	310	het	Zamiaceae	Encephalartos voiensis	Encephalartos	voiensis	A.Moretti, D.W.Stev. & Sclavo										Ann. Missouri Bot. Gard. 76(3): 935	1989		
+370	syn	272	syn	Zamiaceae	Encephalartos vroomii	Encephalartos	vroomii	Mast.										Gard. Chron. 25(14): 349	1868		
+360	acc	0		Zamiaceae	Encephalartos whitelockii	Encephalartos	whitelockii	P.J.H.Hurter										Phytologia 78(6): 410-411, fig. 3	1995	CR	Uganda (Western)
+361	acc	0		Zamiaceae	Encephalartos woodii	Encephalartos	woodii	Sander ex J.M.Wood										Gard. Chron., ser. 3 43: 414	1908	EW	South Africa (KwaZulu-Natal)
+739	inv	0		Zamiaceae	Encephalartos woodii	Encephalartos	woodii	Sander										Gard. Chron., ser. 3 43: 257	1908		
+363	syn	184	hom	Cycadaceae	Epicycas elongata	Epicycas	elongata	(Leandri) S.L.Yang ex de Laub.										Blumea 43(2): 393	1998		
+364	syn	147	hom	Cycadaceae	Epicycas lindstromii	Epicycas	lindstromii	(S.L.Yang, K.D.Hill & T.H.Nguyên) de Laub.										Blumea 43(2): 395	1998		
+365	syn	163	hom	Cycadaceae	Epicycas micholitzii	Epicycas	micholitzii	(Dyer) de Laub.										Blumea 43(2): 389	1998		
+366	syn	191	hom	Cycadaceae	Epicycas miquelii	Epicycas	miquelii	(Warb.) de Laub.										Blumea 43(2): 393	1998		
+367	syn	170	hom	Cycadaceae	Epicycas multipinnata	Epicycas	multipinnata	(C.J.Chen & S.Y.Yang) de Laub.										Blumea 43(2): 391	1998		
+368	syn	213	hom	Cycadaceae	Epicycas siamensis	Epicycas	siamensis	(Miq.) de Laub.										Blumea 43(2): 393	1998		
+369	syn	581	bas	Cycadaceae	Epicycas tonkinensis	Epicycas	tonkinensis	(L.Linden & Rodigas) de Laub.										Blumea 43(2): 391	1998		
+604	syn	383	hom	Zamiaceae	Lepidozamia denisonii	Lepidozamia	denisonii	(C.Moore & F.Muell.) Regel										Gartenflora 24: 43	1875		
+371	acc	0		Zamiaceae	Lepidozamia hopei	Lepidozamia	hopei	Regel										Gartenflora 25: 6	1876	LC	Australia (Queensland)
+372	acc	0		Zamiaceae	Lepidozamia peroffskyana	Lepidozamia	peroffskyana	Regel										Bull. Soc. Imp. Naturalistes Moscou 30(1): 184-185, fig. 21	1857	LC	Australia (New South Wales, Queensland)
+373	syn	430	bas	Blechnaceae	Lomaria eriopus	Lomaria	eriopus	Kunze										Linnaea 13: 152	1839		
+375	acc	0		Zamiaceae	Macrozamia cardiacensis	Macrozamia	cardiacensis	P.I.Forst. & D.L.Jones										Fl. Australia 48: 717	1998	VU	Australia (Queensland)
+376	acc	0		Zamiaceae	Macrozamia communis	Macrozamia	communis	L.A.S.Johnson										Proc. Linn. Soc. New South Wales, ser. 2, 84(1): 98	1959	LC	Australia (New South Wales)
+377	acc	0		Zamiaceae	Macrozamia concinna	Macrozamia	concinna	D.L.Jones										Fl. Australia 48: 718	1998	LC	Australia (New South Wales)
+378	acc	0		Zamiaceae	Macrozamia conferta	Macrozamia	conferta	D.L.Jones & P.I.Forst.										Austrobaileya 4(2): 271-273, fig. 1	1994	VU	Australia (Queensland)
+379	syn	423	het	Zamiaceae	Macrozamia corallipes	Macrozamia	corallipes	Hook.f.										Bot. Mag. 98: t. 5943	1872		
+733	?	0		Zamiaceae	Macrozamia corallipes var. gyrata	Macrozamia	corallipes	Hook.f.	var.	gyrata	W.Bull							Retail List [Bull] No. 83: 8	1873		
+380	acc	0		Zamiaceae	Macrozamia cranei	Macrozamia	cranei	D.L.Jones & P.I.Forst.										Austrobaileya 4(2): 273-275, fig. 2	1994	EN	Australia (Queensland)
+381	acc	0		Zamiaceae	Macrozamia crassifolia	Macrozamia	crassifolia	P.I.Forst. & D.L.Jones										Austrobaileya 4(2): 275-276, fig. 3	1994	VU	Australia (Queensland)
+382	sup	403	het	Zamiaceae	Macrozamia cylindrica	Macrozamia	cylindrica	C.Moore										J. Proc. Roy. Soc. New S. Wales 17: 119	1884		
+615	?	0		Zamiaceae	Macrozamia cylindrica	Macrozamia	cylindrica	W.Bull										Gard. Chron., n.s. 1(17): 532	1874		
+383	syn	372	het	Zamiaceae	Macrozamia denisonii	Macrozamia	denisonii	C.Moore & F.Muell.										Fragm. (Mueller) 1(2): 41	1858		
+384	acc	0		Zamiaceae	Macrozamia diplomera	Macrozamia	diplomera	(F.Muell.) L.A.S.Johnson										Proc. Linn. Soc. New South Wales, ser. 2, 84(1): 98	1959	LC	Australia (New South Wales)
+385	acc	0		Zamiaceae	Macrozamia douglasii	Macrozamia	douglasii	W.Hill ex F.M.Bailey										Syn. Queensl. Fl.: 500	1883	LC	Australia (Queensland)
+386	acc	0		Zamiaceae	Macrozamia dyeri	Macrozamia	dyeri	(F.Muell.) C.A.Gardner										Enum. Pl. Austral. Occ.: 3	1930	LC	Australia (WA)
+735	?	0		Zamiaceae	Macrozamia eburnea	Macrozamia	eburnea	W.Bull										Gard. Chron. 30(11): 358	1873		
+387	acc	0		Zamiaceae	Macrozamia elegans	Macrozamia	elegans	K.D.Hill & D.L.Jones										Fl. Australia 48: 718	1998	EN	Australia (New South Wales)
+734	?	0		Zamiaceae	Macrozamia elegantissima	Macrozamia	elegantissima	W.Bull										Gard. Chron. 30(11): 358	1873		
+388	acc	0		Zamiaceae	Macrozamia fawcettii	Macrozamia	fawcettii	C.Moore										J. Proc. Roy. Soc. New S. Wales 17: 120	1884	NT	Australia (New South Wales)
+389	acc	0		Zamiaceae	Macrozamia fearnsidei	Macrozamia	fearnsidei	D.L.Jones										Austrobaileya 3(3): 481	1991	LC	Australia (Queensland)
+390	acc	0		Zamiaceae	Macrozamia flexuosa	Macrozamia	flexuosa	C.Moore										J. Proc. Roy. Soc. New S. Wales 17: 121	1884	EN	Australia (New South Wales)
+391	acc	0		Zamiaceae	Macrozamia fraseri	Macrozamia	fraseri	Miq.										Monogr. Cycad.: 37	1842	LC	Australia (WA)
+392	acc	0		Zamiaceae	Macrozamia glaucophylla	Macrozamia	glaucophylla	D.L.Jones										Fl. Australia 48: 718-719	1998	LC	Australia (New South Wales)
+393	acc	0		Zamiaceae	Macrozamia heteromera	Macrozamia	heteromera	C.Moore										J. Proc. Roy. Soc. New S. Wales 17: 122	1884	LC	Australia (New South Wales)
+394	inv	371	het	Zamiaceae	Macrozamia hopei	Macrozamia	hopei	C.Moore										J. Proc. Roy. Soc. New S. Wales 17: 116	1883		
+586	syn	371	het	Zamiaceae	Macrozamia hopei	Macrozamia	hopei	W.Hill										Syn. Queensl. Fl. Suppl. 1: 52	1886		
+395	acc	0		Zamiaceae	Macrozamia humilis	Macrozamia	humilis	D.L.Jones										Fl. Australia 48: 719	1998	VU	Australia (New South Wales)
+396	acc	0		Zamiaceae	Macrozamia johnsonii	Macrozamia	johnsonii	D.L.Jones & K.D.Hill										Telopea 5(1): 31	1992	LC	Australia (New South Wales)
+397	acc	0		Zamiaceae	Macrozamia lomandroides	Macrozamia	lomandroides	D.L.Jones										Austrobaileya 3(3): 483	1991	EN	Australia (Queensland)
+398	acc	0		Zamiaceae	Macrozamia longispina	Macrozamia	longispina	P.I.Forst. & D.L.Jones										Fl. Australia 48: 717	1998	NT	Australia (Queensland)
+399	acc	0		Zamiaceae	Macrozamia lucida	Macrozamia	lucida	L.A.S.Johnson										Proc. Linn. Soc. New South Wales, ser. 2, 84(1): 102	1959	LC	Australia (New South Wales, Queensland)
+400	acc	0		Zamiaceae	Macrozamia macdonnellii	Macrozamia	macdonnellii	(F.Muell. ex Miq.) A.DC.										Prodr. [A. P. de Candolle] 16(2): 537	1868	LC	Australia (Northern Territory)
+401	acc	0		Zamiaceae	Macrozamia machinii	Macrozamia	machinii	P.I.Forst. & D.L.Jones										Austrobaileya 4(2): 276	1994	VU	Australia (Queensland)
+402	sup	404	het	Zamiaceae	Macrozamia mackenziei	Macrozamia	mackenziei	Mast.										Gard. Chron., n.s. 7(178): 665	1877		
+738	syn	404	het	Zamiaceae	Macrozamia mackenziei	Macrozamia	mackenziei	W.Bull										Retail List [Bull] No. 129: 7	1877		
+403	acc	0		Zamiaceae	Macrozamia macleayi	Macrozamia	macleayi	Miq.										Arch. Néerl. Sci. Exact. Nat. 3: 250	1868	LC	Australia (Queensland)
+404	acc	0		Zamiaceae	Macrozamia miquelii	Macrozamia	miquelii	(F.Muell.) A.DC.										Prodr. [A. P. de Candolle] 16(2): 535	1868	LC	Australia (Queensland)
+405	acc	0		Zamiaceae	Macrozamia montana	Macrozamia	montana	K.D.Hill										Fl. Australia 48: 717	1998	LC	Australia (New South Wales)
+406	acc	0		Zamiaceae	Macrozamia moorei	Macrozamia	moorei	F.Muell.										Australas. Chem. Druggist 4: 84	1881	NT	Australia (Queensland)
+407	acc	0		Zamiaceae	Macrozamia mountperriensis	Macrozamia	mountperriensis	F.M.Bailey										Syn. Queensl. Fl. Suppl. 1: 50	1886	LC	Australia (Queensland)
+408	acc	0		Zamiaceae	Macrozamia occidua	Macrozamia	occidua	D.L.Jones & P.I.Forst.										Austrobaileya 4(2): 278, fig. 5	1994	VU	Australia (Queensland)
+409	syn	600	hom	Zamiaceae	Macrozamia oldfieldii	Macrozamia	oldfieldii	(Miq.) A.DC.										Prodr. [A. P. de Candolle] 16(2): 535	1868		
+410	acc	0		Zamiaceae	Macrozamia parcifolia	Macrozamia	parcifolia	P.I.Forst. & D.L.Jones										Austrobaileya 4(2): 279-281, fig. 6	1994	VU	Australia (Queensland)
+411	acc	0		Zamiaceae	Macrozamia pauli-guilielmi	Macrozamia	pauli-guilielmi	W.Hill & F.Muell.										Fragm. (Mueller) 1(4): 86	1859	EN	Australia (Queensland)
+412	syn	390	hom	Zamiaceae	Macrozamia pauli-guilielmi subsp. flexuosa	Macrozamia	pauli-guilielmi	W.Hill & F.Muell.	subsp.	flexuosa	(C.Moore) L.A.S.Johnson							Proc. Linn. Soc. New South Wales, ser. 2, 84(1): 109	1959		
+713	syn	411	hom	Zamiaceae	Macrozamia pauli-guilielmi subsp. pauli-guilielmi	Macrozamia	pauli-guilielmi	W.Hill & F.Muell.	subsp.	pauli-guilielmi								Proc. Linn. Soc. New South Wales, ser. 2, 84(1): 108-109	1959		
+413	syn	416	bas	Zamiaceae	Macrozamia pauli-guilielmi subsp. plurinervia	Macrozamia	pauli-guilielmi	W.Hill & F.Muell.	subsp.	plurinervia	L.A.S.Johnson							Proc. Linn. Soc. New South Wales, ser. 2, 84(1): 108	1959		
+414	syn	372	hom	Zamiaceae	Macrozamia peroffskyana	Macrozamia	peroffskyana	(Regel) Miq.										Arch. Néerl. Sci. Exact. Nat. 3: 252	1868		
+415	acc	0		Zamiaceae	Macrozamia platyrhachis	Macrozamia	platyrhachis	F.M.Bailey										Queensland Agric. J. 3: 356	1898	VU	Australia (Queensland)
+616	?	0		Zamiaceae	Macrozamia plumosa	Macrozamia	plumosa	W.Bull										Gard. Chron., n.s. 1(17): 532	1874		
+416	acc	0		Zamiaceae	Macrozamia plurinervia	Macrozamia	plurinervia	(L.A.S.Johnson) D.L.Jones										Austrobaileya 3(3): 484	1991	EN	Australia (New South Wales, Queensland)
+417	acc	0		Zamiaceae	Macrozamia polymorpha	Macrozamia	polymorpha	D.L.Jones										Fl. Australia 48: 718	1998	LC	Australia (New South Wales)
+599	syn	420	het	Zamiaceae	Macrozamia preissii	Macrozamia	preissii	Lehm.										Nov. Stirp. Pug. 8: 31	1844		
+419	acc	0		Zamiaceae	Macrozamia reducta	Macrozamia	reducta	K.D.Hill & D.L.Jones										Fl. Australia 48: 718	1998	LC	Australia (New South Wales)
+420	acc	0		Zamiaceae	Macrozamia riedlei	Macrozamia	riedlei	(Gaudich.) C.A.Gardner										Enum. Pl. Austral. Occ.: 3	1930	LC	Australia (WA)
+421	acc	0		Zamiaceae	Macrozamia secunda	Macrozamia	secunda	C.Moore										J. Proc. Roy. Soc. New S. Wales 17: 122	1884	VU	Australia (New South Wales)
+422	acc	0		Zamiaceae	Macrozamia serpentina	Macrozamia	serpentina	D.L.Jones & P.I.Forst.										Austrobaileya 6(1): 90-92, figs. 20-21	2001	[EN]	Australia (Queensland)
+423	acc	0		Zamiaceae	Macrozamia spiralis	Macrozamia	spiralis	(Salisb.) Miq.										Monogr. Cycad.: 36	1842	EN	Australia (New South Wales)
+736	?	0		Zamiaceae	Macrozamia spiralis var. eburnea	Macrozamia	spiralis	(Salisb.) Miq.	var.	eburnea	W.Bull							Retail List [Bull] No. 83: 8	1873		
+732	?	0		Zamiaceae	Macrozamia spiralis var. princeps	Macrozamia	spiralis	(Salisb.) Miq.	var.	princeps	W.Bull							Retail List [Bull] No. 83: 187	1873		
+424	acc	0		Zamiaceae	Macrozamia stenomera	Macrozamia	stenomera	L.A.S.Johnson										Proc. Linn. Soc. New South Wales, ser. 2, 84(1): 106	1959	NT	Australia (New South Wales)
+588	syn	587	hom	Zamiaceae	Macrozamia tridentata	Macrozamia	tridentata	(Willd.) Regel										Gartenflora 25: 229	1876		
+425	acc	0		Zamiaceae	Macrozamia viridis	Macrozamia	viridis	D.L.Jones & P.I.Forst.										Austrobaileya 4(2): 281-283, fig. 7	1994	EN	Australia (Queensland)
+427	acc	0		Zamiaceae	Microcycas calocoma	Microcycas	calocoma	(Miq.) A.DC.										Prodr. [A. P. de Candolle] 16(2): 538	1868	CR	Cuba (Pinar del Río)
+748	syn	441	hom	Zamiaceae	Palmifolium angustifolium	Palmifolium	angustifolium	(Jacq.) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+749	syn	442	hom	Zamiaceae	Palmifolium angustissimum	Palmifolium	angustissimum	(Miq.) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+750	syn	444	hom	Zamiaceae	Palmifolium bolivianum	Palmifolium	bolivianum	(Brongn.) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+751	syn	449	hom	Zamiaceae	Palmifolium chigua	Palmifolium	chigua	(Seem.) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+752	syn	457	hom	Zamiaceae	Palmifolium debile	Palmifolium	debile	(Aiton) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+753	syn	466	hom	Zamiaceae	Palmifolium fischeri	Palmifolium	fischeri	(Miq.) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+754	syn	467	hom	Zamiaceae	Palmifolium floridanum	Palmifolium	floridanum	(A.DC.) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+755	syn	468	hom	Zamiaceae	Palmifolium furfuraceum	Palmifolium	furfuraceum	(L.f.) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+756	syn	470	hom	Zamiaceae	Palmifolium galeotti	Palmifolium	galeotti	(de Vriese) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+757	syn	485	hom	Zamiaceae	Palmifolium integrifolium	Palmifolium	integrifolium	(L.f.) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+758	syn	489	hom	Zamiaceae	Palmifolium kickxii	Palmifolium	kickxii	(Miq.) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+759	syn	493	hom	Zamiaceae	Palmifolium latifolium	Palmifolium	latifolium	(Lodd. ex Miq.) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+760	syn	502	hom	Zamiaceae	Palmifolium loddigesii	Palmifolium	loddigesii	(Miq.) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+761	syn	512	hom	Zamiaceae	Palmifolium medium	Palmifolium	medium	(Jacq.) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+762	syn	515	hom	Zamiaceae	Palmifolium mexicanum	Palmifolium	mexicanum	(Miq.) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+763	syn	518	hom	Zamiaceae	Palmifolium multifoliolatum	Palmifolium	multifoliolatum	(A.DC.) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+764	syn	519	hom	Zamiaceae	Palmifolium muricatum	Palmifolium	muricatum	(Willd.) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+765	syn	531	hom	Zamiaceae	Palmifolium ottonis	Palmifolium	ottonis	(Miq.) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+766	syn	535	hom	Zamiaceae	Palmifolium poeppigianum	Palmifolium	poeppigianum	(Mart. & Eichler) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+767	syn	541	hom	Zamiaceae	Palmifolium pseudoparasiticum	Palmifolium	pseudoparasiticum	(J.Yates) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+768	syn	542	hom	Zamiaceae	Palmifolium pumilum	Palmifolium	pumilum	(L.) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+769	syn	545	hom	Zamiaceae	Palmifolium pygmaeum	Palmifolium	pygmaeum	(Sims) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+770	syn	552	hom	Zamiaceae	Palmifolium skinneri	Palmifolium	skinneri	(Warsz. ex A.Dietr.) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+771	syn	554	hom	Zamiaceae	Palmifolium sparteum	Palmifolium	sparteum	(A.DC.) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+772	syn	558	hom	Zamiaceae	Palmifolium strictum	Palmifolium	strictum	(Miq.) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+773	syn	560	hom	Zamiaceae	Palmifolium tenue	Palmifolium	tenue	(Willd.) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+774	syn	13	hom	Zamiaceae	Palmifolium yatesii	Palmifolium	yatesii	(Miq.) Kuntze										Revis. Gen. Pl. 2: 803	1891		
+429	syn	248	het	Zamiaceae	Platyzamia rigida	Platyzamia	rigida	Zucc.										Abh. Math.-Phys. Cl. Königl. Bayer. Akad. Wiss. 4(2): 23, t. 4	1845		
+430	acc	0		Zamiaceae	Stangeria eriopus	Stangeria	eriopus	(Kunze) Baill.										Hist. Pl. (Baillon) 12: 68, in adnot.	1894	VU	South Africa (E Cape, KwaZulu-Natal)
+431	syn	430	het	Zamiaceae	Stangeria katzeri	Stangeria	katzeri	Regel										Gartenflora 23: 163, t. 798	1874		
+432	syn	430	het	Zamiaceae	Stangeria paradoxa	Stangeria	paradoxa	T.Moore										Hooker's J. Bot. Kew Gard. Misc. 5: 228	1853		
+433	syn	430	het	Zamiaceae	Stangeria schizodon	Stangeria	schizodon	W.Bull										Retail List [Bull] No. 72: 8	1872		
+436	acc	0		Zamiaceae	Zamia acuminata	Zamia	acuminata	Oerst. ex Dyer										Biol. Cent.-Amer., Bot. 3: 194	1884	VU	Costa Rica (San José)
+437	syn	542	het	Zamiaceae	Zamia allison-armourii	Zamia	allison-armourii	Millsp.										Publ. Field Columb. Mus., Bot. Ser. 2(1): 23	1900		
+438	acc	0		Zamiaceae	Zamia amazonum	Zamia	amazonum	D.W.Stev.										Fl. Colombia (1983+) 21: 33, fig. 3	2001	NT	Brazil (Amazonas), Colombia, (Amazonas, Vaupés), Ecuador (Morona-Santiago, Napo, Sucumbíos), Peru (Loreto), S Venezuela
+439	syn	464	het	Zamiaceae	Zamia amblyphyllidia	Zamia	amblyphyllidia	D.W.Stev.										Fairchild Trop. Gard. Bull. 42(3): 26	1987		
+440	acc	0		Zamiaceae	Zamia amplifolia	Zamia	amplifolia	W.Bull ex Mast.										Gard. Chron., n.s. 10(261): 810	1878	CR	Colombia (Valle del Cauca)
+441	acc	0		Zamiaceae	Zamia angustifolia	Zamia	angustifolia	Jacq.										Collectanea [Jacquin] 3: 263-265	1791	VU	Bahamas (Eleuthera), Cuba (Guantánamo, Oriente, Santiago de Cuba)
+715	syn	441	hom	Zamiaceae	Zamia angustifolia var. angustifolia	Zamia	angustifolia	Jacq.	var.	angustifolia								Gartenflora 27: 13	1878		
+584	syn	442	hom	Zamiaceae	Zamia angustifolia var. angustissima	Zamia	angustifolia	Jacq.	var.	angustissima	(Miq.) Regel							Gartenflora 27: 13	1878		
+745	syn	467	hom	Zamiaceae	Zamia angustifolia var. floridana	Zamia	angustifolia	Jacq.	var.	floridana	(A.DC.) Regel							Gartenflora 27: 13	1878		
+746	syn	558	hom	Zamiaceae	Zamia angustifolia var. stricta	Zamia	angustifolia	Jacq.	var.	stricta	(Miq.) Regel							Gartenflora 27: 13	1878		
+583	syn	13	hom	Zamiaceae	Zamia angustifolia var. yatesii	Zamia	angustifolia	Jacq.	var.	yatesii	(Miq.) Regel							Gartenflora 27: 13	1878		
+442	syn	441	het	Zamiaceae	Zamia angustissima	Zamia	angustissima	Miq.										Nieuwe Verh. Eerste Kl. Kon. Ned. Inst. Wetensch. Amsterdam 3(4): 184	1851		
+51	sup	0	het	Zamiaceae	Zamia baraquiniana	Zamia	baraquiniana	Hort. ex Regel										Trudy Imp. S.-Peterburgsk. Bot. Sada 4(4): 308	1876		
+443	syn	535	het	Zamiaceae	Zamia baraquiniana	Zamia	baraquiniana	Mast.										Gard. Chron. 25(14): 349	1868		
+444	acc	0		Zamiaceae	Zamia boliviana	Zamia	boliviana	(Brongn.) A.DC.										Prodr. [A. P. de Candolle] 16(2): 540	1868	NT	Bolivia (El Beni, Cochabamba, Santa Cruz), Brazil (Mato Grosso)
+445	sup	18	hom	Zamiaceae	Zamia brongniartii	Zamia	brongniartii	Wedd.										Ann. Sci. Nat., Bot. ser. 3, 13: 249, pl. 3	1849		
+446	syn	529	het	Zamiaceae	Zamia bussellii	Zamia	bussellii	Schutzman, R.S.Adams, J.L.Haynes & Whitelock										Cycad Newslett. 31(2-3): 22-26, figs 1-16, 18-19	2008		
+426	syn	74	hom	Zamiaceae	Zamia caffra	Zamia	caffra	(Thunb.) Thunb.										Prodr. Pl. Cap. 2: 92	1800		
+447	syn	427	bas	Zamiaceae	Zamia calocoma	Zamia	calocoma	Miq.										Fl. Serres Jard. Eur. 7(6): 141	1852		
+448	syn	545	het	Zamiaceae	Zamia chamberlainii	Zamia	chamberlainii	J.Schust.										in Engler, Pflanzenr. 99: 153	1932		
+449	acc	0		Zamiaceae	Zamia chigua	Zamia	chigua	Seem.										Bot. Voy. Herald 6: 201-203, t. 43	1854	NT	Colombia (Chocó, Valle del Cauca)
+450	acc	0		Zamiaceae	Zamia cremnophila	Zamia	cremnophila	Vovides, Schutzman & Dehgan										Bot. Gaz. 149(3): 351	1988	EN	Mexico (Tabasco)
+451	acc	0		Zamiaceae	Zamia cunaria	Zamia	cunaria	Dressler & D.W.Stev.										Brittonia 45(1): 5-6, fig. 2	1993	VU	Panama (Colón, Panamá, Kuna de Wargandi, Kuna Yala)
+452	syn	563	het	Zamiaceae	Zamia cupatiensis	Zamia	cupatiensis	Ducke										Arch. Jard. Bot. Rio de Janeiro 3: 20, pl. 1	1922		
+453	sup	502	het	Zamiaceae	Zamia cycadifolia	Zamia	cycadifolia	Dyer										Biol. Cent.-Amer., Bot. 3: 195	1884		
+454	syn	285	bas	Zamiaceae	Zamia cycadifolia	Zamia	cycadifolia	Jacq.										Fragm. Bot.: 27, tt. 25-26	1801		
+455	sup	0		Zamiaceae	Zamia cycadifolia	Zamia	cycadifolia	S.Brunner										Flora 8: 733	1825		
+456	syn	280	het	Zamiaceae	Zamia cycadis	Zamia	cycadis	L.f.										Suppl. Pl.: 443	1782		
+457	syn	542	het	Zamiaceae	Zamia debilis	Zamia	debilis	L.f.										Hort. Kew. (W. Aiton) 3: 478	1789		
+458	acc	0		Zamiaceae	Zamia decumbens	Zamia	decumbens	Calonje, Meerman, M.P.Griff. & Hoese										J. Bot. Res. Inst. Texas 3(1): 31-41, figs. 1-3	2009	[CR], list	Belize (Cayo, Stann Creek, Toledo)
+459	syn	485	het	Zamiaceae	Zamia dentata	Zamia	dentata	Voigt										Syll. Pl. Nov. 2: 53	1828		
+460	acc	0		Zamiaceae	Zamia disodon	Zamia	disodon	D.W.Stev. & Sabato										Fl. Colombia (1983+) 21: 38-40, fig. 4	2001	CR	Colombia (Antioquia)
+461	acc	0		Zamiaceae	Zamia dressleri	Zamia	dressleri	D.W.Stev.										Brittonia 45(1): 6, fig. 3	1993	EN	Panama (Colón, Kuna Yala)
+15	inv	0		Zamiaceae	Zamia elegantissima	Zamia	elegantissima	Schutzman, Vovides & R.S.Adams										Phytologia 85(3): 140144, f. 1, 3a, 4	1998		
+462	acc	0		Zamiaceae	Zamia elegantissima	Zamia	elegantissima	Schutzman, Vovides & R.S.Adams										Phytologia 85(6): 389 (1998 publ. 21 Aug. 2003)	2003	EN	Panama (Colón, Kuna Yala)
+463	acc	0		Zamiaceae	Zamia encephalartoides	Zamia	encephalartoides	D.W.Stev.										Fl. Colombia (1983+) 21: 40-42, fig. 5	2001	VU, [EN]	Colombia (Santander)
+464	acc	0		Zamiaceae	Zamia erosa	Zamia	erosa	O.F.Cook & G.N.Collins										Contr. U.S. Natl. Herb. 8(2): 267	1903	VU	Cuba, Jamaica, Puerto Rico
+465	acc	0		Zamiaceae	Zamia fairchildiana	Zamia	fairchildiana	L.D.Gómez										Phytologia 50(6): 401-404	1982	NT	Costa Rica (Puntarenas, San José), Panama (Chiriquí)
+466	acc	0		Zamiaceae	Zamia fischeri	Zamia	fischeri	Miq.										Hort. Vanhoutt. 1(1): 20	1845	EN	Mexico (Hidalgo, Querétaro, San Luis Potosí, Tamaulipas)
+467	syn	485	het	Zamiaceae	Zamia floridana	Zamia	floridana	A.DC.										Prodr. [A. P. de Candolle] 16(2): 544	1868		
+716	syn	467	hom	Zamiaceae	Zamia floridana var. floridana	Zamia	floridana	A.DC.	var.	floridana								Novon 11(3): 363	2001		
+787	syn	467	syn	Zamiaceae	Zamia floridana var. purshiana	Zamia	floridana	A.DC.	var.	purshiana	J.Schust.							in Engler, Pflanzenr. 99: 151-152	1932		
+788	syn	551	hom	Zamiaceae	Zamia floridana var. purshiana f. silvicola	Zamia	floridana	A.DC.	var.	purshiana	J.Schust.	f.	silvicola	(Small) J.Schust.				in Engler, Pflanzenr. 99: 152	1932		
+242	syn	564	hom	Zamiaceae	Zamia floridana var. umbrosa	Zamia	floridana	A.DC.	var.	umbrosa	(Small) D.B.Ward							Novon 11(3): 363	2001		
+468	acc	0		Zamiaceae	Zamia furfuracea	Zamia	furfuracea	L.f.										Hort. Kew. (W. Aiton) 3: 477	1789	EN	Mexico (Veracruz)
+717	syn	468	hom	Zamiaceae	Zamia furfuracea var. furfuracea	Zamia	furfuracea	L.f.	var.	furfuracea								Prodr. [A. P. de Candolle] 16(2): 541	1868		
+469	syn	468	het	Zamiaceae	Zamia furfuracea var. trewii	Zamia	furfuracea	L.f.	var.	trewii	Miq.							Prodr. [A. P. de Candolle] 16(2): 541	1868		
+470	syn	502	het	Zamiaceae	Zamia galeotti	Zamia	galeotti	de Vriese										Tijdschr. Natuurl. Gesch. Physiol. 12: 24	1845		
+471	acc	0		Zamiaceae	Zamia gentryi	Zamia	gentryi	Dodson										Novon 8(1): 12-14, fig. 1a-f	1998	CR	Ecuador (Carchi, Esmeraldas)
+472	acc	0		Zamiaceae	Zamia gomeziana	Zamia	gomeziana	R.H.Acuña										Brenesia 73-74: 29-33, fig. 1	2010	[VU]	Costa Rica (Limón)
+473	acc	0		Zamiaceae	Zamia grijalvensis	Zamia	grijalvensis	Pérez-Farr., Vovides & Mart.-Camilo										Nordic J. Bot. 30(5): 565-570	2012	[CR]	Mexico (Chiapas)
+474	syn	441	het	Zamiaceae	Zamia guggenheimiana	Zamia	guggenheimiana	Carabia										Caribbean Forest. 2: 89	1941		
+475	syn	519	het	Zamiaceae	Zamia gutierrezii	Zamia	gutierrezii	Sauvalle										Anales Acad. Ci. Med. Habana 5: 54-55	1868		
+476	acc	0		Zamiaceae	Zamia hamannii	Zamia	hamannii	A.S.Taylor, J.L.Haynes & Holzman										Bot. J. Linn. Soc. 158(3): 399-429, figs. 6, 7a, 8a	2008	[CR]	Panama (Bocas del Toro)
+477	acc	0		Zamiaceae	Zamia herrerae	Zamia	herrerae	S.Calderón & Standl.										J. Wash. Acad. Sci. 14(4): 93-94, fig. 1	1924	VU	El Salvador (Sonsonate), Guatemala (Quetzaltenango Retalhuleu, Santa Rosa, Suchitepéquez), Mexico (Chiapas)
+478	syn	303	bas	Zamiaceae	Zamia horrida	Zamia	horrida	Jacq.										Fragm. Bot.: 27-28, tt. 27, 28	1801		
+479	acc	0		Zamiaceae	Zamia huilensis	Zamia	huilensis	Calonje, H.E.Esquivel & D.W.Stev.										Caldasia 34(2): 283-290	2012	[CR]	Colombia (Huila)
+480	sup	542	het	Zamiaceae	Zamia humilis	Zamia	humilis	Salisb.										Prodr. Stirp. Chap. Allerton: 400	1796		
+481	acc	0		Zamiaceae	Zamia hymenophyllidia	Zamia	hymenophyllidia	D.W.Stev.										Fl. Colombia (1983+) 21: 43-44, fig. 6	2001	CR	Colombia (Amazonas), Peru (Loreto)
+482	acc	0		Zamiaceae	Zamia imperialis	Zamia	imperialis	A.S.Taylor, J.L.Haynes & Holzman										Bot. J. Linn. Soc. 158(3): 399-429, figs. 7c, 8c, 11	2008	[CR]	Panama (Coclé, Colón, Panamá, Veraguas)
+483	acc	0		Zamiaceae	Zamia incognita	Zamia	incognita	A.Lindstr. & Idárraga										Phytotaxa 2: 29-34, figs. 1-3	2009	[VU]	Colombia (Antioquia, Boyacá, Santander)
+484	acc	0		Zamiaceae	Zamia inermis	Zamia	inermis	Vovides, J.D.Rees & Vázq.Torres										Fl. Veracruz 26: 22-24, fig. 3	1983	CR	Mexico (Veracruz)
+485	acc	0		Zamiaceae	Zamia integrifolia	Zamia	integrifolia	L.f.										Hort. Kew. (W. Aiton) 3: 478	1789	NT	Bahamas, Cayman Islands, Cuba, United States (Florida, Georgia)
+821	acc	0		Zamiaceae	Zamia integrifolia var. broomei	Zamia	integrifolia	L.f.	var.	broomei	D.B.Ward							Phytologia 98(3): 175	2016	[NE]	United States (Florida)
+822	acc	0		Zamiaceae	Zamia integrifolia var. floridana	Zamia	integrifolia	L.f.	var.	floridana	(A.DC.) D.B.Ward							Phytologia 98(3): 175	2016	[NE]	United States (Florida)
+823	acc	0		Zamiaceae	Zamia integrifolia var. integrifolia	Zamia	integrifolia	L.f.	var.	integrifolia								Phytologia 98(3): 174	2016	[NE]	United States (Florida)
+824	acc	0		Zamiaceae	Zamia integrifolia var. silvicola	Zamia	integrifolia	L.f.	var.	silvicola	(Small) D.B.Ward							Phytologia 98(3): 176	2016	[NE]	United States (Florida)
+825	acc	0		Zamiaceae	Zamia integrifolia var. umbrosa	Zamia	integrifolia	L.f.	var.	umbrosa	(Small) D.B.Ward							Phytologia 98(3): 174	2016	[NE]	United States (Florida)
+486	acc	0		Zamiaceae	Zamia ipetiensis	Zamia	ipetiensis	D.W.Stev.										Brittonia 45(1): 7-9, fig. 4	1993	EN	Panama (Panamá, Kuna Yala)
+487	syn	496	het	Zamiaceae	Zamia jirijirimensis	Zamia	jirijirimensis	R.E.Schult.										Mutisia 15: 2, fig. p. 5 s.n.	1953		
+488	acc	0		Zamiaceae	Zamia katzeriana	Zamia	katzeriana	(Regel) E.Rettig										Gartenflora 45: 148-149, fig. 31	1896	[CR]	Mexico (Chiapas)
+489	syn	545	het	Zamiaceae	Zamia kickxii	Zamia	kickxii	Miq.										Monogr. Cycad.: 71, t. 8	1842		
+490	acc	0		Zamiaceae	Zamia lacandona	Zamia	lacandona	Schutzman & Vovides										Novon 8(4): 441-446, figs. 1-3	1998	EN	Mexico (Chiapas)
+491	sup	457	het	Zamiaceae	Zamia laeta	Zamia	laeta	Salisb.										Prodr. Stirp. Chap. Allerton: 400	1796		
+492	syn	314	het	Zamiaceae	Zamia lanuginosa	Zamia	lanuginosa	Jacq.										Fragm. Bot.: 28, tt. 30-31	1801		
+493	syn	468	het	Zamiaceae	Zamia latifolia	Zamia	latifolia	Lodd. ex Miq.										Tijdschr. Wis-Natuurk. Wetensch. Eerste Kl. Kon. Ned. Inst. Wetensch. 2(4): 298	1849		
+494	syn	542	het	Zamiaceae	Zamia latifoliolata	Zamia	latifoliolata	Prenlel.										Bull. Soc. Vaud. Sci. Nat. 11: 278	1872		
+495	syn	502	het	Zamiaceae	Zamia lawsoniana	Zamia	lawsoniana	Dyer										Biol. Cent.-Amer., Bot. 3: 195	1884		
+496	acc	0		Zamiaceae	Zamia lecointei	Zamia	lecointei	Ducke										Arch. Jard. Bot. Rio de Janeiro 1: 9-10, pls 1-2	1915	NT	Brazil (Pará), Colombia (Amazonas), Venezuela (Amazonas)
+497	syn	502	het	Zamiaceae	Zamia leiboldii	Zamia	leiboldii	Miq.										Linnaea 19(4): 425	1847		
+498	syn	502	het	Zamiaceae	Zamia leiboldii var. angustifolia	Zamia	leiboldii	Miq.	var.	angustifolia	Regel							Trudy Imp. S.-Peterburgsk. Bot. Sada 4(4): 307	1876		
+499	syn	502	het	Zamiaceae	Zamia leiboldii var. latifolia	Zamia	leiboldii	Miq.	var.	latifolia	Regel							Trudy Imp. S.-Peterburgsk. Bot. Sada 4(4): 307	1876		
+718	syn	502	hom	Zamiaceae	Zamia leiboldii var. leiboldii	Zamia	leiboldii	Miq.	var.	leiboldii								Trudy Imp. S.-Peterburgsk. Bot. Sada 4(4): 307	1876		
+500	acc	0		Zamiaceae	Zamia lindenii	Zamia	lindenii	Regel ex André										Ill. Hort. 22: 23, pl. 195	1875	[DD]	Ecuador (Azuay, Bolivar, Chimborazo, El Oro, Esmeraldas, Guayas, Los Ríos, Manabi, Pichincha), Perú (Tumbes)
+501	acc	0		Zamiaceae	Zamia lindleyi	Zamia	lindleyi	Warsz. ex A.Dietr.										Allg. Gartenzeitung 19: 145-146, fig. s.n.	1851	[DD]	Panama (Bocas del Toro, Chiriquí)
+826	acc	0		Zamiaceae	Zamia lindosensis	Zamia	lindosensis	D.W.Stev., D.Cárdenas & N.Castaño										Brittonia 70(3): 364 [epublished 19 Jun 2018]	2018	[EN]	Colombia (Guaviare)
+502	acc	0		Zamiaceae	Zamia loddigesii	Zamia	loddigesii	Miq.										Tijdschr. Natuurl. Gesch. Physiol. 10: 72-73	1843	NT	Mexico (Chiapas, Hidalgo, Oaxaca, Tabasco, Tamaulipas, Veracruz)
+503	syn	502	het	Zamiaceae	Zamia loddigesii var. angustifolia	Zamia	loddigesii	Miq.	var.	angustifolia	Regel							Bull. Soc. Imp. Naturalistes Moscou 30(1): 190	1857		
+719	syn	502	hom	Zamiaceae	Zamia loddigesii var. loddigesii	Zamia	loddigesii	Miq.	var.	loddigesii								Bull. Soc. Imp. Naturalistes Moscou 30(1): 190	1857		
+504	syn	502	het	Zamiaceae	Zamia loddigesii var. longifolia	Zamia	loddigesii	Miq.	var.	longifolia	J.Schust.							in Engler, Pflanzenr. 99: 147	1932		
+505	syn	502	het	Zamiaceae	Zamia loddigesii var. obtusifolia	Zamia	loddigesii	Miq.	var.	obtusifolia	Regel							Bull. Soc. Imp. Naturalistes Moscou 30(1): 190	1857		
+506	syn	321	bas	Zamiaceae	Zamia longifolia	Zamia	longifolia	Jacq.										Fragm. Bot.: 28, t. 29	1801		
+507	acc	0		Zamiaceae	Zamia lucayana	Zamia	lucayana	Britton										Bull. New York Bot. Gard. 5(18): 311	1907	EN, [CR]	Bahamas (Abaco, Long Island)
+508	acc	0		Zamiaceae	Zamia macrochiera	Zamia	macrochiera	D.W.Stev.										Cycad Classific. Concepts & Recommend.: 185-186, fig. 14.7	2004	CR	Peru (Loreto)
+509	syn	511	het	Zamiaceae	Zamia madida	Zamia	madida	R.E.Schult.										Bot. Mus. Leafl. 18: 114, pl. 18	1958		
+510	syn	248	het	Zamiaceae	Zamia maelenii	Zamia	maelenii	Miq.										Linnaea 18(1): 97-98	1844		
+511	acc	0		Zamiaceae	Zamia manicata	Zamia	manicata	Linden ex Regel										Trudy Imp. S.-Peterburgsk. Bot. Sada 4(4): 310, t. 926, fig. e	1876	NT	Colombia (Antioquia, Chocó), Panama (Darién)
+512	syn	485	het	Zamiaceae	Zamia media	Zamia	media	Jacq.										Pl. Rar. Hort. Schoenbr. 3: 77, tt. 397, 398	1798		
+775	syn	542	syn	Zamiaceae	Zamia media var. commeliniana	Zamia	media	Jacq.	var.	commeliniana	J.Schust.							in Engler, Pflanzenr. 99: 155-157	1932		
+777	syn	550	hom	Zamiaceae	Zamia media var. commeliniana f. silicea	Zamia	media	Jacq.	var.	commeliniana	J.Schust.	f.	silicea	(Britton) J.Schust.				in Engler, Pflanzenr. 99: 157	1932		
+780	syn	475	hom	Zamiaceae	Zamia media var. gutierrezii	Zamia	media	Jacq.	var.	gutierrezii	(Sauvalle) J.Schust.							in Engler, Pflanzenr. 99: 154-155	1932		
+781	?	0		Zamiaceae	Zamia media var. gutierrezii f. calcicola	Zamia	media	Jacq.	var.	gutierrezii	(Sauvalle) J.Schust.	f.	calcicola	J.Schust.				in Engler, Pflanzenr. 99: 155	1932		
+776	syn	512	hom	Zamiaceae	Zamia media var. jacquiniana	Zamia	media	Jacq.	var.	jacquiniana	J.Schust.							in Engler, Pflanzenr. 99: 157-158	1932		
+782	?	0		Zamiaceae	Zamia media var. jacquiniana f. brevipinnata	Zamia	media	Jacq.	var.	jacquiniana	J.Schust.	f.	brevipinnata	J.Schust.				in Engler, Pflanzenr. 99: 158	1932		
+779	syn	537	hom	Zamiaceae	Zamia media var. portoricensis	Zamia	media	Jacq.	var.	portoricensis	(Urb.) J.Schust.							in Engler, Pflanzenr. 99: 158	1932		
+778	syn	560	hom	Zamiaceae	Zamia media var. tenuis	Zamia	media	Jacq.	var.	tenuis	(Willd.) J.Schust.							in Engler, Pflanzenr. 99: 158	1932		
+513	acc	0		Zamiaceae	Zamia meermanii	Zamia	meermanii	Calonje										J. Bot. Res. Inst. Texas 3(1): 23-29, figs. 1-2	2009	[EN]	Belize (Belize, Cayo, Toledo)
+514	acc	0		Zamiaceae	Zamia melanorrhachis	Zamia	melanorrhachis	D.W.Stev.										Fl. Colombia (1983+)21: 55, fig. 11	2001	EN	Colombia (Antioquia, Córdoba, Santander)
+515	syn	502	het	Zamiaceae	Zamia mexicana	Zamia	mexicana	Miq.										Prodr. Syst. Cycad.: 13-14, 25-26	1861		
+737	?	0		Zamiaceae	Zamia miquelii	Zamia	miquelii	W.Bull										Retail List [Bull] No. 121: 149	1876		
+516	acc	0		Zamiaceae	Zamia montana	Zamia	montana	Braun										Monatsber. Königl. Preuss. Akad. Wiss. Berlin: 376-377	1875	CR	Colombia (Antioquia, Risaralda)
+517	acc	0		Zamiaceae	Zamia monticola	Zamia	monticola	Chamb.										Bot. Gaz. 81(2): 219, 223, figs. 1-3	1926	CR	Guatemala (Alta Verapaz)
+518	syn	441	het	Zamiaceae	Zamia multifoliolata	Zamia	multifoliolata	A.DC.										Prodr. [A. P. de Candolle] 16(2): 545	1868		
+519	acc	0		Zamiaceae	Zamia muricata	Zamia	muricata	Willd.										Sp. Pl., ed. 4 [Willdenow] 4: 847-848	1806	NT	Colombia (La Guajira, Meta), Venezuela (Carabobo, Falcón, Guárico, Lara, Miranda, Yaracuy)
+520	syn	519	het	Zamiaceae	Zamia muricata var. angustifolia	Zamia	muricata	Willd.	var.	angustifolia	Miq.							Monogr. Cycad.: 66	1842		
+720	syn	519	hom	Zamiaceae	Zamia muricata var. muricata	Zamia	muricata	Willd.	var.	muricata								Monogr. Cycad.: 66	1842		
+521	syn	493	hom	Zamiaceae	Zamia muricata var. obtustifolia	Zamia	muricata	Willd.	var.	obtustifolia	Miq.							Tijdschr. Natuurl. Gesch. Physiol. 10: 71-72	1843		
+434	acc	0		Zamiaceae	Zamia nana	Zamia	nana	A.Lindstr., Calonje, D.W.Stev. & A.S.Taylor										Phytotaxa 98(2): 2742, figs. 6-7	2013	[EN]	Panama (Coclé)
+435	inv	303	het	Zamiaceae	Zamia nana	Zamia	nana	de Vriese										Tijdschr. Natuurl. Gesch. Physiol. 4:(4) 421	1838		
+522	acc	0		Zamiaceae	Zamia nesophila	Zamia	nesophila	A.S.Taylor, J.L.Haynes & Holzman										Bot. J. Linn. Soc. 158(3): 399-429, figs. 7b, 8b, 10	2008	[CR]	Panama (Bocas del Toro)
+523	acc	0		Zamiaceae	Zamia neurophyllidia	Zamia	neurophyllidia	D.W.Stev.										Brittonia 45(1): 10, fig. 5	1993	VU	Costa Rica, Nicaragua (Río San Juan, Atlántico Sur), Panama (Bocas del Toro)
+524	dub	0		Zamiaceae	Zamia noeffiana	Zamia	noeffiana	Linden ex Wittm.										Gartenflora 46: 358	1897		
+525	syn	496	het	Zamiaceae	Zamia obidensis	Zamia	obidensis	Ducke										Arch. Jard. Bot. Rio de Janeiro 3: 19	1922		
+526	acc	0		Zamiaceae	Zamia obliqua	Zamia	obliqua	A.Braun										Monatsber. Königl. Preuss. Akad. Wiss. Berlin: 376	1875	NT	Colombia (Antioquia, Chocó, Valle del Cauca), Costa Rica (Puntarenas), Panama (Darién, Panamá)
+527	sup	526	het	Zamiaceae	Zamia obliqua	Zamia	obliqua	Regel ex Ducos										Ill. Hort. 24: 140, pl. 289	1877		
+528	acc	0		Zamiaceae	Zamia oligodonta	Zamia	oligodonta	E.Calderón & D.W.Stev.										Revista Acad. Colomb. Ci. Exact. 27(105): 486-490	2003	DD, [EN]	Colombia (Risaralda)
+529	acc	0		Zamiaceae	Zamia onan-reyesii	Zamia	onan-reyesii	C.Nelson & Sandoval										Ceiba 49(1): 135-136, figs. 1-6	2008	[CR]	Honduras (Cortés)
+530	acc	0		Zamiaceae	Zamia oreillyi	Zamia	oreillyi	C.Nelson										Ceiba 46(1): 42, figs. 11-13	2006	VU	Honduras (Atlántida)
+531	syn	545	het	Zamiaceae	Zamia ottonis	Zamia	ottonis	Miq.										Linnaea 17(6): 740	1844		
+532	sup	543	het	Zamiaceae	Zamia pallida	Zamia	pallida	Salisb.										Prodr. Stirp. Chap. Allerton: 401	1796		
+582	inv	535	het	Zamiaceae	Zamia parasitica	Zamia	parasitica	Poepp. ex Eichler										Fl. Bras. (Martius) 4(1): 414	1863		
+830	acc	0		Zamiaceae	Zamia paucifoliolata	Zamia	paucifoliolata	Calonje										Phytotaxa 385(2): 85-93. 2018 [epublished 27 Dec 2018]	2018	[EN]	
+533	acc	0		Zamiaceae	Zamia paucijuga	Zamia	paucijuga	Wieland										Amer. Foss. Cycads 2: 212, fig. 86	1916	NT	Mexico (Colima, Guerrero, Jalisco, Michoacán, Nayarit, Oaxaca)
+534	syn	566	het	Zamiaceae	Zamia picta	Zamia	picta	Dyer										Biol. Cent.-Amer., Bot. 3: 194	1884		
+535	acc	0		Zamiaceae	Zamia poeppigiana	Zamia	poeppigiana	Mart. & Eichler										Fl. Bras. (Martius) 4(1): 414-416, t. 109	1863	NT	Brazil (Acre), Peru (Amazonas, Huánuco, Loreto, Pasco, San Martin, Ucayali)
+536	syn	539	het	Zamiaceae	Zamia polymorpha	Zamia	polymorpha	D.W.Stev., A.Moretti & Vázq.Torres										Delpinoa 37-38: 3-8, fig. 1 (199596 issued 1998)	1998		
+537	acc	0		Zamiaceae	Zamia portoricensis	Zamia	portoricensis	Urb.										Symb. Antill. 1(2): 291	1899	EN	W Puerto Rico
+538	dub	0		Zamiaceae	Zamia potemkinii	Zamia	potemkinii	Hort. ex Miq.										Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk. 2(4): 30	1869		
+539	acc	0		Zamiaceae	Zamia prasina	Zamia	prasina	W.Bull										Retail List [Bull]: No. 176: 20	1881	[NT], List	Belize (Belize, Cayo, Orange Walk, Stann Creek, Toledo), Guatemala (Petén), Mexico (Campeche, Chiapas, Tabasco, Quintana Roo, Yucatán)
+654	syn	449	het	Zamiaceae	Zamia princeps	Zamia	princeps	Rob.										The Garden 9: 559	1876		
+48	inv	0		Zamiaceae	Zamia pseudomonticola	Zamia	pseudomonticola	L.D.Gómez										Phytologia 50(6): 401-404	1982	NT	Costa Rica (Puntarenas), Panama (Chiriquí)
+540	acc	0		Zamiaceae	Zamia pseudomonticola	Zamia	pseudomonticola	L.D.Gómez ex D.W.Stev. & Sabato										Taxon 35(1): 141	1986	NT	Costa Rica (Puntarenas), Panama (Chiriquí)
+541	acc	0		Zamiaceae	Zamia pseudoparasitica	Zamia	pseudoparasitica	J.Yates										Bot. Voy. Herald 6: 201-203, 253	1854	NT	Panama (Bocas del Toro, Coclé, Colón, Veraguas)
+542	acc	0		Zamiaceae	Zamia pumila	Zamia	pumila	L.										Sp. Pl. ed. 2. 2: 1659	1763	NT	Cuba, Dominican Republic, Puerto Rico
+819	syn	542	hom	Zamiaceae	Zamia pumila subsp. pumila	Zamia	pumila	L.	subsp.	pumila								J. Arnold Arbor. 61: 719	1981		
+783	syn	545	hom	Zamiaceae	Zamia pumila subsp. pygmaea	Zamia	pumila	L.	subsp.	pygmaea	(Sims) Eckenw.							J. Arnold Arbor. 61: 719	1981		
+543	syn	339	bas	Zamiaceae	Zamia pungens	Zamia	pungens	L.f.										Hort. Kew. (W. Aiton) 3: 478	1789		
+544	acc	0		Zamiaceae	Zamia purpurea	Zamia	purpurea	Vovides, J.D.Rees & Vázq.Torres										Fl. Veracruz 26: 28-31, fig. 5	1983	CR	Mexico (Oaxaca, Veracruz)
+545	acc	0		Zamiaceae	Zamia pygmaea	Zamia	pygmaea	Sims										Bot. Mag. 42: t.1741	1815	CR	Cuba (W Cuba, Isla de la Juventud)
+784	syn	489	hom	Zamiaceae	Zamia pygmaea var. kickxii	Zamia	pygmaea	Sims	var.	kickxii	(Miq.) J.Schust.							in Engler, Pflanzenr. 99: 152-153	1932		
+785	syn	531	hom	Zamiaceae	Zamia pygmaea var. ottonis	Zamia	pygmaea	Sims	var.	ottonis	(Miq.) J.Schust.							in Engler, Pflanzenr. 99: 153	1932		
+786	syn	545	syn	Zamiaceae	Zamia pygmaea var. wrightii	Zamia	pygmaea	Sims	var.	wrightii	Miq.							Prodr. [A. P. de Candolle] 16(2): 543-544	1868		
+546	acc	0		Zamiaceae	Zamia pyrophylla	Zamia	pyrophylla	Calonje, D.W.Stev. & A.Lindstr.										Brittonia 62(1): 80-85, figs. 1-2	2010	[CR]	Colombia (Chocó)
+547	acc	0		Zamiaceae	Zamia restrepoi	Zamia	restrepoi	(D.W.Stev.) A.Lindstr.										Taxon 58(1): 268	2009	CR	Colombia (Córdoba)
+548	acc	0		Zamiaceae	Zamia roezlii	Zamia	roezlii	Linden										Cat. General 90: 10	1873	NT	Colombia (Chocó, Nariño, Valle del Cauca), Ecuador (Esmeraldas, Imbabura)
+549	acc	0		Zamiaceae	Zamia sandovalii	Zamia	sandovalii	C.Nelson										Ceiba 46(1): 41-42, figs. 1-10	2006	NT	Honduras (Atlántida)
+550	syn	545	het	Zamiaceae	Zamia silicea	Zamia	silicea	Britton										Bull. Torrey Bot. Club 43: 462	1916		
+551	syn	485	het	Zamiaceae	Zamia silvicola	Zamia	silvicola	Small										J. New York Bot. Gard. 27(318): 128, figs. 1,2	1926		
+552	acc	0		Zamiaceae	Zamia skinneri	Zamia	skinneri	Warsz. ex A.Dietr.										Allg. Gartenzeitung 19: 146, fig. s.n.	1851	EN	Panama (Bocas del Toro)
+553	acc	0		Zamiaceae	Zamia soconuscensis	Zamia	soconuscensis	Schutzman, Vovides & Dehgan										Bot. Gaz. 149(3): 347-351, figs. 1-3	1988	VU	Mexico (Chiapas)
+554	acc	0		Zamiaceae	Zamia spartea	Zamia	spartea	A.DC.										Prodr. [A. P. de Candolle] 16(2): 539	1868	CR	Mexico (Oaxaca)
+580	syn	423	bas	Zamiaceae	Zamia spiralis	Zamia	spiralis	Salisb.										Prodr. Stirp. Chap. Allerton : 401	1796		
+555	acc	0		Zamiaceae	Zamia splendens	Zamia	splendens	Schutzman										Phytologia 55(5): 299-303	1984	EN	Mexico (Chiapas, Tabasco, Veracruz)
+556	acc	0		Zamiaceae	Zamia standleyi	Zamia	standleyi	Schutzman										Syst. Bot. 14(2): 214-219, figs. 1-2	1989	VU	Guatemala (Izabal), Honduras (Atlántida, Colón, Cortés, Olancho, Santa Barbara, Yoro)
+557	acc	0		Zamiaceae	Zamia stevensonii	Zamia	stevensonii	A.S.Taylor & Holzman										Bot. Rev. (Lancaster) 78(4): 335-344, figs. 1-4	2012	[CR]	Panama (Panamá)
+558	acc	0		Zamiaceae	Zamia stricta	Zamia	stricta	Miq.										Nieuwe Verh. Eerste Kl. Kon. Ned. Inst. Wetensch. Amsterdam 3(4): 183	1851	VU	Cuba (Oriente)
+559	syn	502	het	Zamiaceae	Zamia sylvatica	Zamia	sylvatica	Chamb.										Bot. Gaz. 81(2): 223, 225, fig. 4	1926		
+729	?	0		Zamiaceae	Zamia tenuifolia	Zamia	tenuifolia	W.Bull										Retail List [Bull] No. 72: 8	1872		
+560	syn	485	het	Zamiaceae	Zamia tenuis	Zamia	tenuis	Willd.										Sp. Pl., ed. 4 [Willdenow] 4(2): 846	1806		
+561	acc	0		Zamiaceae	Zamia tolimensis	Zamia	tolimensis	Calonje, H.E.Esquivel & D.W.Stev.										Brittonia 63(4): 442-451 , figs. 1-2	2011	[CR]	Colombia (Tolima)
+581	syn	229	bas	Zamiaceae	Zamia tonkinensis	Zamia	tonkinensis	L.Linden & Rodigas										Ill. Hort. 32: 27, pl. 547	1885		
+587	dub	573	syn	Zamiaceae	Zamia tridentata	Zamia	tridentata	Willd.										Sp. Pl., ed. 4 [Willdenow] 4(2): 845-846	1806		
+562	acc	0		Zamiaceae	Zamia tuerckheimii	Zamia	tuerckheimii	Donn.Sm.										Bot. Gaz. 35(1): 8, pl. 1	1903	NT	Guatemala (Alta Verapaz)
+563	acc	0		Zamiaceae	Zamia ulei	Zamia	ulei	Dammer										Verh. Bot. Vereins Prov. Brandenburg 48: 117-118	1907	NT	Bolivia (Pando), Brazil (Acre, Amazonas, Rondônia), Colombia (Amazonas, Caquetá, Guainía, Putumayo, Vaupés), Ecuador (Napo, Pastaza, Sucumbíos), Peru (Loreto, Madre de Dios, Ucayali)
+652	syn	496	hom	Zamiaceae	Zamia ulei subsp. lecointei	Zamia	ulei	Dammer	subsp.	lecointei	(Ducke) Ducke							Arch. Jard. Bot. Rio de Janeiro 3: 19	1922		
+721	syn	563	hom	Zamiaceae	Zamia ulei subsp. ulei	Zamia	ulei	Dammer	subsp.	ulei								Arch. Jard. Bot. Rio de Janeiro 3: 19	1922		
+564	syn	485	het	Zamiaceae	Zamia umbrosa	Zamia	umbrosa	Small										J. New York Bot. Gard. 22: 136, in adnot.	1921		
+565	acc	0		Zamiaceae	Zamia urep	Zamia	urep	B.Walln.										Linzer Biol. Beitr. 28(2): 1056	1996	CR	Peru (Huánuco)
+566	acc	0		Zamiaceae	Zamia variegata	Zamia	variegata	Warsz.										Allg. Gartenzeitung 32: 252-253	1845	EN	Belize (Toledo), Guatemala (Alta Verapaz, Izabal), Mexico (Chiapas)
+567	acc	0		Zamiaceae	Zamia vazquezii	Zamia	vazquezii	D.W.Stev., Sabato & De Luca										Delpinoa 37-38: 9-17 , figs. 1-4 (199596 issued 1998)	1998	CR	Mexico (Veracruz)
+568	syn	272	het	Zamiaceae	Zamia vernicosa	Zamia	vernicosa	Mast.										Gard. Chron. 25(14): 349	1868		
+569	dub	0		Zamiaceae	Zamia verschaffeltii	Zamia	verschaffeltii	Miq.										Verh. Kon. Ned. Akad. Wetensch., Afd. Natuurk. 2(4): 31-32	1869		
+8	acc	0		Zamiaceae	Zamia wallisii	Zamia	wallisii	Braun										Monatsber. Königl. Preuss. Akad. Wiss. Berlin: 376	1875	CR	Colombia (Antioquia)
+1	syn	443	hom	Zamiaceae	Zamia wielandii	Zamia	wielandii	J.Schust.										in Engler, Pflanzenr. 99: 149	1932		
+13	syn	441	het	Zamiaceae	Zamia yatesii	Zamia	yatesii	Miq.										Nieuwe Verh. Eerste Kl. Kon. Ned. Inst. Wetensch. Amsterdam 3(4): 182	1851		
