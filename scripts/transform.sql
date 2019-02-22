@@ -32,6 +32,24 @@ SELECT SPNUMBER AS ID,
        NULL AS link
 FROM WorkDB_Cycads.COL_Cycads;
 
+DROP TABLE IF EXISTS COLDP_Cycads.`Taxon`;
+CREATE TABLE COLDP_Cycads.`Taxon`
+SELECT
+       SPNUMBER AS ID,
+       SPNUMBER AS nameID,
+       IF (TAXSTAT IN ('?', 'dub'), True, False) AS provisional,
+       'Calonje M., Stanberg L. & Stevenson D.' AS accordingTo,
+       '0000-0001-9650-3136;;0000-0002-2986-7076' AS accordingToID,
+       '2019-02-15' AS accordingToDate,
+       False AS fossil,
+       True AS recent,
+       'Plantae' AS kingdom,
+       'Tracheophyta' AS phylum,
+       'Cycadopsida' AS class,
+       GENUS AS genus,
+       FAMILY AS family
+FROM WorkDB_Cycads.COL_Cycads WHERE TAXSTAT IN ('acc', 'dub', 'hyb', '?');
+
 DROP TABLE IF EXISTS COLDP_Cycads.`NameRel`;
 CREATE TABLE COLDP_Cycads.`NameRel`
 SELECT SYNOF AS nameID,
@@ -56,4 +74,8 @@ SELECT SPNUMBER AS taxonID,
        'text' AS gazetteer,
        NULL AS status,
        IUCN AS threatStatus
-FROM WorkDB_Cycads.COL_Cycads;
+FROM WorkDB_Cycads.COL_Cycads WHERE TAXSTAT IN ('acc', 'dub', 'hyb', '?');
+
+
+SELECT * FROM WorkDB_Cycads.COL_Cycads INV INNER JOIN WorkDB_Cycads.COL_Cycads SYN ON INV.SPNUMBER = SYN.SYNOF WHERE INV.TAXSTAT="INV";
+
