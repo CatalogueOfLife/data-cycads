@@ -1,0 +1,1 @@
+INSERT INTO AssemblyDB.specialists (record_id, specialist_name, specialist_code, database_id) VALUES (null, 'Calonje M., Stevenson D.W., Osborne R.', 'Cyd-1', 163);
