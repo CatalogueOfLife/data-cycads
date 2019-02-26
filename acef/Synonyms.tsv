@@ -1,358 +1,358 @@
 ID	AcceptedTaxonID	Genus	SubGenusName	SpeciesEpithet	AuthorString	InfraSpecies	InfraSpeciesMarker	InfraSpeciesAuthorString	GSDNameStatus	Sp2000NameStatus	GSDNameGUID
-"2"	"500"	"Aulacophyllum"		"lindenii"	"(Regel ex André) Regel"					"5"	
-"3"	"516"	"Aulacophyllum"		"montanum"	"(A.Braun) Regel"					"5"	
-"4"	"449"	"Aulacophyllum"		"ortgiesii"	"Regel"					"5"	
-"5"	"548"	"Aulacophyllum"		"roezlii"	"(Linden) Regel"					"5"	
-"6"	"552"	"Aulacophyllum"		"skinneri"	"(Warsz. ex A.Dietr.) Regel"					"5"	
-"7"	"8"	"Aulacophyllum"		"wallisii"	"(A.Braun) Regel"					"5"	
-"11"	"9"	"Bowenia"		"spectabilis"		"serrata"	"var."	"F.M.Bailey"		"5"	
-"12"	"9"	"Bowenia"		"spectabilis"		"serrulata"	"var."	"W.Bull"		"5"	
-"681"	"10"	"Bowenia"		"spectabilis"		"spectabilis"	"var."			"5"	
-"14"	"371"	"Catakidozamia"		"hopei"	"W.Hill"					"5"	
-"17"	"47"	"Ceratozamia"		"becerrae"	"Pérez-Farr., Vovides & Schutzman"					"5"	
-"18"	"444"	"Ceratozamia"		"boliviana"	"Brongn."					"5"	
-"27"	"33"	"Ceratozamia"		"intermedia"	"Miq."					"5"	
-"28"	"488"	"Ceratozamia"		"katzeriana"	"Regel"					"5"	
-"31"	"33"	"Ceratozamia"		"longifolia"	"Miq."					"5"	
-"743"	"374"	"Ceratozamia"		"mexicana"		"longifolia"	"var."	"Miq."		"5"	
-"682"	"33"	"Ceratozamia"		"mexicana"		"mexicana"	"var."			"5"	
-"585"	"41"	"Ceratozamia"		"mexicana"		"robusta"	"var."	"(Miq.) Dyer"		"5"	
-"34"	"793"	"Ceratozamia"		"mexicana"		"tenuis"	"var."	"Dyer"		"5"	
-"49"	"547"	"Chigua"		"bernalii"	"D.W.Stev."					"5"	
-"50"	"547"	"Chigua"		"restrepoi"	"D.W.Stev."					"5"	
-"53"	"207"	"Cycas"		"acuminatissima"	"Hung T.Chang, Y.C.Zhong & Z.F.Lu"					"5"	
-"795"	"595"	"Cycas"		"andamanica"	"K.Prassad, M.V.Ramana, Sanjappa & B.R.P.Rao"					"5"	
-"64"	"180"	"Cycas"		"baguanheensis"	"L.K.Fu & S.Z.Cheng"					"5"	
-"72"	"210"	"Cycas"		"brevipinnata"	"Hung T.Chang, Y.Y.Huang & Y.C.Zhong"					"5"	
-"74"	"280"	"Cycas"		"caffra"	"Thunb."					"5"	
-"683"	"79"	"Cycas"		"canalis"		"canalis"	"subsp."			"5"	
-"78"	"79"	"Cycas"		"canalis"		"carinata"	"subsp."	"K.D.Hill"		"5"	
-"82"	"197"	"Cycas"		"celebica"	"Miq."					"5"	
-"84"	"196"	"Cycas"		"chamberlainii"	"W.H.Br. & Kienholz"					"5"	
-"684"	"87"	"Cycas"		"circinalis"		"circinalis"	"f."			"5"	
-"88"	"128"	"Cycas"		"circinalis"		"glauca"	"f."	"(Miq.) J.Schust."		"5"	
-"90"	"233"	"Cycas"		"circinalis"		"undulata"	"f."	"(Hort. ex Gaudich.) J.Schust."		"5"	
-"685"	"87"	"Cycas"		"circinalis"		"circinalis"	"subsp."			"5"	
-"722"	"91"	"Cycas"		"circinalis"		"madagascariensis"	"subsp."			"5"	
-"92"	"228"	"Cycas"		"circinalis"		"madagascariensis"	"subsp."	"(Miq.) J.Schust."		"5"	
-"93"	"181"	"Cycas"		"circinalis"		"papuana"	"subsp."	"(F.Muell.) J.Schust."		"2"	
-"723"	"93"	"Cycas"		"circinalis"		"papuana"	"subsp."			"5"	
-"94"	"205"	"Cycas"		"circinalis"		"papuana"	"subsp."	"(F.Muell.) J.Schust."		"2"	
-"95"	"196"	"Cycas"		"circinalis"		"riuminiana"	"subsp."	"(Porte ex Regel) J.Schust."		"2"	
-"96"	"84"	"Cycas"		"circinalis"		"riuminiana"	"subsp."	"(Porte ex Regel) J.Schust."		"2"	
-"97"	"235"	"Cycas"		"circinalis"		"riuminiana"	"subsp."	"(Porte ex Regel) J.Schust."		"2"	
-"98"	"115"	"Cycas"		"circinalis"		"riuminiana"	"subsp."	"(Porte ex Regel) J.Schust."		"2"	
-"99"	"120"	"Cycas"		"circinalis"		"riuminiana"	"subsp."	"(Porte ex Regel) J.Schust."		"2"	
-"724"	"95"	"Cycas"		"circinalis"		"riuminiana"	"subsp."			"5"	
-"100"	"206"	"Cycas"		"circinalis"		"seemannii"	"subsp."	"(Regalado) J.Schust."		"5"	
-"101"	"228"	"Cycas"		"circinalis"		"thouarsii"	"subsp."	"(R.Br. ex Gaudich.) Engl."		"5"	
-"726"	"87"	"Cycas"		"circinalis"		"vera"	"subsp."	"J.Schust."		"2"	
-"102"	"67"	"Cycas"		"circinalis"		"vera"	"subsp."	"J.Schust."		"2"	
-"103"	"183"	"Cycas"		"circinalis"		"vera"	"subsp."	"J.Schust."		"2"	
-"725"	"726"	"Cycas"		"circinalis"		"vera"	"subsp."			"5"	
-"104"	"87"	"Cycas"		"circinalis"		"angustifolia"	"var."	"Miq."		"5"	
-"686"	"87"	"Cycas"		"circinalis"		"circinalis"	"var."			"5"	
-"105"	"142"	"Cycas"		"circinalis"		"javana"	"var."	"Miq."		"5"	
-"106"	"673"	"Cycas"		"circinalis"		"orixensis"	"var."	"Haines"		"5"	
-"687"	"107"	"Cycas"		"clivicola"		"clivicola"	"subsp."			"5"	
-"108"	"107"	"Cycas"		"clivicola"		"lutea"	"subsp."	"K.D.Hill"		"5"	
-"797"	"228"	"Cycas"		"comorensis"	"Bruant"					"5"	
-"113"	"207"	"Cycas"		"crassipes"	"Hung T.Chang, Y.C.Zhong & Z.F.Lu"					"5"	
-"812"	"595"	"Cycas"		"dharmrajii"	"L.J.Singh"					"5"	
-"129"	"576"	"Cycas"		"gracilis"	"Miq."					"5"	
-"130"	"576"	"Cycas"		"gracilis"		"glauca"	"var."	"Regel"		"5"	
-"688"	"129"	"Cycas"		"gracilis"		"gracilis"	"var."			"5"	
-"131"	"576"	"Cycas"		"gracilis"		"viridis"	"var."	"Regel"		"5"	
-"135"	"85"	"Cycas"		"hainanensis"		"changjiangensis"	"subsp."	"(N.Liu) N.Liu"		"5"	
-"689"	"134"	"Cycas"		"hainanensis"		"hainanensis"	"subsp."			"5"	
-"139"	"213"	"Cycas"		"immersa"	"Craib"					"5"	
-"143"	"183"	"Cycas"		"jenkinsiana"	"Griff."					"5"	
-"144"	"576"	"Cycas"		"kennedyana"	"F.Muell."					"5"	
-"148"	"134"	"Cycas"		"lingshuiensis"	"G.A.Fu"					"5"	
-"149"	"120"	"Cycas"		"litoralis"	"K.D.Hill"					"5"	
-"150"	"207"	"Cycas"		"longiconifera"	"Hung T.Chang, Y.C.Zhong & Y.Y.Huang"					"5"	
-"151"	"570"	"Cycas"		"longipetiolula"	"D.Yue Wang"					"5"	
-"152"	"210"	"Cycas"		"longisporophylla"	"F.N.Wei"					"5"	
-"153"	"133"	"Cycas"		"longlinensis"	"Hung T.Chang & Y.C.Zhong"					"5"	
-"158"	"228"	"Cycas"		"madagascariensis"	"Miq."					"5"	
-"800"	"66"	"Cycas"		"media"		"basaltica"	"var."	"(C.A.Gardner) J.Schust."		"5"	
-"801"	"127"	"Cycas"		"media"		"furfuracea"	"var."	"(W.Fitzg.) J.Schust."		"5"	
-"798"	"146"	"Cycas"		"media"		"lanepoolei"	"var."	"(C.A.Gardner) J.Schust."		"5"	
-"690"	"163"	"Cycas"		"micholitzii"		"micholitzii"	"var."			"5"	
-"164"	"216"	"Cycas"		"micholitzii"		"simplicipinna"	"var."	"Smitinand"		"5"	
-"166"	"191"	"Cycas"		"miquelii"	"Warb."					"5"	
-"168"	"207"	"Cycas"		"multifida"	"Hung T.Chang & Y.C.Zhong"					"5"	
-"171"	"118"	"Cycas"		"multiovula"	"D.Yue Wang"					"5"	
-"175"	"576"	"Cycas"		"normanbyana"	"F.Muell."					"5"	
-"179"	"65"	"Cycas"		"palmatifida"	"Hung T.Chang, Y.Y.Huang & Y.C.Zhong"					"5"	
-"182"	"118"	"Cycas"		"parvula"	"S.L.Yang"					"5"	
-"185"	"118"	"Cycas"		"pectinata"		"manhaoensis"	"subsp."	"C.J.Chen & P.Yun"		"5"	
-"184"	"122"	"Cycas"		"pectinata"		"elongata"	"var."	"Leandri"		"5"	
-"691"	"183"	"Cycas"		"pectinata"		"pectinata"	"var."			"5"	
-"794"	"595"	"Cycas"		"pschannae"	"R.C.Srivast. & L.J.Singh"					"5"	
-"192"	"191"	"Cycas"		"revoluta"		"brevifrons"	"var."	"Miq."		"5"	
-"193"	"191"	"Cycas"		"revoluta"		"planifolia"	"var."	"Miq."		"5"	
-"194"	"191"	"Cycas"		"revoluta"		"prolifera"	"var."	"Siebold & Zucc."		"5"	
-"692"	"191"	"Cycas"		"revoluta"		"revoluta"	"var."			"5"	
-"195"	"191"	"Cycas"		"revoluta"		"robusta"	"var."	"Messeri"		"5"	
-"741"	"224"	"Cycas"		"revoluta"		"taiwaniana"	"var."	"(Carruth.) J.Schust."		"5"	
-"693"	"197"	"Cycas"		"rumphii"		"rumphii"	"f."			"5"	
-"198"	"233"	"Cycas"		"rumphii"		"undulata"	"f."	"(Desf. ex Gaudich.) Kaneh."		"5"	
-"799"	"175"	"Cycas"		"rumphii"		"normanbyana"	"subsp."	"(F.Muell.) J.Schust."		"5"	
-"694"	"197"	"Cycas"		"rumphii"		"rumphii"	"subsp."			"5"	
-"199"	"241"	"Cycas"		"rumphii"		"zeylanica"	"subsp."	"J.Schust."		"5"	
-"200"	"69"	"Cycas"		"rumphii"		"bifida"	"var."	"Dyer"		"5"	
-"695"	"197"	"Cycas"		"rumphii"		"rumphii"	"var."			"5"	
-"802"	"206"	"Cycas"		"rumphii"		"seemannii"	"var."	"(Regalado) Parham"		"5"	
-"201"	"128"	"Cycas"		"rumphii"		"timorensis"	"var."	"Miq."		"5"	
-"209"	"210"	"Cycas"		"septemsperma"	"Hung T.Chang, Y.Y.Huang & H.X.Zheng"					"5"	
-"211"	"134"	"Cycas"		"shanyaensis"	"G.A.Fu"					"5"	
-"212"	"65"	"Cycas"		"shiwandashanica"	"Hung T.Chang & Y.C.Zhong"					"5"	
-"214"	"65"	"Cycas"		"siamensis"		"balansae"	"subsp."	"(Warb.) J.Schust."		"5"	
-"696"	"213"	"Cycas"		"siamensis"		"siamensis"	"subsp."			"5"	
-"218"	"210"	"Cycas"		"spiniformis"	"J.Y.Liang"					"5"	
-"220"	"140"	"Cycas"		"swamyi"	"Rita Singh & P.Radha"					"5"	
-"222"	"123"	"Cycas"		"szechuanensis"		"fairylakea"	"subsp."	"(D.Yue Wang) N.Liu"		"5"	
-"577"	"221"	"Cycas"		"szechuanensis"		"szechuanensis"	"subsp."			"5"	
-"233"	"87"	"Cycas"		"undulata"	"Desf. ex Gaudich."					"5"	
-"236"	"104"	"Cycas"		"wallichii"	"Miq."					"5"	
-"237"	"207"	"Cycas"		"xilingensis"	"Hung T.Chang & Y.C.Zhong"					"5"	
-"243"	"244"	"Dioon"		"aculeatum"	"Lem."					"5"	
-"249"	"244"	"Dioon"		"edule"		"angustifolium"	"f."	"(Miq.) Miq."		"5"	
-"697"	"248"	"Dioon"		"edule"		"edule"	"f."			"5"	
-"250"	"244"	"Dioon"		"edule"		"angustifolium"	"subsp."	"(Miq.) A.E.Murray"		"5"	
-"698"	"248"	"Dioon"		"edule"		"edule"	"subsp."			"5"	
-"251"	"244"	"Dioon"		"edule"		"angustifolium"	"var."	"(Miq.) Miq."		"5"	
-"699"	"248"	"Dioon"		"edule"		"edule"	"var."			"5"	
-"252"	"248"	"Dioon"		"edule"		"lanuginosum"	"var."	"Wittm."		"5"	
-"253"	"257"	"Dioon"		"edule"		"latipinnium"	"var."	"Dyer"		"5"	
-"254"	"261"	"Dioon"		"edule"		"sonorense"	"var."	"(De Luca, Sabato & Vázq.Torres) McVaugh & Pérez de la Rosa"		"5"	
-"256"	"248"	"Dioon"		"imbricatum"	"Miq."					"5"	
-"264"	"248"	"Dioon"		"strobilaceum"	"Lem. ex A.DC."					"5"	
-"266"	"261"	"Dioon"		"tomasellii"		"sonorense"	"var."	"De Luca, Sabato & Vázq.Torres"		"5"	
-"700"	"265"	"Dioon"		"tomasellii"		"tomasellii"	"var."			"5"	
-"269"	"163"	"Dyerocycas"		"micholitzii"	"(Dyer) Nakai"					"5"	
-"428"	"295"	"Encephalartos"		"acanthus"	"Mast."					"5"	
-"701"	"272"	"Encephalartos"		"altensteinii"		"altensteinii"	"var."			"5"	
-"590"	"272"	"Encephalartos"		"altensteinii"		"angustifolius"	"var."	"Miq."		"5"	
-"649"	"361"	"Encephalartos"		"altensteinii"		"bispinnus"	"var."	"J.M.Wood"		"5"	
-"612"	"272"	"Encephalartos"		"altensteinii"		"distans"	"var."	"Regel"		"5"	
-"636"	"303"	"Encephalartos"		"altensteinii"		"eriocephalus"	"var."	"de Vriese"		"5"	
-"619"	"272"	"Encephalartos"		"altensteinii"		"grandis"	"var."	"Regel"		"5"	
-"617"	"272"	"Encephalartos"		"altensteinii"		"macrophyllus"	"var."	"Regel"		"5"	
-"613"	"272"	"Encephalartos"		"altensteinii"		"parvifolius"	"var."	"Regel"		"5"	
-"611"	"335"	"Encephalartos"		"altensteinii"		"paucidentatus"	"var."	"Regel"		"5"	
-"591"	"272"	"Encephalartos"		"altensteinii"		"semidentatus"	"var."	"Miq."		"5"	
-"618"	"272"	"Encephalartos"		"altensteinii"		"spinosior"	"var."	"Regel"		"5"	
-"277"	"280"	"Encephalartos"		"brachyphyllus"	"Lehm. & de Vriese"					"5"	
-"625"	"277"	"Encephalartos"		"caffer"		"brachyphyllus"	"var."	"(Lehm. & de Vriese) Miq."		"5"	
-"702"	"280"	"Encephalartos"		"caffer"		"caffer"	"var."			"5"	
-"609"	"280"	"Encephalartos"		"caffer"		"integrifolius"	"var."	"Regel"		"5"	
-"610"	"280"	"Encephalartos"		"caffer"		"unidentatus"	"var."	"Regel"		"5"	
-"703"	"285"	"Encephalartos"		"cycadifolius"		"cycadifolius"	"var."			"5"	
-"606"	"295"	"Encephalartos"		"cycadifolius"		"friderici-guilielmi"	"var."	"(Lehm.) Regel"		"5"	
-"607"	"285"	"Encephalartos"		"cycadifolius"		"glaber"	"var."	"Regel"		"5"	
-"624"	"456"	"Encephalartos"		"cycadis"	"Sweet"					"5"	
-"601"	"383"	"Encephalartos"		"denisonii"	"(C.Moore & F.Muell.) F.Muell."					"5"	
-"637"	"404"	"Encephalartos"		"douglasii"	"F.Muell."					"5"	
-"648"	"386"	"Encephalartos"		"dyeri"	"F.Muell."					"5"	
-"268"	"319"	"Encephalartos"		"elongatus"	"Lehm."					"5"	
-"642"	"290"	"Encephalartos"		"eugene-maraisii"		"eugene-maraisii"	"subsp."			"5"	
-"291"	"328"	"Encephalartos"		"eugene-maraisii"		"middelburgensis"	"subsp."	"Lavranos & D.L.Goode"		"5"	
-"292"	"285"	"Encephalartos"		"eximius"	"I.Verd."					"5"	
-"294"	"341"	"Encephalartos"		"flavistrobilus"	"I.Turner & Sclavo"					"5"	
-"596"	"391"	"Encephalartos"		"fraseri"	"(Miq.) Miq."					"5"	
-"362"	"296"	"Encephalartos"		"gracilis"	"Mast."					"5"	
-"297"	"288"	"Encephalartos"		"graniticola"	"Vorster, Robbertse & S.van der Westh."					"5"	
-"704"	"298"	"Encephalartos"		"gratus"		"gratus"	"var."			"5"	
-"638"	"324"	"Encephalartos"		"gratus"		"manikensis"	"var."	"Gilliland"		"5"	
-"301"	"300"	"Encephalartos"		"hildebrandtii"		"dentatus"	"var."	"Melville"		"5"	
-"643"	"300"	"Encephalartos"		"hildebrandtii"		"hildebrandtii"	"var."			"5"	
-"633"	"631"	"Encephalartos"		"horridus"		"hallianus"	"var."	"(de Vriese) Miq."		"5"	
-"705"	"303"	"Encephalartos"		"horridus"		"horridus"	"var."			"5"	
-"635"	"492"	"Encephalartos"		"horridus"		"lanuginosus"	"var."	"(Jacq.) Miq."		"5"	
-"634"	"316"	"Encephalartos"		"horridus"		"latifrons"	"var."	"(Lehm.) Miq."		"5"	
-"627"	"331"	"Encephalartos"		"horridus"		"nanus"	"var."	"(Lehm.) J.Schust."		"5"	
-"304"	"353"	"Encephalartos"		"horridus"		"trispinosus"	"var."	"Hook."		"5"	
-"306"	"289"	"Encephalartos"		"imbricans"	"Vorster"					"5"	
-"309"	"310"	"Encephalartos"		"kanga"	"Pócs & Q.Luke"					"5"	
-"311"	"293"	"Encephalartos"		"kosiensis"	"Hutch."					"5"	
-"314"	"492"	"Encephalartos"		"lanuginosus"	"(Jacq.) Lehm."					"5"	
-"706"	"314"	"Encephalartos"		"lanuginosus"		"lanuginosus"	"var."			"5"	
-"594"	"352"	"Encephalartos"		"lanuginosus"		"tridens"	"var."	"Miq."		"5"	
-"315"	"493"	"Encephalartos"		"latifolius"	"Sweet"					"5"	
-"629"	"319"	"Encephalartos"		"lehmannii"		"dentatus"	"f."	"Regel ex J.Schust."		"5"	
-"707"	"319"	"Encephalartos"		"lehmannii"		"lehmannii"	"f."			"5"	
-"630"	"346"	"Encephalartos"		"lehmannii"		"spinulosus"	"f."	"(Lehm.) J.Schust."		"5"	
-"708"	"319"	"Encephalartos"		"lehmannii"		"lehmannii"	"var."			"5"	
-"641"	"346"	"Encephalartos"		"lehmannii"		"spinulosus"	"var."	"(Lehm.) Miq."		"5"	
-"320"	"336"	"Encephalartos"		"lemarinelianus"	"De Wild. & T.Durand"					"5"	
-"593"	"321"	"Encephalartos"		"longifolius"		"angustifolius"	"var."	"Miq."		"5"	
-"662"	"272"	"Encephalartos"		"longifolius"		"hookeri"	"var."	"Miq."		"5"	
-"608"	"321"	"Encephalartos"		"longifolius"		"latifolius"	"var."	"Regel"		"5"	
-"709"	"321"	"Encephalartos"		"longifolius"		"longifolius"	"var."			"5"	
-"592"	"321"	"Encephalartos"		"longifolius"		"revolutus"	"var."	"Miq."		"5"	
-"603"	"400"	"Encephalartos"		"macdonnellii"	"F.Muell. ex Miq."					"5"	
-"325"	"272"	"Encephalartos"		"marumii"	"de Vriese"					"5"	
-"327"	"321"	"Encephalartos"		"mauritianus"	"Miq."					"5"	
-"639"	"404"	"Encephalartos"		"miquelii"	"F.Muell."					"5"	
-"640"	"406"	"Encephalartos"		"moorei"	"(F.Muell.) F.Muell."					"5"	
-"331"	"303"	"Encephalartos"		"nanus"	"Lehm."					"5"	
-"600"	"420"	"Encephalartos"		"oldfieldii"	"Miq."					"5"	
-"602"	"411"	"Encephalartos"		"pauli-guilielmi"	"(W.Hill & F.Muell.) F.Muell."					"5"	
-"597"	"599"	"Encephalartos"		"preisii"	"(Lehm.) F.Muell."					"5"	
-"623"	"542"	"Encephalartos"		"pumilus"	"Sweet"					"5"	
-"650"	"272"	"Encephalartos"		"regalis"	"W.Bull"					"5"	
-"589"	"580"	"Encephalartos"		"spiralis"	"(Salisb.) Lehm."					"5"	
-"644"	"384"	"Encephalartos"		"spiralis"		"diplomera"	"var."	"F.Muell."		"5"	
-"598"	"404"	"Encephalartos"		"spiralis"		"major"	"var."	"Miq."		"5"	
-"710"	"589"	"Encephalartos"		"spiralis"		"spiralis"	"var."			"5"	
-"347"	"358"	"Encephalartos"		"striatus"	"Stapf & Burtt Davy"					"5"	
-"348"	"360"	"Encephalartos"		"successibus"	"Vorster"					"5"	
-"352"	"587"	"Encephalartos"		"tridentatus"	"(Willd.) Lehm."					"5"	
-"631"	"303"	"Encephalartos"		"van-hallii"	"de Vriese"					"5"	
-"356"	"334"	"Encephalartos"		"venetus"	"Vorster"					"5"	
-"357"	"287"	"Encephalartos"		"verrucosus"	"Vorster, Robbertse & S.van der Westh."					"5"	
-"605"	"280"	"Encephalartos"		"verschaffeltii"	"Regel"					"5"	
-"647"	"300"	"Encephalartos"		"villosus"		"hildebrandtii"	"f."	"(Regalado & C.D.Bouché) P.Hennings"		"5"	
-"646"	"358"	"Encephalartos"		"villosus"		"intermedius"	"f."	"P.Hennings"		"5"	
-"711"	"358"	"Encephalartos"		"villosus"		"villosus"	"f."			"5"	
-"645"	"300"	"Encephalartos"		"villosus"		"nobilis"	"var."	"Auct."		"5"	
-"712"	"358"	"Encephalartos"		"villosus"		"villosus"	"var."			"5"	
-"359"	"310"	"Encephalartos"		"voiensis"	"A.Moretti, D.W.Stev. & Sclavo"					"5"	
-"370"	"272"	"Encephalartos"		"vroomii"	"Mast."					"5"	
-"363"	"184"	"Epicycas"		"elongata"	"(Leandri) S.L.Yang ex de Laub."					"5"	
-"364"	"147"	"Epicycas"		"lindstromii"	"(S.L.Yang, K.D.Hill & T.H.Nguyên) de Laub."					"5"	
-"365"	"163"	"Epicycas"		"micholitzii"	"(Dyer) de Laub."					"5"	
-"366"	"191"	"Epicycas"		"miquelii"	"(Warb.) de Laub."					"5"	
-"367"	"170"	"Epicycas"		"multipinnata"	"(C.J.Chen & S.Y.Yang) de Laub."					"5"	
-"368"	"213"	"Epicycas"		"siamensis"	"(Miq.) de Laub."					"5"	
-"369"	"581"	"Epicycas"		"tonkinensis"	"(L.Linden & Rodigas) de Laub."					"5"	
-"604"	"383"	"Lepidozamia"		"denisonii"	"(C.Moore & F.Muell.) Regel"					"5"	
-"373"	"430"	"Lomaria"		"eriopus"	"Kunze"					"5"	
-"379"	"423"	"Macrozamia"		"corallipes"	"Hook.f."					"5"	
-"383"	"372"	"Macrozamia"		"denisonii"	"C.Moore & F.Muell."					"5"	
-"394"	"371"	"Macrozamia"		"hopei"	"C.Moore"					"5"	
-"586"	"371"	"Macrozamia"		"hopei"	"W.Hill"					"5"	
-"738"	"404"	"Macrozamia"		"mackenziei"	"W.Bull"					"5"	
-"409"	"600"	"Macrozamia"		"oldfieldii"	"(Miq.) A.DC."					"5"	
-"412"	"390"	"Macrozamia"		"pauli-guilielmi"		"flexuosa"	"subsp."	"(C.Moore) L.A.S.Johnson"		"5"	
-"713"	"411"	"Macrozamia"		"pauli-guilielmi"		"pauli-guilielmi"	"subsp."			"5"	
-"413"	"416"	"Macrozamia"		"pauli-guilielmi"		"plurinervia"	"subsp."	"L.A.S.Johnson"		"5"	
-"414"	"372"	"Macrozamia"		"peroffskyana"	"(Regel) Miq."					"5"	
-"599"	"420"	"Macrozamia"		"preissii"	"Lehm."					"5"	
-"588"	"587"	"Macrozamia"		"tridentata"	"(Willd.) Regel"					"5"	
-"748"	"441"	"Palmifolium"		"angustifolium"	"(Jacq.) Kuntze"					"5"	
-"749"	"442"	"Palmifolium"		"angustissimum"	"(Miq.) Kuntze"					"5"	
-"750"	"444"	"Palmifolium"		"bolivianum"	"(Brongn.) Kuntze"					"5"	
-"751"	"449"	"Palmifolium"		"chigua"	"(Seem.) Kuntze"					"5"	
-"752"	"457"	"Palmifolium"		"debile"	"(Aiton) Kuntze"					"5"	
-"753"	"466"	"Palmifolium"		"fischeri"	"(Miq.) Kuntze"					"5"	
-"754"	"467"	"Palmifolium"		"floridanum"	"(A.DC.) Kuntze"					"5"	
-"755"	"468"	"Palmifolium"		"furfuraceum"	"(L.f.) Kuntze"					"5"	
-"756"	"470"	"Palmifolium"		"galeotti"	"(de Vriese) Kuntze"					"5"	
-"757"	"485"	"Palmifolium"		"integrifolium"	"(L.f.) Kuntze"					"5"	
-"758"	"489"	"Palmifolium"		"kickxii"	"(Miq.) Kuntze"					"5"	
-"759"	"493"	"Palmifolium"		"latifolium"	"(Lodd. ex Miq.) Kuntze"					"5"	
-"760"	"502"	"Palmifolium"		"loddigesii"	"(Miq.) Kuntze"					"5"	
-"761"	"512"	"Palmifolium"		"medium"	"(Jacq.) Kuntze"					"5"	
-"762"	"515"	"Palmifolium"		"mexicanum"	"(Miq.) Kuntze"					"5"	
-"763"	"518"	"Palmifolium"		"multifoliolatum"	"(A.DC.) Kuntze"					"5"	
-"764"	"519"	"Palmifolium"		"muricatum"	"(Willd.) Kuntze"					"5"	
-"765"	"531"	"Palmifolium"		"ottonis"	"(Miq.) Kuntze"					"5"	
-"766"	"535"	"Palmifolium"		"poeppigianum"	"(Mart. & Eichler) Kuntze"					"5"	
-"767"	"541"	"Palmifolium"		"pseudoparasiticum"	"(J.Yates) Kuntze"					"5"	
-"768"	"542"	"Palmifolium"		"pumilum"	"(L.) Kuntze"					"5"	
-"769"	"545"	"Palmifolium"		"pygmaeum"	"(Sims) Kuntze"					"5"	
-"770"	"552"	"Palmifolium"		"skinneri"	"(Warsz. ex A.Dietr.) Kuntze"					"5"	
-"771"	"554"	"Palmifolium"		"sparteum"	"(A.DC.) Kuntze"					"5"	
-"772"	"558"	"Palmifolium"		"strictum"	"(Miq.) Kuntze"					"5"	
-"773"	"560"	"Palmifolium"		"tenue"	"(Willd.) Kuntze"					"5"	
-"774"	"13"	"Palmifolium"		"yatesii"	"(Miq.) Kuntze"					"5"	
-"429"	"248"	"Platyzamia"		"rigida"	"Zucc."					"5"	
-"431"	"430"	"Stangeria"		"katzeri"	"Regel"					"5"	
-"432"	"430"	"Stangeria"		"paradoxa"	"T.Moore"					"5"	
-"433"	"430"	"Stangeria"		"schizodon"	"W.Bull"					"5"	
-"437"	"542"	"Zamia"		"allison-armourii"	"Millsp."					"5"	
-"439"	"464"	"Zamia"		"amblyphyllidia"	"D.W.Stev."					"5"	
-"715"	"441"	"Zamia"		"angustifolia"		"angustifolia"	"var."			"5"	
-"584"	"442"	"Zamia"		"angustifolia"		"angustissima"	"var."	"(Miq.) Regel"		"5"	
-"745"	"467"	"Zamia"		"angustifolia"		"floridana"	"var."	"(A.DC.) Regel"		"5"	
-"746"	"558"	"Zamia"		"angustifolia"		"stricta"	"var."	"(Miq.) Regel"		"5"	
-"583"	"13"	"Zamia"		"angustifolia"		"yatesii"	"var."	"(Miq.) Regel"		"5"	
-"442"	"441"	"Zamia"		"angustissima"	"Miq."					"5"	
-"443"	"535"	"Zamia"		"baraquiniana"	"Mast."					"5"	
-"446"	"529"	"Zamia"		"bussellii"	"Schutzman, R.S.Adams, J.L.Haynes & Whitelock"					"5"	
-"426"	"74"	"Zamia"		"caffra"	"(Thunb.) Thunb."					"5"	
-"447"	"427"	"Zamia"		"calocoma"	"Miq."					"5"	
-"448"	"545"	"Zamia"		"chamberlainii"	"J.Schust."					"5"	
-"452"	"563"	"Zamia"		"cupatiensis"	"Ducke"					"5"	
-"454"	"285"	"Zamia"		"cycadifolia"	"Jacq."					"5"	
-"456"	"280"	"Zamia"		"cycadis"	"L.f."					"5"	
-"457"	"542"	"Zamia"		"debilis"	"L.f."					"5"	
-"459"	"485"	"Zamia"		"dentata"	"Voigt"					"5"	
-"467"	"485"	"Zamia"		"floridana"	"A.DC."					"5"	
-"716"	"467"	"Zamia"		"floridana"		"floridana"	"var."			"5"	
-"787"	"467"	"Zamia"		"floridana"		"purshiana"	"var."	"J.Schust."		"2"	
-"788"	"551"	"Zamia"		"floridana"		"purshiana"	"var."	"J.Schust."		"2"	
-"242"	"564"	"Zamia"		"floridana"		"umbrosa"	"var."	"(Small) D.B.Ward"		"5"	
-"717"	"468"	"Zamia"		"furfuracea"		"furfuracea"	"var."			"5"	
-"469"	"468"	"Zamia"		"furfuracea"		"trewii"	"var."	"Miq."		"5"	
-"470"	"502"	"Zamia"		"galeotti"	"de Vriese"					"5"	
-"474"	"441"	"Zamia"		"guggenheimiana"	"Carabia"					"5"	
-"475"	"519"	"Zamia"		"gutierrezii"	"Sauvalle"					"5"	
-"478"	"303"	"Zamia"		"horrida"	"Jacq."					"5"	
-"487"	"496"	"Zamia"		"jirijirimensis"	"R.E.Schult."					"5"	
-"489"	"545"	"Zamia"		"kickxii"	"Miq."					"5"	
-"492"	"314"	"Zamia"		"lanuginosa"	"Jacq."					"5"	
-"493"	"468"	"Zamia"		"latifolia"	"Lodd. ex Miq."					"5"	
-"494"	"542"	"Zamia"		"latifoliolata"	"Prenlel."					"5"	
-"495"	"502"	"Zamia"		"lawsoniana"	"Dyer"					"5"	
-"497"	"502"	"Zamia"		"leiboldii"	"Miq."					"5"	
-"498"	"502"	"Zamia"		"leiboldii"		"angustifolia"	"var."	"Regel"		"5"	
-"499"	"502"	"Zamia"		"leiboldii"		"latifolia"	"var."	"Regel"		"5"	
-"718"	"502"	"Zamia"		"leiboldii"		"leiboldii"	"var."			"5"	
-"503"	"502"	"Zamia"		"loddigesii"		"angustifolia"	"var."	"Regel"		"5"	
-"719"	"502"	"Zamia"		"loddigesii"		"loddigesii"	"var."			"5"	
-"504"	"502"	"Zamia"		"loddigesii"		"longifolia"	"var."	"J.Schust."		"5"	
-"505"	"502"	"Zamia"		"loddigesii"		"obtusifolia"	"var."	"Regel"		"5"	
-"506"	"321"	"Zamia"		"longifolia"	"Jacq."					"5"	
-"509"	"511"	"Zamia"		"madida"	"R.E.Schult."					"5"	
-"510"	"248"	"Zamia"		"maelenii"	"Miq."					"5"	
-"512"	"485"	"Zamia"		"media"	"Jacq."					"5"	
-"775"	"542"	"Zamia"		"media"		"commeliniana"	"var."	"J.Schust."		"2"	
-"777"	"550"	"Zamia"		"media"		"commeliniana"	"var."	"J.Schust."		"2"	
-"780"	"475"	"Zamia"		"media"		"gutierrezii"	"var."	"(Sauvalle) J.Schust."		"5"	
-"776"	"512"	"Zamia"		"media"		"jacquiniana"	"var."	"J.Schust."		"5"	
-"779"	"537"	"Zamia"		"media"		"portoricensis"	"var."	"(Urb.) J.Schust."		"5"	
-"778"	"560"	"Zamia"		"media"		"tenuis"	"var."	"(Willd.) J.Schust."		"5"	
-"515"	"502"	"Zamia"		"mexicana"	"Miq."					"5"	
-"518"	"441"	"Zamia"		"multifoliolata"	"A.DC."					"5"	
-"520"	"519"	"Zamia"		"muricata"		"angustifolia"	"var."	"Miq."		"5"	
-"720"	"519"	"Zamia"		"muricata"		"muricata"	"var."			"5"	
-"521"	"493"	"Zamia"		"muricata"		"obtustifolia"	"var."	"Miq."		"5"	
-"435"	"303"	"Zamia"		"nana"	"de Vriese"					"2"	
-"525"	"496"	"Zamia"		"obidensis"	"Ducke"					"5"	
-"531"	"545"	"Zamia"		"ottonis"	"Miq."					"5"	
-"582"	"535"	"Zamia"		"parasitica"	"Poepp. ex Eichler"					"5"	
-"534"	"566"	"Zamia"		"picta"	"Dyer"					"5"	
-"536"	"539"	"Zamia"		"polymorpha"	"D.W.Stev., A.Moretti & Vázq.Torres"					"5"	
-"654"	"449"	"Zamia"		"princeps"	"Rob."					"5"	
-"819"	"542"	"Zamia"		"pumila"		"pumila"	"subsp."			"5"	
-"783"	"545"	"Zamia"		"pumila"		"pygmaea"	"subsp."	"(Sims) Eckenw."		"5"	
-"543"	"339"	"Zamia"		"pungens"	"L.f."					"5"	
-"784"	"489"	"Zamia"		"pygmaea"		"kickxii"	"var."	"(Miq.) J.Schust."		"5"	
-"785"	"531"	"Zamia"		"pygmaea"		"ottonis"	"var."	"(Miq.) J.Schust."		"5"	
-"786"	"545"	"Zamia"		"pygmaea"		"wrightii"	"var."	"Miq."		"5"	
-"550"	"545"	"Zamia"		"silicea"	"Britton"					"5"	
-"551"	"485"	"Zamia"		"silvicola"	"Small"					"5"	
-"580"	"423"	"Zamia"		"spiralis"	"Salisb."					"5"	
-"559"	"502"	"Zamia"		"sylvatica"	"Chamb."					"5"	
-"560"	"485"	"Zamia"		"tenuis"	"Willd."					"5"	
-"581"	"229"	"Zamia"		"tonkinensis"	"L.Linden & Rodigas"					"5"	
-"652"	"496"	"Zamia"		"ulei"		"lecointei"	"subsp."	"(Ducke) Ducke"		"5"	
-"721"	"563"	"Zamia"		"ulei"		"ulei"	"subsp."			"5"	
-"564"	"485"	"Zamia"		"umbrosa"	"Small"					"5"	
-"568"	"272"	"Zamia"		"vernicosa"	"Mast."					"5"	
-"1"	"443"	"Zamia"		"wielandii"	"J.Schust."					"5"	
-"13"	"441"	"Zamia"		"yatesii"	"Miq."					"5"	
+Cyd-2	Cyd-500	Aulacophyllum		lindenii	(Regel ex André) Regel					5	
+Cyd-3	Cyd-516	Aulacophyllum		montanum	(A.Braun) Regel					5	
+Cyd-4	Cyd-449	Aulacophyllum		ortgiesii	Regel					5	
+Cyd-5	Cyd-548	Aulacophyllum		roezlii	(Linden) Regel					5	
+Cyd-6	Cyd-552	Aulacophyllum		skinneri	(Warsz. ex A.Dietr.) Regel					5	
+Cyd-7	Cyd-8	Aulacophyllum		wallisii	(A.Braun) Regel					5	
+Cyd-11	Cyd-9	Bowenia		spectabilis		serrata	var.	F.M.Bailey		5	
+Cyd-12	Cyd-9	Bowenia		spectabilis		serrulata	var.	W.Bull		5	
+Cyd-681	Cyd-10	Bowenia		spectabilis		spectabilis	var.			5	
+Cyd-14	Cyd-371	Catakidozamia		hopei	W.Hill					5	
+Cyd-17	Cyd-47	Ceratozamia		becerrae	Pérez-Farr., Vovides & Schutzman					5	
+Cyd-18	Cyd-444	Ceratozamia		boliviana	Brongn.					5	
+Cyd-27	Cyd-33	Ceratozamia		intermedia	Miq.					5	
+Cyd-28	Cyd-488	Ceratozamia		katzeriana	Regel					5	
+Cyd-31	Cyd-33	Ceratozamia		longifolia	Miq.					5	
+Cyd-743	Cyd-374	Ceratozamia		mexicana		longifolia	var.	Miq.		5	
+Cyd-682	Cyd-33	Ceratozamia		mexicana		mexicana	var.			5	
+Cyd-585	Cyd-41	Ceratozamia		mexicana		robusta	var.	(Miq.) Dyer		5	
+Cyd-34	Cyd-793	Ceratozamia		mexicana		tenuis	var.	Dyer		5	
+Cyd-49	Cyd-547	Chigua		bernalii	D.W.Stev.					5	
+Cyd-50	Cyd-547	Chigua		restrepoi	D.W.Stev.					5	
+Cyd-53	Cyd-207	Cycas		acuminatissima	Hung T.Chang, Y.C.Zhong & Z.F.Lu					5	
+Cyd-795	Cyd-595	Cycas		andamanica	K.Prassad, M.V.Ramana, Sanjappa & B.R.P.Rao					5	
+Cyd-64	Cyd-180	Cycas		baguanheensis	L.K.Fu & S.Z.Cheng					5	
+Cyd-72	Cyd-210	Cycas		brevipinnata	Hung T.Chang, Y.Y.Huang & Y.C.Zhong					5	
+Cyd-74	Cyd-280	Cycas		caffra	Thunb.					5	
+Cyd-683	Cyd-79	Cycas		canalis		canalis	subsp.			5	
+Cyd-78	Cyd-79	Cycas		canalis		carinata	subsp.	K.D.Hill		5	
+Cyd-82	Cyd-197	Cycas		celebica	Miq.					5	
+Cyd-84	Cyd-196	Cycas		chamberlainii	W.H.Br. & Kienholz					5	
+Cyd-684	Cyd-87	Cycas		circinalis		circinalis	f.			5	
+Cyd-88	Cyd-128	Cycas		circinalis		glauca	f.	(Miq.) J.Schust.		5	
+Cyd-90	Cyd-233	Cycas		circinalis		undulata	f.	(Hort. ex Gaudich.) J.Schust.		5	
+Cyd-685	Cyd-87	Cycas		circinalis		circinalis	subsp.			5	
+Cyd-722	Cyd-91	Cycas		circinalis		madagascariensis	subsp.			5	
+Cyd-92	Cyd-228	Cycas		circinalis		madagascariensis	subsp.	(Miq.) J.Schust.		5	
+Cyd-93	Cyd-181	Cycas		circinalis		papuana	subsp.	(F.Muell.) J.Schust.		5	
+Cyd-723	Cyd-93	Cycas		circinalis		papuana	subsp.			5	
+Cyd-94	Cyd-205	Cycas		circinalis		papuana	subsp.	(F.Muell.) J.Schust.		5	
+Cyd-95	Cyd-196	Cycas		circinalis		riuminiana	subsp.	(Porte ex Regel) J.Schust.		5	
+Cyd-96	Cyd-84	Cycas		circinalis		riuminiana	subsp.	(Porte ex Regel) J.Schust.		5	
+Cyd-97	Cyd-235	Cycas		circinalis		riuminiana	subsp.	(Porte ex Regel) J.Schust.		5	
+Cyd-98	Cyd-115	Cycas		circinalis		riuminiana	subsp.	(Porte ex Regel) J.Schust.		5	
+Cyd-99	Cyd-120	Cycas		circinalis		riuminiana	subsp.	(Porte ex Regel) J.Schust.		5	
+Cyd-724	Cyd-95	Cycas		circinalis		riuminiana	subsp.			5	
+Cyd-100	Cyd-206	Cycas		circinalis		seemannii	subsp.	(Regalado) J.Schust.		5	
+Cyd-101	Cyd-228	Cycas		circinalis		thouarsii	subsp.	(R.Br. ex Gaudich.) Engl.		5	
+Cyd-726	Cyd-87	Cycas		circinalis		vera	subsp.	J.Schust.		5	
+Cyd-102	Cyd-67	Cycas		circinalis		vera	subsp.	J.Schust.		5	
+Cyd-103	Cyd-183	Cycas		circinalis		vera	subsp.	J.Schust.		5	
+Cyd-725	Cyd-726	Cycas		circinalis		vera	subsp.			5	
+Cyd-104	Cyd-87	Cycas		circinalis		angustifolia	var.	Miq.		5	
+Cyd-686	Cyd-87	Cycas		circinalis		circinalis	var.			5	
+Cyd-105	Cyd-142	Cycas		circinalis		javana	var.	Miq.		5	
+Cyd-106	Cyd-673	Cycas		circinalis		orixensis	var.	Haines		5	
+Cyd-687	Cyd-107	Cycas		clivicola		clivicola	subsp.			5	
+Cyd-108	Cyd-107	Cycas		clivicola		lutea	subsp.	K.D.Hill		5	
+Cyd-797	Cyd-228	Cycas		comorensis	Bruant					5	
+Cyd-113	Cyd-207	Cycas		crassipes	Hung T.Chang, Y.C.Zhong & Z.F.Lu					5	
+Cyd-812	Cyd-595	Cycas		dharmrajii	L.J.Singh					5	
+Cyd-129	Cyd-576	Cycas		gracilis	Miq.					5	
+Cyd-130	Cyd-576	Cycas		gracilis		glauca	var.	Regel		5	
+Cyd-688	Cyd-129	Cycas		gracilis		gracilis	var.			5	
+Cyd-131	Cyd-576	Cycas		gracilis		viridis	var.	Regel		5	
+Cyd-135	Cyd-85	Cycas		hainanensis		changjiangensis	subsp.	(N.Liu) N.Liu		5	
+Cyd-689	Cyd-134	Cycas		hainanensis		hainanensis	subsp.			5	
+Cyd-139	Cyd-213	Cycas		immersa	Craib					5	
+Cyd-143	Cyd-183	Cycas		jenkinsiana	Griff.					5	
+Cyd-144	Cyd-576	Cycas		kennedyana	F.Muell.					5	
+Cyd-148	Cyd-134	Cycas		lingshuiensis	G.A.Fu					5	
+Cyd-149	Cyd-120	Cycas		litoralis	K.D.Hill					5	
+Cyd-150	Cyd-207	Cycas		longiconifera	Hung T.Chang, Y.C.Zhong & Y.Y.Huang					5	
+Cyd-151	Cyd-570	Cycas		longipetiolula	D.Yue Wang					5	
+Cyd-152	Cyd-210	Cycas		longisporophylla	F.N.Wei					5	
+Cyd-153	Cyd-133	Cycas		longlinensis	Hung T.Chang & Y.C.Zhong					5	
+Cyd-158	Cyd-228	Cycas		madagascariensis	Miq.					5	
+Cyd-800	Cyd-66	Cycas		media		basaltica	var.	(C.A.Gardner) J.Schust.		5	
+Cyd-801	Cyd-127	Cycas		media		furfuracea	var.	(W.Fitzg.) J.Schust.		5	
+Cyd-798	Cyd-146	Cycas		media		lanepoolei	var.	(C.A.Gardner) J.Schust.		5	
+Cyd-690	Cyd-163	Cycas		micholitzii		micholitzii	var.			5	
+Cyd-164	Cyd-216	Cycas		micholitzii		simplicipinna	var.	Smitinand		5	
+Cyd-166	Cyd-191	Cycas		miquelii	Warb.					5	
+Cyd-168	Cyd-207	Cycas		multifida	Hung T.Chang & Y.C.Zhong					5	
+Cyd-171	Cyd-118	Cycas		multiovula	D.Yue Wang					5	
+Cyd-175	Cyd-576	Cycas		normanbyana	F.Muell.					5	
+Cyd-179	Cyd-65	Cycas		palmatifida	Hung T.Chang, Y.Y.Huang & Y.C.Zhong					5	
+Cyd-182	Cyd-118	Cycas		parvula	S.L.Yang					5	
+Cyd-185	Cyd-118	Cycas		pectinata		manhaoensis	subsp.	C.J.Chen & P.Yun		5	
+Cyd-184	Cyd-122	Cycas		pectinata		elongata	var.	Leandri		5	
+Cyd-691	Cyd-183	Cycas		pectinata		pectinata	var.			5	
+Cyd-794	Cyd-595	Cycas		pschannae	R.C.Srivast. & L.J.Singh					5	
+Cyd-192	Cyd-191	Cycas		revoluta		brevifrons	var.	Miq.		5	
+Cyd-193	Cyd-191	Cycas		revoluta		planifolia	var.	Miq.		5	
+Cyd-194	Cyd-191	Cycas		revoluta		prolifera	var.	Siebold & Zucc.		5	
+Cyd-692	Cyd-191	Cycas		revoluta		revoluta	var.			5	
+Cyd-195	Cyd-191	Cycas		revoluta		robusta	var.	Messeri		5	
+Cyd-741	Cyd-224	Cycas		revoluta		taiwaniana	var.	(Carruth.) J.Schust.		5	
+Cyd-693	Cyd-197	Cycas		rumphii		rumphii	f.			5	
+Cyd-198	Cyd-233	Cycas		rumphii		undulata	f.	(Desf. ex Gaudich.) Kaneh.		5	
+Cyd-799	Cyd-175	Cycas		rumphii		normanbyana	subsp.	(F.Muell.) J.Schust.		5	
+Cyd-694	Cyd-197	Cycas		rumphii		rumphii	subsp.			5	
+Cyd-199	Cyd-241	Cycas		rumphii		zeylanica	subsp.	J.Schust.		5	
+Cyd-200	Cyd-69	Cycas		rumphii		bifida	var.	Dyer		5	
+Cyd-695	Cyd-197	Cycas		rumphii		rumphii	var.			5	
+Cyd-802	Cyd-206	Cycas		rumphii		seemannii	var.	(Regalado) Parham		5	
+Cyd-201	Cyd-128	Cycas		rumphii		timorensis	var.	Miq.		5	
+Cyd-209	Cyd-210	Cycas		septemsperma	Hung T.Chang, Y.Y.Huang & H.X.Zheng					5	
+Cyd-211	Cyd-134	Cycas		shanyaensis	G.A.Fu					5	
+Cyd-212	Cyd-65	Cycas		shiwandashanica	Hung T.Chang & Y.C.Zhong					5	
+Cyd-214	Cyd-65	Cycas		siamensis		balansae	subsp.	(Warb.) J.Schust.		5	
+Cyd-696	Cyd-213	Cycas		siamensis		siamensis	subsp.			5	
+Cyd-218	Cyd-210	Cycas		spiniformis	J.Y.Liang					5	
+Cyd-220	Cyd-140	Cycas		swamyi	Rita Singh & P.Radha					5	
+Cyd-222	Cyd-123	Cycas		szechuanensis		fairylakea	subsp.	(D.Yue Wang) N.Liu		5	
+Cyd-577	Cyd-221	Cycas		szechuanensis		szechuanensis	subsp.			5	
+Cyd-233	Cyd-87	Cycas		undulata	Desf. ex Gaudich.					5	
+Cyd-236	Cyd-104	Cycas		wallichii	Miq.					5	
+Cyd-237	Cyd-207	Cycas		xilingensis	Hung T.Chang & Y.C.Zhong					5	
+Cyd-243	Cyd-244	Dioon		aculeatum	Lem.					5	
+Cyd-249	Cyd-244	Dioon		edule		angustifolium	f.	(Miq.) Miq.		5	
+Cyd-697	Cyd-248	Dioon		edule		edule	f.			5	
+Cyd-250	Cyd-244	Dioon		edule		angustifolium	subsp.	(Miq.) A.E.Murray		5	
+Cyd-698	Cyd-248	Dioon		edule		edule	subsp.			5	
+Cyd-251	Cyd-244	Dioon		edule		angustifolium	var.	(Miq.) Miq.		5	
+Cyd-699	Cyd-248	Dioon		edule		edule	var.			5	
+Cyd-252	Cyd-248	Dioon		edule		lanuginosum	var.	Wittm.		5	
+Cyd-253	Cyd-257	Dioon		edule		latipinnium	var.	Dyer		5	
+Cyd-254	Cyd-261	Dioon		edule		sonorense	var.	(De Luca, Sabato & Vázq.Torres) McVaugh & Pérez de la Rosa		5	
+Cyd-256	Cyd-248	Dioon		imbricatum	Miq.					5	
+Cyd-264	Cyd-248	Dioon		strobilaceum	Lem. ex A.DC.					5	
+Cyd-266	Cyd-261	Dioon		tomasellii		sonorense	var.	De Luca, Sabato & Vázq.Torres		5	
+Cyd-700	Cyd-265	Dioon		tomasellii		tomasellii	var.			5	
+Cyd-269	Cyd-163	Dyerocycas		micholitzii	(Dyer) Nakai					5	
+Cyd-428	Cyd-295	Encephalartos		acanthus	Mast.					5	
+Cyd-701	Cyd-272	Encephalartos		altensteinii		altensteinii	var.			5	
+Cyd-590	Cyd-272	Encephalartos		altensteinii		angustifolius	var.	Miq.		5	
+Cyd-649	Cyd-361	Encephalartos		altensteinii		bispinnus	var.	J.M.Wood		5	
+Cyd-612	Cyd-272	Encephalartos		altensteinii		distans	var.	Regel		5	
+Cyd-636	Cyd-303	Encephalartos		altensteinii		eriocephalus	var.	de Vriese		5	
+Cyd-619	Cyd-272	Encephalartos		altensteinii		grandis	var.	Regel		5	
+Cyd-617	Cyd-272	Encephalartos		altensteinii		macrophyllus	var.	Regel		5	
+Cyd-613	Cyd-272	Encephalartos		altensteinii		parvifolius	var.	Regel		5	
+Cyd-611	Cyd-335	Encephalartos		altensteinii		paucidentatus	var.	Regel		5	
+Cyd-591	Cyd-272	Encephalartos		altensteinii		semidentatus	var.	Miq.		5	
+Cyd-618	Cyd-272	Encephalartos		altensteinii		spinosior	var.	Regel		5	
+Cyd-277	Cyd-280	Encephalartos		brachyphyllus	Lehm. & de Vriese					5	
+Cyd-625	Cyd-277	Encephalartos		caffer		brachyphyllus	var.	(Lehm. & de Vriese) Miq.		5	
+Cyd-702	Cyd-280	Encephalartos		caffer		caffer	var.			5	
+Cyd-609	Cyd-280	Encephalartos		caffer		integrifolius	var.	Regel		5	
+Cyd-610	Cyd-280	Encephalartos		caffer		unidentatus	var.	Regel		5	
+Cyd-703	Cyd-285	Encephalartos		cycadifolius		cycadifolius	var.			5	
+Cyd-606	Cyd-295	Encephalartos		cycadifolius		friderici-guilielmi	var.	(Lehm.) Regel		5	
+Cyd-607	Cyd-285	Encephalartos		cycadifolius		glaber	var.	Regel		5	
+Cyd-624	Cyd-456	Encephalartos		cycadis	Sweet					5	
+Cyd-601	Cyd-383	Encephalartos		denisonii	(C.Moore & F.Muell.) F.Muell.					5	
+Cyd-637	Cyd-404	Encephalartos		douglasii	F.Muell.					5	
+Cyd-648	Cyd-386	Encephalartos		dyeri	F.Muell.					5	
+Cyd-268	Cyd-319	Encephalartos		elongatus	Lehm.					5	
+Cyd-642	Cyd-290	Encephalartos		eugene-maraisii		eugene-maraisii	subsp.			5	
+Cyd-291	Cyd-328	Encephalartos		eugene-maraisii		middelburgensis	subsp.	Lavranos & D.L.Goode		5	
+Cyd-292	Cyd-285	Encephalartos		eximius	I.Verd.					5	
+Cyd-294	Cyd-341	Encephalartos		flavistrobilus	I.Turner & Sclavo					5	
+Cyd-596	Cyd-391	Encephalartos		fraseri	(Miq.) Miq.					5	
+Cyd-362	Cyd-296	Encephalartos		gracilis	Mast.					5	
+Cyd-297	Cyd-288	Encephalartos		graniticola	Vorster, Robbertse & S.van der Westh.					5	
+Cyd-704	Cyd-298	Encephalartos		gratus		gratus	var.			5	
+Cyd-638	Cyd-324	Encephalartos		gratus		manikensis	var.	Gilliland		5	
+Cyd-301	Cyd-300	Encephalartos		hildebrandtii		dentatus	var.	Melville		5	
+Cyd-643	Cyd-300	Encephalartos		hildebrandtii		hildebrandtii	var.			5	
+Cyd-633	Cyd-631	Encephalartos		horridus		hallianus	var.	(de Vriese) Miq.		5	
+Cyd-705	Cyd-303	Encephalartos		horridus		horridus	var.			5	
+Cyd-635	Cyd-492	Encephalartos		horridus		lanuginosus	var.	(Jacq.) Miq.		5	
+Cyd-634	Cyd-316	Encephalartos		horridus		latifrons	var.	(Lehm.) Miq.		5	
+Cyd-627	Cyd-331	Encephalartos		horridus		nanus	var.	(Lehm.) J.Schust.		5	
+Cyd-304	Cyd-353	Encephalartos		horridus		trispinosus	var.	Hook.		5	
+Cyd-306	Cyd-289	Encephalartos		imbricans	Vorster					5	
+Cyd-309	Cyd-310	Encephalartos		kanga	Pócs & Q.Luke					5	
+Cyd-311	Cyd-293	Encephalartos		kosiensis	Hutch.					5	
+Cyd-314	Cyd-492	Encephalartos		lanuginosus	(Jacq.) Lehm.					5	
+Cyd-706	Cyd-314	Encephalartos		lanuginosus		lanuginosus	var.			5	
+Cyd-594	Cyd-352	Encephalartos		lanuginosus		tridens	var.	Miq.		5	
+Cyd-315	Cyd-493	Encephalartos		latifolius	Sweet					5	
+Cyd-629	Cyd-319	Encephalartos		lehmannii		dentatus	f.	Regel ex J.Schust.		5	
+Cyd-707	Cyd-319	Encephalartos		lehmannii		lehmannii	f.			5	
+Cyd-630	Cyd-346	Encephalartos		lehmannii		spinulosus	f.	(Lehm.) J.Schust.		5	
+Cyd-708	Cyd-319	Encephalartos		lehmannii		lehmannii	var.			5	
+Cyd-641	Cyd-346	Encephalartos		lehmannii		spinulosus	var.	(Lehm.) Miq.		5	
+Cyd-320	Cyd-336	Encephalartos		lemarinelianus	De Wild. & T.Durand					5	
+Cyd-593	Cyd-321	Encephalartos		longifolius		angustifolius	var.	Miq.		5	
+Cyd-662	Cyd-272	Encephalartos		longifolius		hookeri	var.	Miq.		5	
+Cyd-608	Cyd-321	Encephalartos		longifolius		latifolius	var.	Regel		5	
+Cyd-709	Cyd-321	Encephalartos		longifolius		longifolius	var.			5	
+Cyd-592	Cyd-321	Encephalartos		longifolius		revolutus	var.	Miq.		5	
+Cyd-603	Cyd-400	Encephalartos		macdonnellii	F.Muell. ex Miq.					5	
+Cyd-325	Cyd-272	Encephalartos		marumii	de Vriese					5	
+Cyd-327	Cyd-321	Encephalartos		mauritianus	Miq.					5	
+Cyd-639	Cyd-404	Encephalartos		miquelii	F.Muell.					5	
+Cyd-640	Cyd-406	Encephalartos		moorei	(F.Muell.) F.Muell.					5	
+Cyd-331	Cyd-303	Encephalartos		nanus	Lehm.					5	
+Cyd-600	Cyd-420	Encephalartos		oldfieldii	Miq.					5	
+Cyd-602	Cyd-411	Encephalartos		pauli-guilielmi	(W.Hill & F.Muell.) F.Muell.					5	
+Cyd-597	Cyd-599	Encephalartos		preisii	(Lehm.) F.Muell.					5	
+Cyd-623	Cyd-542	Encephalartos		pumilus	Sweet					5	
+Cyd-650	Cyd-272	Encephalartos		regalis	W.Bull					5	
+Cyd-589	Cyd-580	Encephalartos		spiralis	(Salisb.) Lehm.					5	
+Cyd-644	Cyd-384	Encephalartos		spiralis		diplomera	var.	F.Muell.		5	
+Cyd-598	Cyd-404	Encephalartos		spiralis		major	var.	Miq.		5	
+Cyd-710	Cyd-589	Encephalartos		spiralis		spiralis	var.			5	
+Cyd-347	Cyd-358	Encephalartos		striatus	Stapf & Burtt Davy					5	
+Cyd-348	Cyd-360	Encephalartos		successibus	Vorster					5	
+Cyd-352	Cyd-587	Encephalartos		tridentatus	(Willd.) Lehm.					5	
+Cyd-631	Cyd-303	Encephalartos		van-hallii	de Vriese					5	
+Cyd-356	Cyd-334	Encephalartos		venetus	Vorster					5	
+Cyd-357	Cyd-287	Encephalartos		verrucosus	Vorster, Robbertse & S.van der Westh.					5	
+Cyd-605	Cyd-280	Encephalartos		verschaffeltii	Regel					5	
+Cyd-647	Cyd-300	Encephalartos		villosus		hildebrandtii	f.	(Regalado & C.D.Bouché) P.Hennings		5	
+Cyd-646	Cyd-358	Encephalartos		villosus		intermedius	f.	P.Hennings		5	
+Cyd-711	Cyd-358	Encephalartos		villosus		villosus	f.			5	
+Cyd-645	Cyd-300	Encephalartos		villosus		nobilis	var.	Auct.		5	
+Cyd-712	Cyd-358	Encephalartos		villosus		villosus	var.			5	
+Cyd-359	Cyd-310	Encephalartos		voiensis	A.Moretti, D.W.Stev. & Sclavo					5	
+Cyd-370	Cyd-272	Encephalartos		vroomii	Mast.					5	
+Cyd-363	Cyd-184	Epicycas		elongata	(Leandri) S.L.Yang ex de Laub.					5	
+Cyd-364	Cyd-147	Epicycas		lindstromii	(S.L.Yang, K.D.Hill & T.H.Nguyên) de Laub.					5	
+Cyd-365	Cyd-163	Epicycas		micholitzii	(Dyer) de Laub.					5	
+Cyd-366	Cyd-191	Epicycas		miquelii	(Warb.) de Laub.					5	
+Cyd-367	Cyd-170	Epicycas		multipinnata	(C.J.Chen & S.Y.Yang) de Laub.					5	
+Cyd-368	Cyd-213	Epicycas		siamensis	(Miq.) de Laub.					5	
+Cyd-369	Cyd-581	Epicycas		tonkinensis	(L.Linden & Rodigas) de Laub.					5	
+Cyd-604	Cyd-383	Lepidozamia		denisonii	(C.Moore & F.Muell.) Regel					5	
+Cyd-373	Cyd-430	Lomaria		eriopus	Kunze					5	
+Cyd-379	Cyd-423	Macrozamia		corallipes	Hook.f.					5	
+Cyd-383	Cyd-372	Macrozamia		denisonii	C.Moore & F.Muell.					5	
+Cyd-394	Cyd-371	Macrozamia		hopei	C.Moore					5	
+Cyd-586	Cyd-371	Macrozamia		hopei	W.Hill					5	
+Cyd-738	Cyd-404	Macrozamia		mackenziei	W.Bull					5	
+Cyd-409	Cyd-600	Macrozamia		oldfieldii	(Miq.) A.DC.					5	
+Cyd-412	Cyd-390	Macrozamia		pauli-guilielmi		flexuosa	subsp.	(C.Moore) L.A.S.Johnson		5	
+Cyd-713	Cyd-411	Macrozamia		pauli-guilielmi		pauli-guilielmi	subsp.			5	
+Cyd-413	Cyd-416	Macrozamia		pauli-guilielmi		plurinervia	subsp.	L.A.S.Johnson		5	
+Cyd-414	Cyd-372	Macrozamia		peroffskyana	(Regel) Miq.					5	
+Cyd-599	Cyd-420	Macrozamia		preissii	Lehm.					5	
+Cyd-588	Cyd-587	Macrozamia		tridentata	(Willd.) Regel					5	
+Cyd-748	Cyd-441	Palmifolium		angustifolium	(Jacq.) Kuntze					5	
+Cyd-749	Cyd-442	Palmifolium		angustissimum	(Miq.) Kuntze					5	
+Cyd-750	Cyd-444	Palmifolium		bolivianum	(Brongn.) Kuntze					5	
+Cyd-751	Cyd-449	Palmifolium		chigua	(Seem.) Kuntze					5	
+Cyd-752	Cyd-457	Palmifolium		debile	(Aiton) Kuntze					5	
+Cyd-753	Cyd-466	Palmifolium		fischeri	(Miq.) Kuntze					5	
+Cyd-754	Cyd-467	Palmifolium		floridanum	(A.DC.) Kuntze					5	
+Cyd-755	Cyd-468	Palmifolium		furfuraceum	(L.f.) Kuntze					5	
+Cyd-756	Cyd-470	Palmifolium		galeotti	(de Vriese) Kuntze					5	
+Cyd-757	Cyd-485	Palmifolium		integrifolium	(L.f.) Kuntze					5	
+Cyd-758	Cyd-489	Palmifolium		kickxii	(Miq.) Kuntze					5	
+Cyd-759	Cyd-493	Palmifolium		latifolium	(Lodd. ex Miq.) Kuntze					5	
+Cyd-760	Cyd-502	Palmifolium		loddigesii	(Miq.) Kuntze					5	
+Cyd-761	Cyd-512	Palmifolium		medium	(Jacq.) Kuntze					5	
+Cyd-762	Cyd-515	Palmifolium		mexicanum	(Miq.) Kuntze					5	
+Cyd-763	Cyd-518	Palmifolium		multifoliolatum	(A.DC.) Kuntze					5	
+Cyd-764	Cyd-519	Palmifolium		muricatum	(Willd.) Kuntze					5	
+Cyd-765	Cyd-531	Palmifolium		ottonis	(Miq.) Kuntze					5	
+Cyd-766	Cyd-535	Palmifolium		poeppigianum	(Mart. & Eichler) Kuntze					5	
+Cyd-767	Cyd-541	Palmifolium		pseudoparasiticum	(J.Yates) Kuntze					5	
+Cyd-768	Cyd-542	Palmifolium		pumilum	(L.) Kuntze					5	
+Cyd-769	Cyd-545	Palmifolium		pygmaeum	(Sims) Kuntze					5	
+Cyd-770	Cyd-552	Palmifolium		skinneri	(Warsz. ex A.Dietr.) Kuntze					5	
+Cyd-771	Cyd-554	Palmifolium		sparteum	(A.DC.) Kuntze					5	
+Cyd-772	Cyd-558	Palmifolium		strictum	(Miq.) Kuntze					5	
+Cyd-773	Cyd-560	Palmifolium		tenue	(Willd.) Kuntze					5	
+Cyd-774	Cyd-13	Palmifolium		yatesii	(Miq.) Kuntze					5	
+Cyd-429	Cyd-248	Platyzamia		rigida	Zucc.					5	
+Cyd-431	Cyd-430	Stangeria		katzeri	Regel					5	
+Cyd-432	Cyd-430	Stangeria		paradoxa	T.Moore					5	
+Cyd-433	Cyd-430	Stangeria		schizodon	W.Bull					5	
+Cyd-437	Cyd-542	Zamia		allison-armourii	Millsp.					5	
+Cyd-439	Cyd-464	Zamia		amblyphyllidia	D.W.Stev.					5	
+Cyd-715	Cyd-441	Zamia		angustifolia		angustifolia	var.			5	
+Cyd-584	Cyd-442	Zamia		angustifolia		angustissima	var.	(Miq.) Regel		5	
+Cyd-745	Cyd-467	Zamia		angustifolia		floridana	var.	(A.DC.) Regel		5	
+Cyd-746	Cyd-558	Zamia		angustifolia		stricta	var.	(Miq.) Regel		5	
+Cyd-583	Cyd-13	Zamia		angustifolia		yatesii	var.	(Miq.) Regel		5	
+Cyd-442	Cyd-441	Zamia		angustissima	Miq.					5	
+Cyd-443	Cyd-535	Zamia		baraquiniana	Mast.					5	
+Cyd-446	Cyd-529	Zamia		bussellii	Schutzman, R.S.Adams, J.L.Haynes & Whitelock					5	
+Cyd-426	Cyd-74	Zamia		caffra	(Thunb.) Thunb.					5	
+Cyd-447	Cyd-427	Zamia		calocoma	Miq.					5	
+Cyd-448	Cyd-545	Zamia		chamberlainii	J.Schust.					5	
+Cyd-452	Cyd-563	Zamia		cupatiensis	Ducke					5	
+Cyd-454	Cyd-285	Zamia		cycadifolia	Jacq.					5	
+Cyd-456	Cyd-280	Zamia		cycadis	L.f.					5	
+Cyd-457	Cyd-542	Zamia		debilis	L.f.					5	
+Cyd-459	Cyd-485	Zamia		dentata	Voigt					5	
+Cyd-467	Cyd-485	Zamia		floridana	A.DC.					5	
+Cyd-716	Cyd-467	Zamia		floridana		floridana	var.			5	
+Cyd-787	Cyd-467	Zamia		floridana		purshiana	var.	J.Schust.		5	
+Cyd-788	Cyd-551	Zamia		floridana		purshiana	var.	J.Schust.		5	
+Cyd-242	Cyd-564	Zamia		floridana		umbrosa	var.	(Small) D.B.Ward		5	
+Cyd-717	Cyd-468	Zamia		furfuracea		furfuracea	var.			5	
+Cyd-469	Cyd-468	Zamia		furfuracea		trewii	var.	Miq.		5	
+Cyd-470	Cyd-502	Zamia		galeotti	de Vriese					5	
+Cyd-474	Cyd-441	Zamia		guggenheimiana	Carabia					5	
+Cyd-475	Cyd-519	Zamia		gutierrezii	Sauvalle					5	
+Cyd-478	Cyd-303	Zamia		horrida	Jacq.					5	
+Cyd-487	Cyd-496	Zamia		jirijirimensis	R.E.Schult.					5	
+Cyd-489	Cyd-545	Zamia		kickxii	Miq.					5	
+Cyd-492	Cyd-314	Zamia		lanuginosa	Jacq.					5	
+Cyd-493	Cyd-468	Zamia		latifolia	Lodd. ex Miq.					5	
+Cyd-494	Cyd-542	Zamia		latifoliolata	Prenlel.					5	
+Cyd-495	Cyd-502	Zamia		lawsoniana	Dyer					5	
+Cyd-497	Cyd-502	Zamia		leiboldii	Miq.					5	
+Cyd-498	Cyd-502	Zamia		leiboldii		angustifolia	var.	Regel		5	
+Cyd-499	Cyd-502	Zamia		leiboldii		latifolia	var.	Regel		5	
+Cyd-718	Cyd-502	Zamia		leiboldii		leiboldii	var.			5	
+Cyd-503	Cyd-502	Zamia		loddigesii		angustifolia	var.	Regel		5	
+Cyd-719	Cyd-502	Zamia		loddigesii		loddigesii	var.			5	
+Cyd-504	Cyd-502	Zamia		loddigesii		longifolia	var.	J.Schust.		5	
+Cyd-505	Cyd-502	Zamia		loddigesii		obtusifolia	var.	Regel		5	
+Cyd-506	Cyd-321	Zamia		longifolia	Jacq.					5	
+Cyd-509	Cyd-511	Zamia		madida	R.E.Schult.					5	
+Cyd-510	Cyd-248	Zamia		maelenii	Miq.					5	
+Cyd-512	Cyd-485	Zamia		media	Jacq.					5	
+Cyd-775	Cyd-542	Zamia		media		commeliniana	var.	J.Schust.		5	
+Cyd-777	Cyd-550	Zamia		media		commeliniana	var.	J.Schust.		5	
+Cyd-780	Cyd-475	Zamia		media		gutierrezii	var.	(Sauvalle) J.Schust.		5	
+Cyd-776	Cyd-512	Zamia		media		jacquiniana	var.	J.Schust.		5	
+Cyd-779	Cyd-537	Zamia		media		portoricensis	var.	(Urb.) J.Schust.		5	
+Cyd-778	Cyd-560	Zamia		media		tenuis	var.	(Willd.) J.Schust.		5	
+Cyd-515	Cyd-502	Zamia		mexicana	Miq.					5	
+Cyd-518	Cyd-441	Zamia		multifoliolata	A.DC.					5	
+Cyd-520	Cyd-519	Zamia		muricata		angustifolia	var.	Miq.		5	
+Cyd-720	Cyd-519	Zamia		muricata		muricata	var.			5	
+Cyd-521	Cyd-493	Zamia		muricata		obtustifolia	var.	Miq.		5	
+Cyd-435	Cyd-303	Zamia		nana	de Vriese					5	
+Cyd-525	Cyd-496	Zamia		obidensis	Ducke					5	
+Cyd-531	Cyd-545	Zamia		ottonis	Miq.					5	
+Cyd-582	Cyd-535	Zamia		parasitica	Poepp. ex Eichler					5	
+Cyd-534	Cyd-566	Zamia		picta	Dyer					5	
+Cyd-536	Cyd-539	Zamia		polymorpha	D.W.Stev., A.Moretti & Vázq.Torres					5	
+Cyd-654	Cyd-449	Zamia		princeps	Rob.					5	
+Cyd-819	Cyd-542	Zamia		pumila		pumila	subsp.			5	
+Cyd-783	Cyd-545	Zamia		pumila		pygmaea	subsp.	(Sims) Eckenw.		5	
+Cyd-543	Cyd-339	Zamia		pungens	L.f.					5	
+Cyd-784	Cyd-489	Zamia		pygmaea		kickxii	var.	(Miq.) J.Schust.		5	
+Cyd-785	Cyd-531	Zamia		pygmaea		ottonis	var.	(Miq.) J.Schust.		5	
+Cyd-786	Cyd-545	Zamia		pygmaea		wrightii	var.	Miq.		5	
+Cyd-550	Cyd-545	Zamia		silicea	Britton					5	
+Cyd-551	Cyd-485	Zamia		silvicola	Small					5	
+Cyd-580	Cyd-423	Zamia		spiralis	Salisb.					5	
+Cyd-559	Cyd-502	Zamia		sylvatica	Chamb.					5	
+Cyd-560	Cyd-485	Zamia		tenuis	Willd.					5	
+Cyd-581	Cyd-229	Zamia		tonkinensis	L.Linden & Rodigas					5	
+Cyd-652	Cyd-496	Zamia		ulei		lecointei	subsp.	(Ducke) Ducke		5	
+Cyd-721	Cyd-563	Zamia		ulei		ulei	subsp.			5	
+Cyd-564	Cyd-485	Zamia		umbrosa	Small					5	
+Cyd-568	Cyd-272	Zamia		vernicosa	Mast.					5	
+Cyd-1	Cyd-443	Zamia		wielandii	J.Schust.					5	
+Cyd-13	Cyd-441	Zamia		yatesii	Miq.					5	

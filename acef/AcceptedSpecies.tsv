@@ -1,356 +1,356 @@
 AcceptedTaxonID	Kingdom	Phylum	Class	Order	Superfamily	Family	Genus	SubGenusName	SpeciesEpithet	AuthorString	GSDNameStatus	Sp2000NameStatus	IsExtinct	HasPreHolocene	HasModern	LifeZone	AdditionalData	LTSSpecialist	LTSDate	SpeciesURL	GSDTaxonGUID	GSDNameGUID
-"9"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Bowenia"		"serrulata"	"(W.Bull) Chamb."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"10"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Bowenia"		"spectabilis"	"Hook. ex Hook.f."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"16"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"alvarezii"	"Pérez-Farr., Vovides & Iglesias"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"19"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"brevifrons"	"Miq."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"818"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"chamberlainii"	"Mart.-Domínguez, Nic.-Mor. & D.W.Stev."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"20"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"chimalapensis"	"Pérez-Farr. & Vovides"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"21"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"decumbens"	"Vovides, Avendaño, Pérez-Farr. & Gonz.-Astorga"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"632"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"delucana"	"Vázq.Torres, A.Moretti & Carvajal-Hern."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"22"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"euryphyllidia"	"Vázq.Torres, Sabato & D.W.Stev."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"374"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"fuscoviridis"	"W.Bull"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"24"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"hildae"	"G.P.Landry & M.C.Wilson"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"25"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"hondurensis"	"J.L.Haynes, Whitelock, Schutzman & R.S.Adams"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"26"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"huastecorum"	"Avendaño, Vovides & Cast.-Campos"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"29"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"kuesteriana"	"Regel"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"30"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"latifolia"	"Miq."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"32"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"matudae"	"Lundell"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"33"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"mexicana"	"Brongn."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"35"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"microstrobila"	"Vovides & J.D.Rees"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"36"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"miqueliana"	"H.Wendl."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"37"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"mirandae"	"Vovides, Pérez-Farr. & Iglesias"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"38"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"mixeorum"	"Chemnick, T.J.Greg. & Salas-Mor."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"39"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"morettii"	"Vázq.Torres & Vovides"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"40"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"norstogii"	"D.W.Stev."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"41"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"robusta"	"Miq."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"42"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"sabatoi"	"Vovides, Vázq.Torres, Schutzman & Iglesias"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"43"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"santillanii"	"Pérez-Farr. & Vovides"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"817"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"subroseophylla"	"Mart.-Domínguez & Nic.-Mor."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"793"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"tenuis"	"(Dyer) D.W.Stev. & Vovides"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"814"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"totonacorum"	"Mart.-Domínguez & Nic.-Mor."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"44"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"vovidesii"	"Pérez-Farr. & Iglesias"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"45"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"whitelockiana"	"Chemnick & T.J.Greg."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"46"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"zaragozae"	"Medellín"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"47"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Ceratozamia"		"zoquorum"	"Pérez-Farr., Vovides & Iglesias"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"52"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"aculeata"	"K.D.Hill & T.H.Nguyên"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"54"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"aenigma"	"K.D.Hill & A.Lindstr."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"55"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"angulata"	"R.Br."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"56"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"annaikalensis"	"Rita Singh & P.Radha"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"57"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"apoa"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"58"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"arenicola"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"59"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"armstrongii"	"Miq."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"60"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"arnhemica"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"63"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"badensis"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"829"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"baiseensis"	"Y.Y.Huang, Y.C.Zhong & Z.F.Lu"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"65"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"balansae"	"Warb."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"66"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"basaltica"	"C.A.Gardner"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"67"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"beddomei"	"Dyer"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"69"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"bifida"	"(Dyer) K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"70"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"bougainvilleana"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"71"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"brachycantha"	"K.D.Hill, T.H.Nguyên & P.K.Lôc"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"73"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"brunnea"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"75"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"cairnsiana"	"F.Muell."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"76"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"calcicola"	"Maconochie"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"77"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"campestris"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"79"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"canalis"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"80"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"candida"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"81"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"cantafolia"	"Jutta, K.L.Chew & Saw"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"83"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"chamaoensis"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"85"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"changjiangensis"	"N.Liu"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"665"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"chenii"	"X.Gong & Wei Zhou"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"86"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"chevalieri"	"Leandri"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"87"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"circinalis"	"L."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"107"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"clivicola"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"109"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"collina"	"K.D.Hill, T.H.Nguyên & P.K.Lôc"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"110"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"condaoensis"	"K.D.Hill & S.L.Yang"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"111"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"conferta"	"Chirgwin ex Chirgwin & Wigston"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"112"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"couttsiana"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"114"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"cupida"	"P.I.Forst."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"115"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"curranii"	"(J.Schust.) K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"116"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"debaoensis"	"Y.C.Zhong & C.J.Chen"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"117"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"desolata"	"P.I.Forst."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"118"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"diannanensis"	"Z.T.Guan & G.D.Tao"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"820"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"distans"	"P.I.Forst. & B.Gray"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"119"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"dolichophylla"	"K.D.Hill, T.H.Nguyên & P.K.Lôc"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"120"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"edentata"	"de Laub."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"121"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"elephantipes"	"A.Lindstr. & K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"122"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"elongata"	"(Leandri) D.Yue Wang"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"123"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"fairylakea"	"D.Yue Wang"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"124"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"falcata"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"125"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"ferruginea"	"F.N.Wei"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"126"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"fugax"	"K.D.Hill, T.H.Nguyên & P.K.Lôc"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"127"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"furfuracea"	"W.Fitzg."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"128"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"glauca"	"Hort. ex Miq."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"133"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"guizhouensis"	"K.M.Lan & R.F.Zou"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"134"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"hainanensis"	"C.J.Chen"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"136"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"hoabinhensis"	"P.K.Lôc & T.H.Nguyên"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"137"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"hongheensis"	"S.Y.Yang & S.L.Yang ex D.Yue Wang"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"140"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"indica"	"A.Lindstr. & K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"141"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"inermis"	"Lour."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"142"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"javana"	"(Miq.) de Laub."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"145"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"lacrimans"	"A.Lindstr. & K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"146"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"lane-poolei"	"C.A.Gardner"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"653"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"laotica"	"Aver., T.H.Nguyên & S.K.Nguyên"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"147"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"lindstromii"	"S.L.Yang, K.D.Hill & T.H.Nguyên"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"154"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"maconochiei"	"Chirgwin & K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"157"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"macrocarpa"	"Griff."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"159"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"media"	"R.Br."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"162"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"megacarpa"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"163"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"micholitzii"	"Dyer"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"165"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"micronesica"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"167"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"montana"	"A.Lindstr. & K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"169"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"multifrondis"	"D.Yue Wang"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"170"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"multipinnata"	"C.J.Chen & S.Y.Yang"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"172"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"nathorstii"	"J.Schust."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"674"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"nayagarhensis"	"Rita Singh, P.Radha & Khuraijam"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"173"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"nitida"	"K.D.Hill & A.Lindstr."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"174"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"nongnoochiae"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"176"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"ophiolitica"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"177"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"orientis"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"673"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"orixensis"	"(Haines) Rita Singh & Khuraijam"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"178"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"pachypoda"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"180"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"panzhihuaensis"	"L.Zhou & S.Y.Yang"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"181"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"papuana"	"F.Muell."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"183"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"pectinata"	"Buch.-Ham."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"186"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"petraea"	"A.Lindstr. & K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"187"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"platyphylla"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"188"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"pranburiensis"	"S.L.Yang, W.Tang, K.D.Hill & Vatch."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"189"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"pruinosa"	"Maconochie"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"191"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"revoluta"	"Thunb."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"196"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"riuminiana"	"Porte ex Regel"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"197"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"rumphii"	"Miq."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"595"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"sainathii"	"R.C.Srivast."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"202"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"sancti-lasallei"	"Agoo & Madulid"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"203"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"saxatilis"	"K.D.Hill & A.Lindstr."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"204"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"schumanniana"	"Lauterb."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"205"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"scratchleyana"	"F.Muell."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"206"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"seemannii"	"Braun"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"207"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"segmentifida"	"D.Yue Wang & C.Y.Deng"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"208"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"semota"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"815"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"seshachalamensis"	"P.V.C.Rao, N.V.S.Prasad, P.M.Babu, K.Prassad & Prasanna"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"210"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"sexseminifera"	"F.N.Wei"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"213"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"siamensis"	"Miq."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"215"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"silvestris"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"216"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"simplicipinna"	"(Smitinand) K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"217"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"sphaerica"	"Roxb."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"219"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"sundaica"	"Miq. ex A.Lindstr. & K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"221"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"szechuanensis"	"W.C.Cheng & L.K.Fu"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"223"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"taitungensis"	"C.F.Shen, K.D.Hill, C.H.Tsou & C.J.Chen"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"224"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"taiwaniana"	"Carruth."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"225"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"tanqingii"	"D.Yue Wang"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"226"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"tansachana"	"K.D.Hill & S.L.Yang"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"227"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"terryana"	"P.I.Forst."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"228"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"thouarsii"	"R.Br. ex Gaudich."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"230"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"tropophylla"	"K.D.Hill & P.K.Lôc"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"232"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"tuckeri"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"234"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"vespertilio"	"A.Lindstr. & K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"235"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"wadei"	"Merr."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"238"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"xipholepis"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"239"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"yorkiana"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"240"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"zambalensis"	"Madulid & Agoo"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"241"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Cycadaceae"	"Cycas"		"zeylanica"	"(J.Schust.) A.Lindstr. & K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"244"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Dioon"		"angustifolium"	"Miq."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"245"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Dioon"		"argenteum"	"T.J.Greg., Chemnick, Salas-Mor. & Vovides"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"246"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Dioon"		"califanoi"	"De Luca & Sabato"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"247"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Dioon"		"caputoi"	"De Luca, Sabato & Vázq.Torres"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"248"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Dioon"		"edule"	"Lindl."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"255"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Dioon"		"holmgrenii"	"De Luca, Sabato & Vázq.Torres"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"257"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Dioon"		"mejiae"	"Standl. & L.O.Williams"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"258"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Dioon"		"merolae"	"De Luca, Sabato & Vázq.Torres"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"740"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Dioon"		"planifolium"	"Salas-Mor., Chemnick & T.J.Greg."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"259"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Dioon"		"purpusii"	"Rose"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"260"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Dioon"		"rzedowskii"	"De Luca, A.Moretti, Sabato & Vázq.Torres"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"261"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Dioon"		"sonorense"	"(De Luca, Sabato & Vázq.Torres) Chemnick, T.J.Greg. & Salas-Mor."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"262"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Dioon"		"spinulosum"	"Dyer ex Eichler"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"263"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Dioon"		"stevensonii"	"Nic.-Mor. & Vovides"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"265"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Dioon"		"tomasellii"	"De Luca, Sabato & Vázq.Torres"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"827"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Dioon"		"vovidesii"	"Gut.Ortega & Pérez-Farr."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"271"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"aemulans"	"Vorster"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"272"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"altensteinii"	"Lehm."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"273"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"aplanatus"	"Vorster"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"274"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"arenarius"	"R.A.Dyer"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"275"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"barteri"	"Carruth. ex Miq."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"278"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"brevifoliolatus"	"Vorster"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"279"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"bubalinus"	"Melville"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"280"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"caffer"	"(Thunb.) Lehm."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"281"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"cerinus"	"Lavranos & D.L.Goode"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"282"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"chimanimaniensis"	"R.A.Dyer & I.Verd."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"283"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"concinnus"	"R.A.Dyer & I.Verd."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"284"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"cupidus"	"R.A.Dyer"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"285"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"cycadifolius"	"(Jacq.) Lehm."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"286"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"delucanus"	"Malaisse, Sclavo & Crosiers"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"287"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"dolomiticus"	"Lavranos & D.L.Goode"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"288"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"dyerianus"	"Lavranos & D.L.Goode"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"289"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"equatorialis"	"P.J.H.Hurter"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"290"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"eugene-maraisii"	"I.Verd."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"293"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"ferox"	"G.Bertol"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"295"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"friderici-guilielmi"	"Lehm."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"296"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"ghellinckii"	"Lem."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"298"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"gratus"	"Prain"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"299"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"heenanii"	"R.A.Dyer"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"300"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"hildebrandtii"	"A.Braun & C.D.Bouché"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"302"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"hirsutus"	"P.J.H.Hurter"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"303"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"horridus"	"(Jacq.) Lehm."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"305"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"humilis"	"I.Verd."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"307"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"inopinus"	"R.A.Dyer"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"308"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"ituriensis"	"Bamps & Lisowski"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"310"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"kisambo"	"Faden & Beentje"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"312"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"laevifolius"	"Stapf & Burtt Davy"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"313"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"lanatus"	"Stapf & Burtt Davy"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"316"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"latifrons"	"Lehm."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"317"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"laurentianus"	"De Wild."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"318"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"lebomboensis"	"I.Verd."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"319"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"lehmannii"	"Lehm."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"321"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"longifolius"	"(Jacq.) Lehm."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"322"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"mackenziei"	"L.E.Newton"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"323"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"macrostrobilus"	"S.Jones & Wynants"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"324"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"manikensis"	"(Gilliland) Gilliland"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"326"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"marunguensis"	"Devred"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"328"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"middelburgensis"	"Vorster, Robbertse & S.van der Westh."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"329"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"msinganus"	"Vorster"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"330"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"munchii"	"R.A.Dyer & I.Verd."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"332"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"natalensis"	"R.A.Dyer & I.Verd."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"333"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"ngoyanus"	"I.Verd."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"334"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"nubimontanus"	"P.J.H.Hurter"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"335"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"paucidentatus"	"Stapf & Burtt Davy"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"336"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"poggei"	"Asch."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"337"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"princeps"	"R.A.Dyer"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"338"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"pterogonus"	"R.A.Dyer & I.Verd."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"340"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"relictus"	"P.J.H.Hurter"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"341"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"schaijesii"	"Malaisse, Sclavo & Crosiers"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"342"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"schmitzii"	"Malaisse"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"343"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"sclavoi"	"A.Moretti, D.W.Stev. & De Luca"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"344"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"senticosus"	"Vorster"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"345"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"septentrionalis"	"Schweinf."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"349"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"tegulaneus"	"Melville"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"351"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"transvenosus"	"Stapf & Burtt Davy"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"353"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"trispinosus"	"(Hook.) R.A.Dyer"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"354"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"turneri"	"Lavranos & D.L.Goode"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"355"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"umbeluziensis"	"R.A.Dyer"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"358"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"villosus"	"Lem."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"360"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"whitelockii"	"P.J.H.Hurter"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"361"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Encephalartos"		"woodii"	"Sander ex J.M.Wood"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"371"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Lepidozamia"		"hopei"	"Regel"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"372"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Lepidozamia"		"peroffskyana"	"Regel"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"375"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"cardiacensis"	"P.I.Forst. & D.L.Jones"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"376"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"communis"	"L.A.S.Johnson"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"377"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"concinna"	"D.L.Jones"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"378"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"conferta"	"D.L.Jones & P.I.Forst."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"380"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"cranei"	"D.L.Jones & P.I.Forst."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"381"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"crassifolia"	"P.I.Forst. & D.L.Jones"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"384"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"diplomera"	"(F.Muell.) L.A.S.Johnson"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"385"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"douglasii"	"W.Hill ex F.M.Bailey"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"386"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"dyeri"	"(F.Muell.) C.A.Gardner"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"387"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"elegans"	"K.D.Hill & D.L.Jones"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"388"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"fawcettii"	"C.Moore"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"389"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"fearnsidei"	"D.L.Jones"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"390"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"flexuosa"	"C.Moore"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"391"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"fraseri"	"Miq."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"392"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"glaucophylla"	"D.L.Jones"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"393"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"heteromera"	"C.Moore"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"395"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"humilis"	"D.L.Jones"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"396"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"johnsonii"	"D.L.Jones & K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"397"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"lomandroides"	"D.L.Jones"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"398"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"longispina"	"P.I.Forst. & D.L.Jones"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"399"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"lucida"	"L.A.S.Johnson"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"400"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"macdonnellii"	"(F.Muell. ex Miq.) A.DC."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"401"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"machinii"	"P.I.Forst. & D.L.Jones"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"403"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"macleayi"	"Miq."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"404"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"miquelii"	"(F.Muell.) A.DC."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"405"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"montana"	"K.D.Hill"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"406"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"moorei"	"F.Muell."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"407"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"mountperriensis"	"F.M.Bailey"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"408"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"occidua"	"D.L.Jones & P.I.Forst."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"410"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"parcifolia"	"P.I.Forst. & D.L.Jones"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"411"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"pauli-guilielmi"	"W.Hill & F.Muell."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"415"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"platyrhachis"	"F.M.Bailey"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"416"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"plurinervia"	"(L.A.S.Johnson) D.L.Jones"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"417"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"polymorpha"	"D.L.Jones"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"419"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"reducta"	"K.D.Hill & D.L.Jones"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"420"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"riedlei"	"(Gaudich.) C.A.Gardner"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"421"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"secunda"	"C.Moore"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"422"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"serpentina"	"D.L.Jones & P.I.Forst."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"423"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"spiralis"	"(Salisb.) Miq."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"424"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"stenomera"	"L.A.S.Johnson"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"425"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Macrozamia"		"viridis"	"D.L.Jones & P.I.Forst."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"427"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Microcycas"		"calocoma"	"(Miq.) A.DC."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"430"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Stangeria"		"eriopus"	"(Kunze) Baill."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"436"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"acuminata"	"Oerst. ex Dyer"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"438"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"amazonum"	"D.W.Stev."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"440"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"amplifolia"	"W.Bull ex Mast."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"441"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"angustifolia"	"Jacq."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"444"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"boliviana"	"(Brongn.) A.DC."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"449"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"chigua"	"Seem."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"450"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"cremnophila"	"Vovides, Schutzman & Dehgan"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"451"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"cunaria"	"Dressler & D.W.Stev."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"458"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"decumbens"	"Calonje, Meerman, M.P.Griff. & Hoese"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"460"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"disodon"	"D.W.Stev. & Sabato"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"461"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"dressleri"	"D.W.Stev."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"462"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"elegantissima"	"Schutzman, Vovides & R.S.Adams"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"463"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"encephalartoides"	"D.W.Stev."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"464"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"erosa"	"O.F.Cook & G.N.Collins"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"465"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"fairchildiana"	"L.D.Gómez"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"466"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"fischeri"	"Miq."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"468"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"furfuracea"	"L.f."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"471"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"gentryi"	"Dodson"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"472"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"gomeziana"	"R.H.Acuña"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"473"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"grijalvensis"	"Pérez-Farr., Vovides & Mart.-Camilo"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"476"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"hamannii"	"A.S.Taylor, J.L.Haynes & Holzman"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"477"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"herrerae"	"S.Calderón & Standl."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"479"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"huilensis"	"Calonje, H.E.Esquivel & D.W.Stev."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"481"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"hymenophyllidia"	"D.W.Stev."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"482"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"imperialis"	"A.S.Taylor, J.L.Haynes & Holzman"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"483"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"incognita"	"A.Lindstr. & Idárraga"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"484"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"inermis"	"Vovides, J.D.Rees & Vázq.Torres"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"485"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"integrifolia"	"L.f."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"486"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"ipetiensis"	"D.W.Stev."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"488"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"katzeriana"	"(Regel) E.Rettig"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"490"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"lacandona"	"Schutzman & Vovides"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"496"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"lecointei"	"Ducke"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"500"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"lindenii"	"Regel ex André"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"501"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"lindleyi"	"Warsz. ex A.Dietr."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"826"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"lindosensis"	"D.W.Stev., D.Cárdenas & N.Castaño"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"502"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"loddigesii"	"Miq."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"507"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"lucayana"	"Britton"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"508"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"macrochiera"	"D.W.Stev."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"511"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"manicata"	"Linden ex Regel"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"513"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"meermanii"	"Calonje"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"514"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"melanorrhachis"	"D.W.Stev."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"516"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"montana"	"Braun"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"517"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"monticola"	"Chamb."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"519"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"muricata"	"Willd."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"434"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"nana"	"A.Lindstr., Calonje, D.W.Stev. & A.S.Taylor"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"522"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"nesophila"	"A.S.Taylor, J.L.Haynes & Holzman"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"523"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"neurophyllidia"	"D.W.Stev."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"526"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"obliqua"	"A.Braun"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"528"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"oligodonta"	"E.Calderón & D.W.Stev."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"529"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"onan-reyesii"	"C.Nelson & Sandoval"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"530"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"oreillyi"	"C.Nelson"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"830"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"paucifoliolata"	"Calonje"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"533"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"paucijuga"	"Wieland"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"535"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"poeppigiana"	"Mart. & Eichler"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"537"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"portoricensis"	"Urb."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"539"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"prasina"	"W.Bull"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"540"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"pseudomonticola"	"L.D.Gómez ex D.W.Stev. & Sabato"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"541"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"pseudoparasitica"	"J.Yates"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"542"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"pumila"	"L."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"544"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"purpurea"	"Vovides, J.D.Rees & Vázq.Torres"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"545"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"pygmaea"	"Sims"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"546"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"pyrophylla"	"Calonje, D.W.Stev. & A.Lindstr."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"547"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"restrepoi"	"(D.W.Stev.) A.Lindstr."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"548"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"roezlii"	"Linden"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"549"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"sandovalii"	"C.Nelson"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"552"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"skinneri"	"Warsz. ex A.Dietr."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"553"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"soconuscensis"	"Schutzman, Vovides & Dehgan"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"554"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"spartea"	"A.DC."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"555"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"splendens"	"Schutzman"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"556"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"standleyi"	"Schutzman"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"557"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"stevensonii"	"A.S.Taylor & Holzman"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"558"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"stricta"	"Miq."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"561"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"tolimensis"	"Calonje, H.E.Esquivel & D.W.Stev."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"562"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"tuerckheimii"	"Donn.Sm."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"563"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"ulei"	"Dammer"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"565"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"urep"	"B.Walln."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"566"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"variegata"	"Warsz."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"567"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"vazquezii"	"D.W.Stev., Sabato & De Luca"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"8"	"Plantae"	"Tracheophyta"	"Cycadopsida"	"Cycadales"		"Zamiaceae"	"Zamia"		"wallisii"	"Braun"		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
+Cyd-9	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Bowenia		serrulata	(W.Bull) Chamb.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-10	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Bowenia		spectabilis	Hook. ex Hook.f.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-16	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		alvarezii	Pérez-Farr., Vovides & Iglesias		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-19	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		brevifrons	Miq.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-818	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		chamberlainii	Mart.-Domínguez, Nic.-Mor. & D.W.Stev.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-20	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		chimalapensis	Pérez-Farr. & Vovides		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-21	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		decumbens	Vovides, Avendaño, Pérez-Farr. & Gonz.-Astorga		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-632	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		delucana	Vázq.Torres, A.Moretti & Carvajal-Hern.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-22	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		euryphyllidia	Vázq.Torres, Sabato & D.W.Stev.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-374	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		fuscoviridis	W.Bull		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-24	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		hildae	G.P.Landry & M.C.Wilson		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-25	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		hondurensis	J.L.Haynes, Whitelock, Schutzman & R.S.Adams		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-26	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		huastecorum	Avendaño, Vovides & Cast.-Campos		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-29	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		kuesteriana	Regel		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-30	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		latifolia	Miq.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-32	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		matudae	Lundell		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-33	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		mexicana	Brongn.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-35	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		microstrobila	Vovides & J.D.Rees		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-36	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		miqueliana	H.Wendl.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-37	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		mirandae	Vovides, Pérez-Farr. & Iglesias		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-38	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		mixeorum	Chemnick, T.J.Greg. & Salas-Mor.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-39	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		morettii	Vázq.Torres & Vovides		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-40	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		norstogii	D.W.Stev.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-41	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		robusta	Miq.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-42	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		sabatoi	Vovides, Vázq.Torres, Schutzman & Iglesias		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-43	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		santillanii	Pérez-Farr. & Vovides		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-817	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		subroseophylla	Mart.-Domínguez & Nic.-Mor.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-793	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		tenuis	(Dyer) D.W.Stev. & Vovides		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-814	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		totonacorum	Mart.-Domínguez & Nic.-Mor.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-44	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		vovidesii	Pérez-Farr. & Iglesias		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-45	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		whitelockiana	Chemnick & T.J.Greg.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-46	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		zaragozae	Medellín		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-47	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Ceratozamia		zoquorum	Pérez-Farr., Vovides & Iglesias		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-52	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		aculeata	K.D.Hill & T.H.Nguyên		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-54	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		aenigma	K.D.Hill & A.Lindstr.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-55	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		angulata	R.Br.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-56	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		annaikalensis	Rita Singh & P.Radha		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-57	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		apoa	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-58	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		arenicola	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-59	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		armstrongii	Miq.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-60	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		arnhemica	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-63	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		badensis	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-829	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		baiseensis	Y.Y.Huang, Y.C.Zhong & Z.F.Lu		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-65	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		balansae	Warb.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-66	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		basaltica	C.A.Gardner		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-67	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		beddomei	Dyer		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-69	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		bifida	(Dyer) K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-70	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		bougainvilleana	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-71	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		brachycantha	K.D.Hill, T.H.Nguyên & P.K.Lôc		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-73	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		brunnea	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-75	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		cairnsiana	F.Muell.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-76	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		calcicola	Maconochie		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-77	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		campestris	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-79	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		canalis	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-80	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		candida	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-81	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		cantafolia	Jutta, K.L.Chew & Saw		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-83	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		chamaoensis	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-85	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		changjiangensis	N.Liu		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-665	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		chenii	X.Gong & Wei Zhou		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-86	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		chevalieri	Leandri		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-87	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		circinalis	L.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-107	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		clivicola	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-109	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		collina	K.D.Hill, T.H.Nguyên & P.K.Lôc		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-110	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		condaoensis	K.D.Hill & S.L.Yang		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-111	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		conferta	Chirgwin ex Chirgwin & Wigston		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-112	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		couttsiana	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-114	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		cupida	P.I.Forst.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-115	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		curranii	(J.Schust.) K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-116	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		debaoensis	Y.C.Zhong & C.J.Chen		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-117	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		desolata	P.I.Forst.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-118	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		diannanensis	Z.T.Guan & G.D.Tao		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-820	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		distans	P.I.Forst. & B.Gray		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-119	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		dolichophylla	K.D.Hill, T.H.Nguyên & P.K.Lôc		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-120	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		edentata	de Laub.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-121	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		elephantipes	A.Lindstr. & K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-122	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		elongata	(Leandri) D.Yue Wang		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-123	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		fairylakea	D.Yue Wang		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-124	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		falcata	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-125	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		ferruginea	F.N.Wei		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-126	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		fugax	K.D.Hill, T.H.Nguyên & P.K.Lôc		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-127	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		furfuracea	W.Fitzg.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-128	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		glauca	Hort. ex Miq.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-133	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		guizhouensis	K.M.Lan & R.F.Zou		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-134	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		hainanensis	C.J.Chen		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-136	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		hoabinhensis	P.K.Lôc & T.H.Nguyên		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-137	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		hongheensis	S.Y.Yang & S.L.Yang ex D.Yue Wang		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-140	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		indica	A.Lindstr. & K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-141	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		inermis	Lour.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-142	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		javana	(Miq.) de Laub.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-145	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		lacrimans	A.Lindstr. & K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-146	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		lane-poolei	C.A.Gardner		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-653	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		laotica	Aver., T.H.Nguyên & S.K.Nguyên		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-147	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		lindstromii	S.L.Yang, K.D.Hill & T.H.Nguyên		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-154	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		maconochiei	Chirgwin & K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-157	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		macrocarpa	Griff.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-159	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		media	R.Br.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-162	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		megacarpa	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-163	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		micholitzii	Dyer		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-165	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		micronesica	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-167	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		montana	A.Lindstr. & K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-169	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		multifrondis	D.Yue Wang		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-170	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		multipinnata	C.J.Chen & S.Y.Yang		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-172	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		nathorstii	J.Schust.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-674	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		nayagarhensis	Rita Singh, P.Radha & Khuraijam		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-173	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		nitida	K.D.Hill & A.Lindstr.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-174	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		nongnoochiae	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-176	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		ophiolitica	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-177	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		orientis	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-673	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		orixensis	(Haines) Rita Singh & Khuraijam		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-178	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		pachypoda	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-180	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		panzhihuaensis	L.Zhou & S.Y.Yang		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-181	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		papuana	F.Muell.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-183	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		pectinata	Buch.-Ham.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-186	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		petraea	A.Lindstr. & K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-187	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		platyphylla	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-188	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		pranburiensis	S.L.Yang, W.Tang, K.D.Hill & Vatch.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-189	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		pruinosa	Maconochie		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-191	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		revoluta	Thunb.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-196	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		riuminiana	Porte ex Regel		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-197	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		rumphii	Miq.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-595	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		sainathii	R.C.Srivast.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-202	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		sancti-lasallei	Agoo & Madulid		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-203	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		saxatilis	K.D.Hill & A.Lindstr.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-204	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		schumanniana	Lauterb.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-205	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		scratchleyana	F.Muell.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-206	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		seemannii	Braun		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-207	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		segmentifida	D.Yue Wang & C.Y.Deng		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-208	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		semota	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-815	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		seshachalamensis	P.V.C.Rao, N.V.S.Prasad, P.M.Babu, K.Prassad & Prasanna		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-210	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		sexseminifera	F.N.Wei		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-213	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		siamensis	Miq.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-215	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		silvestris	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-216	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		simplicipinna	(Smitinand) K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-217	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		sphaerica	Roxb.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-219	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		sundaica	Miq. ex A.Lindstr. & K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-221	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		szechuanensis	W.C.Cheng & L.K.Fu		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-223	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		taitungensis	C.F.Shen, K.D.Hill, C.H.Tsou & C.J.Chen		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-224	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		taiwaniana	Carruth.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-225	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		tanqingii	D.Yue Wang		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-226	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		tansachana	K.D.Hill & S.L.Yang		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-227	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		terryana	P.I.Forst.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-228	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		thouarsii	R.Br. ex Gaudich.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-230	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		tropophylla	K.D.Hill & P.K.Lôc		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-232	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		tuckeri	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-234	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		vespertilio	A.Lindstr. & K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-235	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		wadei	Merr.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-238	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		xipholepis	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-239	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		yorkiana	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-240	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		zambalensis	Madulid & Agoo		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-241	Plantae	Tracheophyta	Cycadopsida	Cycadales		Cycadaceae	Cycas		zeylanica	(J.Schust.) A.Lindstr. & K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-244	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Dioon		angustifolium	Miq.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-245	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Dioon		argenteum	T.J.Greg., Chemnick, Salas-Mor. & Vovides		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-246	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Dioon		califanoi	De Luca & Sabato		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-247	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Dioon		caputoi	De Luca, Sabato & Vázq.Torres		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-248	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Dioon		edule	Lindl.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-255	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Dioon		holmgrenii	De Luca, Sabato & Vázq.Torres		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-257	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Dioon		mejiae	Standl. & L.O.Williams		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-258	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Dioon		merolae	De Luca, Sabato & Vázq.Torres		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-740	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Dioon		planifolium	Salas-Mor., Chemnick & T.J.Greg.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-259	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Dioon		purpusii	Rose		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-260	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Dioon		rzedowskii	De Luca, A.Moretti, Sabato & Vázq.Torres		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-261	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Dioon		sonorense	(De Luca, Sabato & Vázq.Torres) Chemnick, T.J.Greg. & Salas-Mor.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-262	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Dioon		spinulosum	Dyer ex Eichler		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-263	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Dioon		stevensonii	Nic.-Mor. & Vovides		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-265	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Dioon		tomasellii	De Luca, Sabato & Vázq.Torres		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-827	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Dioon		vovidesii	Gut.Ortega & Pérez-Farr.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-271	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		aemulans	Vorster		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-272	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		altensteinii	Lehm.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-273	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		aplanatus	Vorster		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-274	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		arenarius	R.A.Dyer		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-275	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		barteri	Carruth. ex Miq.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-278	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		brevifoliolatus	Vorster		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-279	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		bubalinus	Melville		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-280	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		caffer	(Thunb.) Lehm.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-281	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		cerinus	Lavranos & D.L.Goode		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-282	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		chimanimaniensis	R.A.Dyer & I.Verd.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-283	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		concinnus	R.A.Dyer & I.Verd.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-284	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		cupidus	R.A.Dyer		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-285	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		cycadifolius	(Jacq.) Lehm.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-286	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		delucanus	Malaisse, Sclavo & Crosiers		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-287	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		dolomiticus	Lavranos & D.L.Goode		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-288	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		dyerianus	Lavranos & D.L.Goode		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-289	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		equatorialis	P.J.H.Hurter		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-290	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		eugene-maraisii	I.Verd.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-293	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		ferox	G.Bertol		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-295	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		friderici-guilielmi	Lehm.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-296	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		ghellinckii	Lem.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-298	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		gratus	Prain		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-299	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		heenanii	R.A.Dyer		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-300	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		hildebrandtii	A.Braun & C.D.Bouché		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-302	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		hirsutus	P.J.H.Hurter		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-303	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		horridus	(Jacq.) Lehm.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-305	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		humilis	I.Verd.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-307	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		inopinus	R.A.Dyer		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-308	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		ituriensis	Bamps & Lisowski		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-310	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		kisambo	Faden & Beentje		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-312	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		laevifolius	Stapf & Burtt Davy		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-313	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		lanatus	Stapf & Burtt Davy		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-316	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		latifrons	Lehm.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-317	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		laurentianus	De Wild.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-318	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		lebomboensis	I.Verd.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-319	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		lehmannii	Lehm.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-321	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		longifolius	(Jacq.) Lehm.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-322	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		mackenziei	L.E.Newton		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-323	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		macrostrobilus	S.Jones & Wynants		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-324	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		manikensis	(Gilliland) Gilliland		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-326	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		marunguensis	Devred		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-328	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		middelburgensis	Vorster, Robbertse & S.van der Westh.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-329	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		msinganus	Vorster		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-330	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		munchii	R.A.Dyer & I.Verd.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-332	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		natalensis	R.A.Dyer & I.Verd.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-333	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		ngoyanus	I.Verd.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-334	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		nubimontanus	P.J.H.Hurter		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-335	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		paucidentatus	Stapf & Burtt Davy		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-336	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		poggei	Asch.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-337	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		princeps	R.A.Dyer		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-338	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		pterogonus	R.A.Dyer & I.Verd.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-340	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		relictus	P.J.H.Hurter		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-341	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		schaijesii	Malaisse, Sclavo & Crosiers		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-342	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		schmitzii	Malaisse		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-343	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		sclavoi	A.Moretti, D.W.Stev. & De Luca		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-344	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		senticosus	Vorster		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-345	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		septentrionalis	Schweinf.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-349	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		tegulaneus	Melville		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-351	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		transvenosus	Stapf & Burtt Davy		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-353	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		trispinosus	(Hook.) R.A.Dyer		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-354	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		turneri	Lavranos & D.L.Goode		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-355	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		umbeluziensis	R.A.Dyer		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-358	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		villosus	Lem.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-360	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		whitelockii	P.J.H.Hurter		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-361	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Encephalartos		woodii	Sander ex J.M.Wood		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-371	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Lepidozamia		hopei	Regel		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-372	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Lepidozamia		peroffskyana	Regel		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-375	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		cardiacensis	P.I.Forst. & D.L.Jones		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-376	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		communis	L.A.S.Johnson		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-377	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		concinna	D.L.Jones		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-378	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		conferta	D.L.Jones & P.I.Forst.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-380	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		cranei	D.L.Jones & P.I.Forst.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-381	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		crassifolia	P.I.Forst. & D.L.Jones		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-384	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		diplomera	(F.Muell.) L.A.S.Johnson		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-385	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		douglasii	W.Hill ex F.M.Bailey		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-386	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		dyeri	(F.Muell.) C.A.Gardner		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-387	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		elegans	K.D.Hill & D.L.Jones		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-388	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		fawcettii	C.Moore		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-389	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		fearnsidei	D.L.Jones		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-390	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		flexuosa	C.Moore		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-391	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		fraseri	Miq.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-392	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		glaucophylla	D.L.Jones		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-393	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		heteromera	C.Moore		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-395	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		humilis	D.L.Jones		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-396	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		johnsonii	D.L.Jones & K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-397	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		lomandroides	D.L.Jones		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-398	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		longispina	P.I.Forst. & D.L.Jones		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-399	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		lucida	L.A.S.Johnson		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-400	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		macdonnellii	(F.Muell. ex Miq.) A.DC.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-401	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		machinii	P.I.Forst. & D.L.Jones		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-403	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		macleayi	Miq.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-404	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		miquelii	(F.Muell.) A.DC.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-405	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		montana	K.D.Hill		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-406	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		moorei	F.Muell.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-407	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		mountperriensis	F.M.Bailey		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-408	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		occidua	D.L.Jones & P.I.Forst.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-410	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		parcifolia	P.I.Forst. & D.L.Jones		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-411	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		pauli-guilielmi	W.Hill & F.Muell.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-415	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		platyrhachis	F.M.Bailey		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-416	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		plurinervia	(L.A.S.Johnson) D.L.Jones		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-417	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		polymorpha	D.L.Jones		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-419	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		reducta	K.D.Hill & D.L.Jones		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-420	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		riedlei	(Gaudich.) C.A.Gardner		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-421	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		secunda	C.Moore		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-422	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		serpentina	D.L.Jones & P.I.Forst.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-423	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		spiralis	(Salisb.) Miq.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-424	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		stenomera	L.A.S.Johnson		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-425	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Macrozamia		viridis	D.L.Jones & P.I.Forst.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-427	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Microcycas		calocoma	(Miq.) A.DC.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-430	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Stangeria		eriopus	(Kunze) Baill.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-436	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		acuminata	Oerst. ex Dyer		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-438	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		amazonum	D.W.Stev.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-440	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		amplifolia	W.Bull ex Mast.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-441	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		angustifolia	Jacq.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-444	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		boliviana	(Brongn.) A.DC.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-449	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		chigua	Seem.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-450	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		cremnophila	Vovides, Schutzman & Dehgan		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-451	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		cunaria	Dressler & D.W.Stev.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-458	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		decumbens	Calonje, Meerman, M.P.Griff. & Hoese		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-460	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		disodon	D.W.Stev. & Sabato		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-461	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		dressleri	D.W.Stev.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-462	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		elegantissima	Schutzman, Vovides & R.S.Adams		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-463	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		encephalartoides	D.W.Stev.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-464	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		erosa	O.F.Cook & G.N.Collins		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-465	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		fairchildiana	L.D.Gómez		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-466	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		fischeri	Miq.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-468	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		furfuracea	L.f.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-471	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		gentryi	Dodson		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-472	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		gomeziana	R.H.Acuña		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-473	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		grijalvensis	Pérez-Farr., Vovides & Mart.-Camilo		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-476	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		hamannii	A.S.Taylor, J.L.Haynes & Holzman		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-477	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		herrerae	S.Calderón & Standl.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-479	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		huilensis	Calonje, H.E.Esquivel & D.W.Stev.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-481	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		hymenophyllidia	D.W.Stev.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-482	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		imperialis	A.S.Taylor, J.L.Haynes & Holzman		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-483	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		incognita	A.Lindstr. & Idárraga		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-484	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		inermis	Vovides, J.D.Rees & Vázq.Torres		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-485	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		integrifolia	L.f.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-486	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		ipetiensis	D.W.Stev.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-488	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		katzeriana	(Regel) E.Rettig		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-490	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		lacandona	Schutzman & Vovides		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-496	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		lecointei	Ducke		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-500	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		lindenii	Regel ex André		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-501	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		lindleyi	Warsz. ex A.Dietr.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-826	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		lindosensis	D.W.Stev., D.Cárdenas & N.Castaño		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-502	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		loddigesii	Miq.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-507	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		lucayana	Britton		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-508	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		macrochiera	D.W.Stev.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-511	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		manicata	Linden ex Regel		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-513	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		meermanii	Calonje		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-514	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		melanorrhachis	D.W.Stev.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-516	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		montana	Braun		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-517	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		monticola	Chamb.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-519	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		muricata	Willd.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-434	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		nana	A.Lindstr., Calonje, D.W.Stev. & A.S.Taylor		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-522	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		nesophila	A.S.Taylor, J.L.Haynes & Holzman		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-523	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		neurophyllidia	D.W.Stev.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-526	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		obliqua	A.Braun		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-528	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		oligodonta	E.Calderón & D.W.Stev.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-529	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		onan-reyesii	C.Nelson & Sandoval		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-530	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		oreillyi	C.Nelson		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-830	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		paucifoliolata	Calonje		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-533	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		paucijuga	Wieland		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-535	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		poeppigiana	Mart. & Eichler		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-537	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		portoricensis	Urb.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-539	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		prasina	W.Bull		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-540	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		pseudomonticola	L.D.Gómez ex D.W.Stev. & Sabato		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-541	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		pseudoparasitica	J.Yates		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-542	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		pumila	L.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-544	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		purpurea	Vovides, J.D.Rees & Vázq.Torres		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-545	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		pygmaea	Sims		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-546	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		pyrophylla	Calonje, D.W.Stev. & A.Lindstr.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-547	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		restrepoi	(D.W.Stev.) A.Lindstr.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-548	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		roezlii	Linden		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-549	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		sandovalii	C.Nelson		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-552	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		skinneri	Warsz. ex A.Dietr.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-553	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		soconuscensis	Schutzman, Vovides & Dehgan		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-554	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		spartea	A.DC.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-555	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		splendens	Schutzman		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-556	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		standleyi	Schutzman		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-557	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		stevensonii	A.S.Taylor & Holzman		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-558	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		stricta	Miq.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-561	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		tolimensis	Calonje, H.E.Esquivel & D.W.Stev.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-562	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		tuerckheimii	Donn.Sm.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-563	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		ulei	Dammer		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-565	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		urep	B.Walln.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-566	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		variegata	Warsz.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-567	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		vazquezii	D.W.Stev., Sabato & De Luca		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-8	Plantae	Tracheophyta	Cycadopsida	Cycadales		Zamiaceae	Zamia		wallisii	Braun		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			

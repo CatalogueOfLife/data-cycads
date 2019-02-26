@@ -1,21 +1,21 @@
 AcceptedTaxonID	ParentSpeciesID	InfraSpeciesEpithet	InfraSpeciesAuthorString	InfraSpeciesMarker	GSDNameStatus	Sp2000NameStatus	IsExtinct	HasPreHolocene	HasModern	LifeZone	AdditionalData	LTSSpecialist	LTSDate	InfraSpeciesURL	GSDTaxonGUID	GSDNameGUID
-"574"	"60"	"arnhemica"		"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"61"	"60"	"muninga"	"Chirgwin & K.D.Hill"	"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"62"	"60"	"natja"	"K.D.Hill"	"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"155"	"154"	"lanata"	"K.D.Hill"	"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"575"	"154"	"maconochiei"		"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"156"	"154"	"viridis"	"K.D.Hill"	"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"160"	"159"	"banksii"	"K.D.Hill"	"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"161"	"159"	"ensata"	"K.D.Hill"	"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"576"	"159"	"media"		"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"276"	"275"	"allochrous"	"L.E.Newton"	"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"578"	"275"	"barteri"		"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"659"	"293"	"emersus"	"P.Rousseau, Vorster & A.E.van Wyk"	"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"658"	"293"	"ferox"		"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"350"	"349"	"powysii"	"Miringu & Beentje"	"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"579"	"349"	"tegulaneus"		"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"821"	"485"	"broomei"	"D.B.Ward"	"var."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"822"	"485"	"floridana"	"(A.DC.) D.B.Ward"	"var."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"823"	"485"	"integrifolia"		"var."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"824"	"485"	"silvicola"	"(Small) D.B.Ward"	"var."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
-"825"	"485"	"umbrosa"	"(Small) D.B.Ward"	"var."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
+Cyd-574	60	arnhemica		subsp.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-61	60	muninga	Chirgwin & K.D.Hill	subsp.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-62	60	natja	K.D.Hill	subsp.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-155	154	lanata	K.D.Hill	subsp.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-575	154	maconochiei		subsp.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-156	154	viridis	K.D.Hill	subsp.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-160	159	banksii	K.D.Hill	subsp.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-161	159	ensata	K.D.Hill	subsp.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-576	159	media		subsp.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-276	275	allochrous	L.E.Newton	subsp.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-578	275	barteri		subsp.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-659	293	emersus	P.Rousseau, Vorster & A.E.van Wyk	subsp.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-658	293	ferox		subsp.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-350	349	powysii	Miringu & Beentje	subsp.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-579	349	tegulaneus		subsp.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-821	485	broomei	D.B.Ward	var.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-822	485	floridana	(A.DC.) D.B.Ward	var.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-823	485	integrifolia		var.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-824	485	silvicola	(Small) D.B.Ward	var.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
+Cyd-825	485	umbrosa	(Small) D.B.Ward	var.		1	0	0	1	terrestrial		Calonje M., Stevenson D.W., Osborne R.	Feb 2019			
