@@ -1,28 +1,21 @@
-AcceptedTaxonID	ParentSpeciesID	InfraSpeciesEpithet	AuthorString	InfraSpeciesMarker	GSDNameStatus	Sp2000NameStatus	IsExtinct	HasPreHolocene	HasModern	LifeZone	AdditionalData	LTSSpecialists	LTSDate	InfraSpeciesURL	GSDTaxonGUID	GSDNameGUID
-574	60	arnhemica		subsp.		1	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-61	60	muninga	Chirgwin & K.D.Hill	subsp.		1	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-62	60	natja	K.D.Hill	subsp.		1	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-89	87	gothanii	J.Schust.	f.		4	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-155	154	lanata	K.D.Hill	subsp.		1	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-575	154	maconochiei		subsp.		1	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-156	154	viridis	K.D.Hill	subsp.		1	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-160	159	banksii	K.D.Hill	subsp.		1	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-161	159	ensata	K.D.Hill	subsp.		1	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-576	159	media		subsp.		1	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-276	275	allochrous	L.E.Newton	subsp.		1	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-578	275	barteri		subsp.		1	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-659	293	emersus	P.Rousseau, Vorster & A.E.van Wyk	subsp.		1	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-658	293	ferox		subsp.		1	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-350	349	powysii	Miringu & Beentje	subsp.		1	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-579	349	tegulaneus		subsp.		1	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-731	358	amplicatus	W.Bull	var.		4	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-733	379	gyrata	W.Bull	var.		4	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-736	423	eburnea	W.Bull	var.		4	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-732	423	princeps	W.Bull	var.		4	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-821	485	broomei	D.B.Ward	var.		1	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-822	485	floridana	(A.DC.) D.B.Ward	var.		1	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-823	485	integrifolia		var.		1	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-824	485	silvicola	(Small) D.B.Ward	var.		1	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-825	485	umbrosa	(Small) D.B.Ward	var.		1	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-781	512	gutierrezii	(Sauvalle) J.Schust.	var.		4	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
-782	512	jacquiniana	J.Schust.	var.		4	0	0	1			Calonje M., Stanberg L. & Stevenson D.	2019-02-15			
+AcceptedTaxonID	ParentSpeciesID	InfraSpeciesEpithet	InfraSpeciesAuthorString	InfraSpeciesMarker	GSDNameStatus	Sp2000NameStatus	IsExtinct	HasPreHolocene	HasModern	LifeZone	AdditionalData	LTSSpecialist	LTSDate	InfraSpeciesURL	GSDTaxonGUID	GSDNameGUID
+"574"	"60"	"arnhemica"		"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
+"61"	"60"	"muninga"	"Chirgwin & K.D.Hill"	"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
+"62"	"60"	"natja"	"K.D.Hill"	"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
+"155"	"154"	"lanata"	"K.D.Hill"	"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
+"575"	"154"	"maconochiei"		"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
+"156"	"154"	"viridis"	"K.D.Hill"	"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
+"160"	"159"	"banksii"	"K.D.Hill"	"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
+"161"	"159"	"ensata"	"K.D.Hill"	"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
+"576"	"159"	"media"		"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
+"276"	"275"	"allochrous"	"L.E.Newton"	"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
+"578"	"275"	"barteri"		"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
+"659"	"293"	"emersus"	"P.Rousseau, Vorster & A.E.van Wyk"	"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
+"658"	"293"	"ferox"		"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
+"350"	"349"	"powysii"	"Miringu & Beentje"	"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
+"579"	"349"	"tegulaneus"		"subsp."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
+"821"	"485"	"broomei"	"D.B.Ward"	"var."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
+"822"	"485"	"floridana"	"(A.DC.) D.B.Ward"	"var."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
+"823"	"485"	"integrifolia"		"var."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
+"824"	"485"	"silvicola"	"(Small) D.B.Ward"	"var."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			
+"825"	"485"	"umbrosa"	"(Small) D.B.Ward"	"var."		"1"	"0"	"0"	"1"	"terrestrial"		"Calonje M., Stevenson D.W., Osborne R."	"Feb 2019"			

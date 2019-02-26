@@ -38,14 +38,16 @@ SELECT
        SPNUMBER AS ID,
        SPNUMBER AS nameID,
        IF (TAXSTAT IN ('?', 'dub'), True, False) AS provisional,
-       'Calonje M., Stanberg L. & Stevenson D.' AS accordingTo,
-       '0000-0001-9650-3136;;0000-0002-2986-7076' AS accordingToID,
+       'Calonje M., Stevenson D.W., Osborne R.' AS accordingTo,
+       '0000-0001-9650-3136; 0000-0002-2986-7076; ' AS accordingToID,
        '2019-02-15' AS accordingToDate,
        False AS fossil,
        True AS recent,
+       'terrestrial' AS lifezone,
        'Plantae' AS kingdom,
        'Tracheophyta' AS phylum,
        'Cycadopsida' AS class,
+       'Cycadales' AS `order`,
        GENUS AS genus,
        FAMILY AS family
 FROM WorkDB_Cycads.COL_Cycads WHERE TAXSTAT IN ('acc', 'dub', 'hyb', '?');
