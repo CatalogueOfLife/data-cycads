@@ -35,20 +35,20 @@ Cyd-90	Cyd-233	Cycas		circinalis		undulata	f.	(Hort. ex Gaudich.) J.Schust.		5
 Cyd-685	Cyd-87	Cycas		circinalis		circinalis	subsp.			5	
 Cyd-722	Cyd-91	Cycas		circinalis		madagascariensis	subsp.			5	
 Cyd-92	Cyd-228	Cycas		circinalis		madagascariensis	subsp.	(Miq.) J.Schust.		5	
-Cyd-93	Cyd-181	Cycas		circinalis		papuana	subsp.	(F.Muell.) J.Schust.		5	
+Cyd-93	Cyd-181	Cycas		circinalis		papuana	subsp.	(F.Muell.) J.Schust.		2	
 Cyd-723	Cyd-93	Cycas		circinalis		papuana	subsp.			5	
-Cyd-94	Cyd-205	Cycas		circinalis		papuana	subsp.	(F.Muell.) J.Schust.		5	
-Cyd-95	Cyd-196	Cycas		circinalis		riuminiana	subsp.	(Porte ex Regel) J.Schust.		5	
-Cyd-96	Cyd-84	Cycas		circinalis		riuminiana	subsp.	(Porte ex Regel) J.Schust.		5	
-Cyd-97	Cyd-235	Cycas		circinalis		riuminiana	subsp.	(Porte ex Regel) J.Schust.		5	
-Cyd-98	Cyd-115	Cycas		circinalis		riuminiana	subsp.	(Porte ex Regel) J.Schust.		5	
-Cyd-99	Cyd-120	Cycas		circinalis		riuminiana	subsp.	(Porte ex Regel) J.Schust.		5	
+Cyd-94	Cyd-205	Cycas		circinalis		papuana	subsp.	(F.Muell.) J.Schust.		2	
+Cyd-95	Cyd-196	Cycas		circinalis		riuminiana	subsp.	(Porte ex Regel) J.Schust.		2	
+Cyd-96	Cyd-84	Cycas		circinalis		riuminiana	subsp.	(Porte ex Regel) J.Schust.		2	
+Cyd-97	Cyd-235	Cycas		circinalis		riuminiana	subsp.	(Porte ex Regel) J.Schust.		2	
+Cyd-98	Cyd-115	Cycas		circinalis		riuminiana	subsp.	(Porte ex Regel) J.Schust.		2	
+Cyd-99	Cyd-120	Cycas		circinalis		riuminiana	subsp.	(Porte ex Regel) J.Schust.		2	
 Cyd-724	Cyd-95	Cycas		circinalis		riuminiana	subsp.			5	
 Cyd-100	Cyd-206	Cycas		circinalis		seemannii	subsp.	(Regalado) J.Schust.		5	
 Cyd-101	Cyd-228	Cycas		circinalis		thouarsii	subsp.	(R.Br. ex Gaudich.) Engl.		5	
-Cyd-726	Cyd-87	Cycas		circinalis		vera	subsp.	J.Schust.		5	
-Cyd-102	Cyd-67	Cycas		circinalis		vera	subsp.	J.Schust.		5	
-Cyd-103	Cyd-183	Cycas		circinalis		vera	subsp.	J.Schust.		5	
+Cyd-726	Cyd-87	Cycas		circinalis		vera	subsp.	J.Schust.		2	
+Cyd-102	Cyd-67	Cycas		circinalis		vera	subsp.	J.Schust.		2	
+Cyd-103	Cyd-183	Cycas		circinalis		vera	subsp.	J.Schust.		2	
 Cyd-725	Cyd-726	Cycas		circinalis		vera	subsp.			5	
 Cyd-104	Cyd-87	Cycas		circinalis		angustifolia	var.	Miq.		5	
 Cyd-686	Cyd-87	Cycas		circinalis		circinalis	var.			5	
@@ -293,8 +293,8 @@ Cyd-457	Cyd-542	Zamia		debilis	L.f.					5
 Cyd-459	Cyd-485	Zamia		dentata	Voigt					5	
 Cyd-467	Cyd-485	Zamia		floridana	A.DC.					5	
 Cyd-716	Cyd-467	Zamia		floridana		floridana	var.			5	
-Cyd-787	Cyd-467	Zamia		floridana		purshiana	var.	J.Schust.		5	
-Cyd-788	Cyd-551	Zamia		floridana		purshiana	var.	J.Schust.		5	
+Cyd-787	Cyd-467	Zamia		floridana		purshiana	var.	J.Schust.		2	
+Cyd-788	Cyd-551	Zamia		floridana		purshiana	var.	J.Schust.		2	
 Cyd-242	Cyd-564	Zamia		floridana		umbrosa	var.	(Small) D.B.Ward		5	
 Cyd-717	Cyd-468	Zamia		furfuracea		furfuracea	var.			5	
 Cyd-469	Cyd-468	Zamia		furfuracea		trewii	var.	Miq.		5	
@@ -320,8 +320,8 @@ Cyd-506	Cyd-321	Zamia		longifolia	Jacq.					5
 Cyd-509	Cyd-511	Zamia		madida	R.E.Schult.					5	
 Cyd-510	Cyd-248	Zamia		maelenii	Miq.					5	
 Cyd-512	Cyd-485	Zamia		media	Jacq.					5	
-Cyd-775	Cyd-542	Zamia		media		commeliniana	var.	J.Schust.		5	
-Cyd-777	Cyd-550	Zamia		media		commeliniana	var.	J.Schust.		5	
+Cyd-775	Cyd-542	Zamia		media		commeliniana	var.	J.Schust.		2	
+Cyd-777	Cyd-550	Zamia		media		commeliniana	var.	J.Schust.		2	
 Cyd-780	Cyd-475	Zamia		media		gutierrezii	var.	(Sauvalle) J.Schust.		5	
 Cyd-776	Cyd-512	Zamia		media		jacquiniana	var.	J.Schust.		5	
 Cyd-779	Cyd-537	Zamia		media		portoricensis	var.	(Urb.) J.Schust.		5	
@@ -331,7 +331,7 @@ Cyd-518	Cyd-441	Zamia		multifoliolata	A.DC.					5
 Cyd-520	Cyd-519	Zamia		muricata		angustifolia	var.	Miq.		5	
 Cyd-720	Cyd-519	Zamia		muricata		muricata	var.			5	
 Cyd-521	Cyd-493	Zamia		muricata		obtustifolia	var.	Miq.		5	
-Cyd-435	Cyd-303	Zamia		nana	de Vriese					5	
+Cyd-435	Cyd-303	Zamia		nana	de Vriese					2	
 Cyd-525	Cyd-496	Zamia		obidensis	Ducke					5	
 Cyd-531	Cyd-545	Zamia		ottonis	Miq.					5	
 Cyd-582	Cyd-535	Zamia		parasitica	Poepp. ex Eichler					5	
