@@ -3,7 +3,7 @@ CREATE SCHEMA ACEF_Cycads CHARSET utf8 COLLATE utf8_general_ci;
 
 DROP TABLE IF EXISTS ACEF_Cycads.`References`;
 CREATE TABLE ACEF_Cycads.`References`
-SELECT SPNUMBER AS ReferenceID,
+SELECT CONCAT('Cyd-Ref-', SPNUMBER) AS ReferenceID,
        TRIM(IF(SP2 IS NULL, SUBSTRING_INDEX(SUBSTRING_INDEX(AUTHOR1, ')', 2), ')', -1), SUBSTRING_INDEX(SUBSTRING_INDEX(AUTHOR2, ')', 2), ')', -1))) AS Authors,
        YEAR AS Year,
        NULL AS Title,
@@ -12,14 +12,14 @@ FROM WorkDB_Cycads.COL_Cycads;
 
 DROP TABLE IF EXISTS ACEF_Cycads.`NameReferencesLinks`;
 CREATE TABLE ACEF_Cycads.`NameReferencesLinks`
-SELECT SPNUMBER AS ID,
+SELECT CONCAT('Cyd-', SPNUMBER) AS ID,
        'NomRef' AS ReferenceType,
-       SPNUMBER AS ReferenceID
+       CONCAT('Cyd-Ref-', SPNUMBER) AS ReferenceID
 FROM WorkDB_Cycads.COL_Cycads;
 
 DROP TABLE IF EXISTS ACEF_Cycads.AcceptedSpecies;
 CREATE TABLE ACEF_Cycads.AcceptedSpecies
-SELECT SPNUMBER                                                       AS AcceptedTaxonID,
+SELECT CONCAT('Cyd-', SPNUMBER)                                       AS AcceptedTaxonID,
        'Plantae'                                                      AS Kingdom,
        'Tracheophyta'                                                 AS Phylum,
        'Cycadopsida'                                                  AS Class,
@@ -39,7 +39,7 @@ SELECT SPNUMBER                                                       AS Accepte
        IF(TAXSTAT = 'hyb', CONCAT('Hybrid formula: ', SPECIES), NULL) AS AdditionalData,
        'Calonje M., Stevenson D.W., Osborne R.'                       AS LTSSpecialist,
        'Feb 2019'                                                     AS LTSDate,
-       NULL                                                           AS SpeciesURL,
+       CONCAT('http://cycadlist.org/taxon.php?Taxon_ID=', SPNUMBER)   AS SpeciesURL,
        NULL                                                           AS GSDTaxonGUID,
        NULL                                                           AS GSDNameGUID
 FROM WorkDB_Cycads.COL_Cycads
@@ -49,8 +49,8 @@ WHERE TAXSTAT IN ('acc')
 
 DROP TABLE IF EXISTS ACEF_Cycads.AcceptedInfraSpecificTaxa;
 CREATE TABLE ACEF_Cycads.AcceptedInfraSpecificTaxa
-SELECT INFRA.SPNUMBER                                                             AS AcceptedTaxonID,
-       SP.SPNUMBER                                                                AS ParentSpeciesID,
+SELECT CONCAT('Cyd-', INFRA.SPNUMBER)                                             AS AcceptedTaxonID,
+       CONCAT('Cyd-', SP.SPNUMBER)                                                AS ParentSpeciesID,
        INFRA.SP2                                                                  AS InfraSpeciesEpithet,
        INFRA.AUTHOR2                                                              AS InfraSpeciesAuthorString,
        INFRA.RANK1                                                                AS InfraSpeciesMarker,
@@ -63,7 +63,7 @@ SELECT INFRA.SPNUMBER                                                           
        IF(INFRA.TAXSTAT = 'hyb', CONCAT('Hybrid formula: ', INFRA.SPECIES), NULL) AS AdditionalData,
        'Calonje M., Stevenson D.W., Osborne R.'                                   AS LTSSpecialist,
        'Feb 2019'                                                                 AS LTSDate,
-       NULL                                                                       AS InfraSpeciesURL,
+       CONCAT('http://cycadlist.org/taxon.php?Taxon_ID=', SPNUMBER)               AS InfraSpeciesURL,
        NULL                                                                       AS GSDTaxonGUID,
        NULL                                                                       AS GSDNameGUID
 FROM WorkDB_Cycads.COL_Cycads SP
@@ -75,8 +75,8 @@ WHERE INFRA.TAXSTAT IN ('acc')
 
 DROP TABLE IF EXISTS ACEF_Cycads.Synonyms;
 CREATE TABLE ACEF_Cycads.Synonyms
-SELECT SPNUMBER AS ID,
-       SYNOF AS AcceptedTaxonID,
+SELECT CONCAT('Cyd-', SPNUMBER) AS ID,
+       CONCAT('Cyd-', SYNOF) AS AcceptedTaxonID,
        GENUS AS Genus,
        NULL AS SubGenusName,
        SP1 AS SpeciesEpithet,
@@ -91,7 +91,7 @@ FROM WorkDB_Cycads.COL_Cycads WHERE TAXSTAT='syn' OR (TAXSTAT = 'inv' AND SYNOF 
 
 DROP TABLE IF EXISTS ACEF_Cycads.Distribution;
 CREATE TABLE ACEF_Cycads.Distribution
-SELECT SPNUMBER AS AcceptedTaxonID,
+SELECT CONCAT('Cyd-', SPNUMBER) AS AcceptedTaxonID,
        COUNTRY AS DistributionElement,
        'text' AS StandardInUse,
        NULL AS DistributionStatus
