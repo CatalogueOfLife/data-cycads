@@ -44,6 +44,7 @@ SELECT
        False AS fossil,
        True AS recent,
        'terrestrial' AS lifezone,
+       CONCAT('http://cycadlist.org/taxon.php?Taxon_ID=', SPNUMBER) AS link,
        'Plantae' AS kingdom,
        'Tracheophyta' AS phylum,
        'Cycadopsida' AS class,
